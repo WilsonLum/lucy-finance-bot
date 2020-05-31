@@ -1,0 +1,874 @@
+stock sentiments for fb	9
+related news for intc	2
+dia latest news	2
+you are dismissed	31
+stock sentiments for msft	9
+much better	49
+what is the price prediction for twitter for the next 3 days	8
+movement prediction for aapl for the next 3 days	8
+remove apple from my watchlist	13
+i'm not in the mood for chatting	80
+amd to my stocklist	11
+not a good one	48
+this is great	49
+you're incredibly annoying	18
+daily news for the watchlist	5
+delist dow from my watchlist	13
+last price for amazon	0
+what are the trending topics for amd	4
+pop tsla out of my watchlist	13
+news for tesla	2
+are you so busy	26
+bye	65
+what are the trending news for fb	4
+apple price	0
+latest news on amd	2
+expected price movement for facebook for the next 3 days	8
+prediction for spider	8
+what do you suggest	93
+i do not want twitter in my watchlist	13
+movement prediction for google	8
+i'm really lonely	89
+can i get the sentiments for intel	9
+fb latest news	2
+you are very intelligent	29
+add google to my watchlist	11
+include in my watchlist	11
+social media sentiments for dow	9
+answering questions	19
+sentiment analysis for tesla	9
+amazon latest news	2
+expected price movement for intel	8
+prediction of stock movement for msft	8
+what are the sentiments for fb	9
+prediction for msft	8
+can i speak	100
+good to know each other	71
+stock sentiments for apple	9
+i do not want googl in my watchlist	13
+you are good at it	33
+now price for google	0
+i want to delete intc from my watchlist	13
+what are the sentiments for amzn	9
+you're so welcome	52
+movement prediction for amazon for the next 3 days	8
+amazon sentimental analysis	9
+not exactly	55
+that was awesome	49
+wait	57
+please add twitter to my watchlist	11
+it's really bad	48
+stock prediction for amd	8
+prediction of stock movement for baba	8
+current price for spy	0
+i want to say sorry	60
+what are the popular topics for tesla	4
+are you insane	30
+can i have the news for amazon	2
+what are the trending topics for twtr	4
+i dont want twitter in my watchlist	13
+what is the price prediction for apple for the next 3 days	8
+stop it	54
+get dow out of my watchlist	13
+what are the popular topics for intc	4
+what are the trending news for twtr	4
+but i like you so much	88
+i like the way you look	22
+can i have the price for tesla?	0
+what is the extected price movement for twitter for the next 3 days	8
+add facebook to my watchlist	11
+discard intc	13
+last price for intel	0
+you're great	33
+add to my watchlist	11
+whazzup	74
+get me the current price for alibaba	0
+you are very lovely	33
+what is the current price for dow?	0
+delete dowjones from my watchlist	13
+you are gorgeous	22
+news feed from tesla	2
+no problem about that	50
+i am testing you	96
+what is the latest news for alibaba	2
+can i get the sentiments for twitter	9
+prediction of stock movement for dowjones	8
+expected price movement for twtr for the next 3 days	8
+prediction of stock movement for dia	8
+last price for alibaba	0
+google latest news	2
+nah	55
+please remove dia from my watchlist	13
+i am here	86
+add msft to my watchlist	11
+need your help	27
+get me the current price for spider	0
+sentiments for facebook	9
+which stock will give the most retuns of investment	7
+baba price	0
+are you my best friend	38
+facebook sentiments	9
+i'm not talking to you anymore	80
+now price for baba	0
+would you like to marry me	37
+how are you going	70
+include fb in my watchlist	11
+news for microsoft	2
+dowjones price	0
+last price for microsoft	0
+news feed from google	2
+include google in my watchlist	11
+do you work	39
+what are the popular news for tsla	4
+please include to my watchlist	11
+what is the price prediction for dow for the next 3 days	8
+msft news	2
+topics that are affecting the market	4
+what are the sentiments for google	9
+brilliant	29
+please delete facebook from my watchlist	13
+that was not good	48
+i love you	91
+how excited i am	81
+i said cancel it	54
+prediction for tsla movement for the next 3 days	8
+what is the current price for facebook?	0
+i want intel in my watchlist	11
+movement prediction for apple for the next 3 days	8
+can you advise me	93
+news for twitter	2
+i know that's right	44
+i want to tell everyone how awesome you are	33
+what are the sentiments for twtr	9
+delist aapl from my watchlist	13
+remove alibaba	13
+what is the extected price movement for dow for the next 3 days	8
+hugged	58
+no it's not	55
+discard msft	13
+social media sentiments for intc	9
+include apple in my watchlist	11
+i love you marry me	37
+please add dow to my watchlist	11
+get apple out of my watchlist	13
+stock with good sentiments	7
+remove all stocks	12
+what is the latest news for intel	2
+get me the price for microsoft	0
+no it isn't	55
+what are the recent trending topics for the past tomorrow days?	4
+sentiment analysis for intel	9
+last price for spy	0
+intc predictions	8
+fb sentiments	9
+sentiment analysis for dowjones	9
+where were you born	40
+now price for fb	0
+i want to delete spider from my watchlist	13
+it's not so good	48
+add to my watchlist	11
+can i have the news for spy	2
+which stock can give me the most profit	7
+hello there	69
+news for amazon	2
+clear my watchlist	12
+can i have the news for amd	2
+price of amzn	0
+please remove spider from my watchlist	13
+get me the price for microsoft	0
+stock prediction for intel	8
+still waiting	98
+news for aapl	2
+are you okay	70
+add amd to my watchlist	11
+could you be my friend	38
+i dont want tesla in my watchlist	13
+what is the expected price for spider	8
+social media sentiments for baba	9
+facebook predictions	8
+what is the extected price movement for amazon for the next 3 days	8
+baba predictions	8
+movement prediction for dow	8
+please remove amzn from my watchlist	13
+testing	96
+good	49
+be my best friend	38
+discard alibaba	13
+what are the trending news for facebook	4
+hahaha very funny	63
+apology	60
+how are you doing this morning	70
+please delete intel from my watchlist	13
+what is the current price for baba?	0
+what is happening	74
+add to my watchlist	11
+please add alibaba to my watchlist	11
+what are the sentiments for twitter	9
+twitter latest news	2
+get amzn out of my watchlist	13
+great thank you	51
+are you talking to me	46
+get qualified	21
+what are the popular news for amazon	4
+right	56
+i want amazon in my watchlist	11
+what stock should i sell today?	6
+it's amazing	49
+prediction for intel	8
+of course i like you	88
+what are the trending topics for amd	4
+apple latest news	2
+hey there	69
+apple sentiment analysis	9
+news for twtr	2
+you are the best	33
+what is the current price for msft?	0
+which brings me the max profit if i short sell 3?	6
+how can you help me?	1
+remove dia from my watchlist	13
+msft	15
+latest news on amzn	2
+you look great	22
+can i get the sentiments for amzn	9
+price of dow	0
+i want aapl in my watchlist	11
+movement prediction for twtr	8
+what is the extected price movement for msft for the next 3 days	8
+what are the sentiments for facebook	9
+what is the expected price for tsla	8
+what is the price prediction for alibaba for the next 3 days	8
+dow jones	15
+it's a joke	87
+speak with me	46
+news feed from dowjones	2
+it is good	49
+tsla predictions	8
+what are the trending news for aapl	4
+get me the price for dia	0
+dow price	0
+include amd in my watchlist	11
+what is the price prediction for microsoft for the next 3 days	8
+you are so cute	22
+what are the sentiments for apple	9
+expected price movement for alibaba for the next 3 days	8
+prediction of stock movement for amazon	8
+add to my watchlist	11
+what are your hobbies	35
+sentiment analysis for alibaba	9
+dow	15
+prediction of stock movement for alibaba	8
+news for amd	2
+i'm already here	86
+baba news	2
+what is the latest news for twitter	2
+expected price movement for apple	8
+last price for fb	0
+news for facebook	2
+well thanks	51
+current price for spider	0
+remove microsoft	13
+delete twitter	13
+what are the trending news for amazon	4
+price of alibaba	0
+movement prediction for amd	8
+delete amd	13
+movement prediction for intc for the next 3 days	8
+latest news on baba	2
+thanks but no thanks	55
+apple predictions	8
+include in my watchlist	11
+amd to my stocklist	11
+add to my watchlist	11
+add spy to my watchlist	11
+expected price movement for tsla for the next 3 days	8
+it's good	49
+please remove googl from my watchlist	13
+what are the popular topics for dia	4
+can i have the price for baba?	0
+prediction for amd	8
+what are the popular news for intc	4
+i am your friend	38
+please add intel to my watchlist	11
+what is the price prediction for amd for the next 3 days	8
+delete twitter from my watchlist	13
+current price for aapl	0
+don't	55
+i need an advice from you	93
+please remove amazon from my watchlist	13
+tell me about your city	43
+please include to my watchlist	11
+stock prediction for spider	8
+you're full of happiness	34
+add microsoft to my watchlist	11
+have a nice morning	67
+twitter	15
+aapl sentiment analysis	9
+what are the popular news for tesla	4
+baba	15
+expected price movement for microsoft	8
+talk with me	46
+never mind bye	65
+get me the price for amd	0
+prediction for fb movement for the next 3 days	8
+not right	62
+prediction for tesla	8
+stocktwits watchlsit sentiments	10
+expected price movement for amazon	8
+get me the current price for spy	0
+intel sentimental analysis	9
+what are the trending news for intel	4
+current price for intel	0
+hugged me	58
+what is the price prediction for spy for the next 3 days	8
+tsla	15
+i dont want facebook in my watchlist	13
+now price for intc	0
+delist microsoft from my watchlist	13
+get me the price for facebook	0
+twitter news	2
+you are too beautiful	22
+i'm happy to help	84
+do you have a hobby	35
+please add alibaba to my watchlist	11
+related news for spy	2
+delete intel	13
+super	49
+what is the price prediction for aapl for the next 3 days	8
+that's nice of you	49
+no incorrect	55
+i want msft in my watchlist	11
+i like your smile	88
+what is the expected price for twitter	8
+what are the popular news for fb	4
+expected price movement for tesla	8
+facebook news feed	2
+get googl out of my watchlist	13
+nice to see you again	72
+include twitter in my watchlist	11
+it's the truth	44
+add spider to my watchlist	11
+may i get the current price for apple?	0
+yes this is correct	56
+current price for amd	0
+that's not right	62
+no cancel everything	54
+i like you already	88
+delist intel from my watchlist	13
+what is the current price for dia?	0
+great job	53
+get me the current price for google	0
+add amzn to my watchlist	11
+where are you from	40
+movement prediction for intc	8
+delete microsoft	13
+are we best friends	38
+what is the movement expected for microsoft for the next few days	8
+get intel out of my watchlist	13
+related news for amazon	2
+what are the popular topics for intel	4
+what is the latest news for tesla	2
+you are boring me	24
+movement prediction for msft	8
+can i have the price for microsoft?	0
+expected price movement for tesla for the next 3 days	8
+good tonight	68
+fb news feed	2
+very well	49
+add to my watchlist	11
+terrific thank you	51
+that's fine	49
+are you very busy	26
+i don't want to talk to you	80
+spider predictions	8
+i can't wait anymore	98
+google sentiments	9
+you're absolutely right	44
+hello again	69
+you are very special	88
+price of amd	0
+expected price movement for msft	8
+what is the current price for intel?	0
+i want to delete twitter from my watchlist	13
+what is the latest news for microsoft	2
+glad to see you too	72
+can i have the price for amd?	0
+good night for now	68
+that was boring	77
+well thank you	51
+i want to cancel it	54
+i want to add tsla to my watchlist	11
+get me the price for spider	0
+please include to my watchlist	11
+no that's wrong	55
+i said cancel cancel	54
+advise me	93
+are you hungry	36
+social media sentiments for twitter	9
+when do you celebrate your birthday	23
+what are the popular news for microsoft	4
+your town	43
+what are the popular news for tsla	4
+can i get the sentiments for spy	9
+what is the current price for amd?	0
+appl	15
+msft sentimental analysis	9
+what are the popular news for alibaba	4
+please add google to my watchlist	11
+it's nice to talk to you	73
+get me the current price for amd	0
+you are wonderful	33
+sentiment analysis for google	9
+can you give me advice	93
+you are so good	33
+not interested	55
+intel sentimental analysis	9
+hi there	69
+how can i make most profit in the next 5 days?	7
+amd sentimental analysis	9
+what are the trending news for alibaba	4
+add twitter to my watchlist	11
+which stock should i not hold?	6
+that s okay	56
+you look so good	22
+can i have the news for tesla	2
+spider	15
+may i get the current price for googl?	0
+it's time to go to bed	82
+amd to my stocklist	11
+get lost	65
+what are the popular news for apple	4
+i was just joking	87
+amazon sentiment analysis	9
+stop	54
+ok good	49
+you are really beautiful	22
+discard fb	13
+can i ask for your advice	93
+latest news on aapl	2
+delist google	13
+social media sentiments for intel	9
+afternoon	69
+expected price movement for spider	8
+prediction for microsoft movement for the next 3 days	8
+ahaha	63
+what are the popular topics for intel	4
+amd news feed	2
+please add dow to my watchlist	11
+what are the sentiments for amd	9
+movement prediction for amd for the next 3 days	8
+can i have the news for dowjones	2
+get me the price for tesla	0
+delete dia	13
+what are the sentiments for alibaba	9
+stock prediction for tesla	8
+add to my watchlist	11
+sorry i like you	88
+what are the popular topics for google	4
+hot topics online for the past today days	4
+social media sentiments for microsoft	9
+pop apple out of my watchlist	13
+latest news on twitter	2
+add to my watchlist	11
+movement prediction for intel for the next 3 days	8
+please delete alibaba from my watchlist	13
+good evening	66
+you are good	33
+what is the current price for facebook?	0
+what are the sentiments for tesla	9
+related news for fb	2
+remove twtr from my watchlist	13
+may i get the current price for amzn?	0
+now price for twitter	0
+have a great morning	67
+are you alright	70
+please add apple to my watchlist	11
+please delete alibaba from my watchlist	13
+time for us to go to bed	82
+pop microsoft out of my watchlist	13
+why are you so smart	29
+please add intc to my watchlist	11
+delete facebook	13
+prediction for apple movement for the next 3 days	8
+current price for dow	0
+let's not talk	80
+dowjones to my stocklist	11
+okie dokie	56
+yes i agree	56
+delete alibaba	13
+pop intel out of my watchlist	13
+movement prediction for twitter	8
+delist amd from my watchlist	13
+please delete apple from my watchlist	13
+sentiments for tesla	9
+what are the popular topics for apple	4
+what are the popular topics for google	4
+please include to my watchlist	11
+what are the trending topics for tsla	4
+hahaha funny	63
+sentiment analysis for microsoft	9
+tesla	15
+don t have a sense	55
+what is the extected price movement for baba for the next 3 days	8
+hello good evening	66
+prediction of stock movement for twitter	8
+what is the extected price movement for fb for the next 3 days	8
+intel sentiment analysis	9
+remove intc from my watchlist	13
+please include to my watchlist	11
+amzn	15
+intel news	2
+i dont want intc in my watchlist	13
+can i have the price for twtr?	0
+market talks for the past tomorrow days	4
+please add spy to my watchlist	11
+sentimental analysis for dow	9
+delist googl	13
+i appreciate it	51
+but i really like you	88
+expected price movement for amazon for the next 3 days	8
+nice work	53
+let's go to bed	82
+include microsoft in my watchlist	11
+what do i look like	90
+delete tesla from my watchlist	13
+that's why i like you	88
+what are the popular topics for aapl	4
+expected price movement for microsoft	8
+hello good morning	67
+amazon to my stocklist	11
+movement prediction for apple	8
+get me the price for apple	0
+amzn to my stocklist	11
+what is the expected price for amd	8
+movement prediction for google for the next 3 days	8
+what does this bot do?	1
+i like you as you are	88
+you have a lot of knowledge	29
+can i have the news for tsla	2
+i do not want intel in my watchlist	13
+glad you're real	42
+add baba to my watchlist	11
+what was your day like	70
+that was bad	48
+can i have the news for microsoft	2
+i want to cancel	54
+get me the list of stocks which is bullish	7
+expected price movement for googl for the next 3 days	8
+tsla latest news	2
+intel sentiments	9
+can i get the sentiments for tsla	9
+how good it is to see you	72
+delete fb	13
+news for baba	2
+apple news feed	2
+what is the movement expected for googl for the next few days	8
+what is the expected price for msft	8
+i like you a lot	88
+what is the price prediction for amazon for the next 3 days	8
+chat with me	46
+stock sentiments for aapl	9
+i want to delete baba from my watchlist	13
+what is the movement expected for spider for the next few days	8
+forget	54
+no thank you though	55
+please delete apple from my watchlist	13
+what are the popular topics for tsla	4
+i do not want google in my watchlist	13
+twitter predictions	8
+facebook news	2
+pop amzn out of my watchlist	13
+that's sweet of you	49
+i think i like you	88
+what are the trending topics for facebook	4
+i do not want apple in my watchlist	13
+i like you so much	88
+expected price movement for spy	8
+i've missed you	92
+sentiment analysis for fb	9
+thnx	51
+remove amd from my watchlist	13
+that is ok	56
+stock prediction for google	8
+prediction for amazon movement for the next 3 days	8
+can i see you again	99
+i'm excited about working with you	81
+list of bearish stocks	6
+no but thank you	55
+are you a real human	42
+what is the current price for twtr?	0
+what are the popular topics for amzn	4
+i dont want microsoft in my watchlist	13
+prediction of stock movement for intel	8
+be smarter	21
+what are the popular topics for amazon	4
+include in my watchlist	11
+tesla predictions	8
+can i have the news for twtr	2
+that's fine	49
+add to my watchlist	11
+pleasant	49
+can i have the price for googl?	0
+amd predictions	8
+movement prediction for spider for the next 3 days	8
+add to my watchlist	11
+you look fantastic	22
+please remove twitter from my watchlist	13
+i want tesla in my watchlist	11
+movement prediction for apple for the next 3 days	8
+amzn sentimental analysis	9
+can i get the sentiments for amazon	9
+expected price movement for amd for the next 3 days	8
+talk	46
+last price for intel	0
+you can help me	27
+you're the worst ever	20
+related news for google	2
+what is the current price for alibaba?	0
+remove tesla from my watchlist	13
+expected price movement for amzn for the next 3 days	8
+are you working today	26
+you are looking so good	22
+can you answer	19
+i adore you	91
+remove aapl	13
+social media sentiments for facebook	9
+discard amazon	13
+i do not want amd in my watchlist	13
+could you give me a hand	27
+how's life	70
+pop tesla out of my watchlist	13
+what are the popular topics for facebook	4
+may i get the current price for google?	0
+what are the popular topics for alibaba	4
+that's it goodbye	65
+your house	43
+expected price movement for google for the next 3 days	8
+include aapl in my watchlist	11
+what's happened	74
+movement prediction for googl for the next 3 days	8
+i do not care	59
+now price for tesla	0
+include tsla in my watchlist	11
+sentiments for google	9
+ok bye	65
+intc	15
+good night see you tomorrow	68
+what are the trending topics for dow	4
+sentimental analysis for tesla	9
+get me the current price for spider	0
+add dowjones to my watchlist	11
+delist spider from my watchlist	13
+i do not want alibaba in my watchlist	13
+include in my watchlist	11
+answer me	19
+i could use some advice	93
+what is the latest news for dia	2
+hi good morning	67
+hey what's up	74
+i like you just the way you are	88
+i'd like to see you again	99
+remove all from my watchlist	12
+what are the popular topics for tesla	4
+include amd in my watchlist	11
+last price for amzn	0
+what is the price prediction for spider for the next 3 days	8
+i want you to be my friend	38
+i do not want twitter in my watchlist	13
+add facebook to my watchlist	11
+sentimental analysis for tsla	9
+you are so attractive	22
+spider latest news	2
+microsoft latest news	2
+i promise to come back	101
+please remove dow from my watchlist	13
+can i get the sentiments for amazon	9
+delist amazon from my watchlist	13
+dia	15
+microsoft news feed	2
+how do i look	90
+loving you	91
+are you still working	26
+here i am	86
+news for tesla	2
+prediction of stock movement for aapl	8
+how is your day being	70
+dowjones sentimental analysis	9
+sentimental analysis for msft	9
+you are so amazing	33
+dismissed	54
+good morning	67
+i want facebook in my watchlist	11
+get me the price for alibaba	0
+sentiments for dia	9
+intc price	0
+ha ha	63
+stock sentiments for microsoft	9
+facebook sentimental analysis	9
+what is the price prediction for googl for the next 3 days	8
+what is the movement expected for apple for the next few days	8
+intc latest news	2
+well too bad	48
+twtr predictions	8
+can i get the sentiments for tesla	9
+fantastic	49
+what are the popular news for apple	4
+prediction of stock movement for amd	8
+are you very busy right now	26
+please remove amd from my watchlist	13
+good night to you	68
+facebook sentiment analysis	9
+spider sentimental analysis	9
+dia news feed	2
+intel latest news	2
+what is up	74
+news for spider	2
+not at this time	55
+price of baba	0
+delist dia from my watchlist	13
+i am tired	97
+you're bad	20
+movement prediction for alibaba for the next 3 days	8
+what are the sentiments for alibaba	9
+may i get the current price for dow?	0
+prediction of stock movement for spy	8
+get me the current price for amzn	0
+sentiment analysis for amd	9
+what is the current price for tsla?	0
+what is the expected price for amazon	8
+discard amd	13
+7	14
+delete microsoft from my watchlist	13
+i should be your boss	25
+stock prediction for facebook	8
+prediction for aapl	8
+can we chat	100
+i've overworked	97
+you are looking pretty	22
+amazon news feed	2
+you are very attractive	22
+that's great	49
+dow sentiment analysis	9
+pop dia out of my watchlist	13
+what are the popular topics for twtr	4
+last price for apple	0
+what are the popular news for microsoft	4
+delete google from my watchlist	13
+what are the popular topics for baba	4
+i want to add twitter to my watchlist	11
+alibaba price	0
+remove facebook	13
+dow sentiments	9
+delist amazon	13
+do i look good	90
+sentiments for apple	9
+prediction for facebook	8
+get tsla out of my watchlist	13
+add dow to my watchlist	11
+may i get the current price for facebook?	0
+can i have the news for facebook	2
+delist amazon from my watchlist	13
+include in my watchlist	11
+you are so brainy	29
+what are the popular news for amd	4
+what is the current price for googl?	0
+what are the trending news for microsoft	4
+tesla sentiment analysis	9
+it's fine	49
+can i have the price for google?	0
+googl news feed	2
+yes for sure	56
+can i have the news for facebook	2
+empty my watchlist	12
+remove fb from my watchlist	13
+no don't do that	55
+intc news feed	2
+delist facebook	13
+definitely	56
+you are very cute	22
+price of apple	0
+that's too bad	48
+sentiments for apple	9
+get me the price for intc	0
+facebook latest news	2
+i want to delete amzn from my watchlist	13
+expected price movement for apple	8
+movement prediction for dowjones for the next 3 days	8
+i do not want aapl in my watchlist	13
+please add intel to my watchlist	11
+discard microsoft	13
+delete tsla from my watchlist	13
+straight	49
+now price for spider	0
+no need	55
+what are the trending topics for dia	4
+latest news on spider	2
+what do you recommend	93
+when were you born	23
+sentiments for msft	9
+can i get the sentiments for msft	9
+yeah that's right	56
+please remove intc from my watchlist	13
+news feed from alibaba	2
+that's correct	56
+can i have the price for msft?	0
+i dont want microsoft in my watchlist	13
+amzn sentiment analysis	9
+get me the price for google	0
+last price for dowjones	0
+discard spy	13
+what are the popular news for amd	4
+what is the price prediction for alibaba for the next 3 days	8
+what about your day	70
+get me the price for twitter	0
+i grow weary	97
+actually no	55
+what are the sentiments for googl	9
+remove apple	13
+test	96
+please include to my watchlist	11
+pop googl out of my watchlist	13
+related news for amd	2
+you're really smart	29
+i kinda like you	88
+remove intc	13
+fb	15
+hope your day is going well	70
+price of tesla	0
+add to my watchlist	11
+expected price movement for aapl for the next 3 days	8
+please add baba to my watchlist	11
+let's stop talking for a minute	80
+what is the latest news for spy	2
+social media sentiments for apple	9
+please add spider to my watchlist	11
+dia sentiment analysis	9
+see you	65
+delete amazon	13
+answers	19
+now price for dow	0
+you are a professional	33
+what is the expected price for amazon	8
+tsla sentimental analysis	9
+twitter sentiments	9
+nice thank you	51
+can i get the sentiments for dia	9
+what are the sentiments for amazon	9
+pop facebook out of my watchlist	13
+may i get the current price for tesla?	0
+social media sentiments for spy	9
+facebook predictions	8
+all right	56
+i want to delete apple from my watchlist	13
+what are the trending topics for apple	4
+price of google	0
+please include to my watchlist	11
+do you help me	27
+include microsoft in my watchlist	11
+i do not want intc in my watchlist	13
+news feed from twitter	2
+expected price movement for amazon	8
+may i get the current price for amd?	0
+yes thank you	56
+i feel lonely	89
+what is the expected price for baba	8
+what are the popular topics for tesla	4

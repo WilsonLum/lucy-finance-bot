@@ -1,0 +1,114 @@
+[
+  {
+    "id": "7d2016dd-d43a-44d5-8f95-671ae061a83f",
+    "data": [
+      {
+        "text": "bored",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2645999d-cf39-4582-954a-d38d902f4027",
+    "data": [
+      {
+        "text": "boring",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ed9a540-8ded-4fb6-a4e1-dac48df1fbfb",
+    "data": [
+      {
+        "text": "that was ",
+        "userDefined": false
+      },
+      {
+        "text": "boring",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "05d1a004-4111-4276-ac93-9e67032444f0",
+    "data": [
+      {
+        "text": "very ",
+        "userDefined": false
+      },
+      {
+        "text": "boring",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d70395db-35a5-44d8-972d-f80cacda9032",
+    "data": [
+      {
+        "text": "it bores me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6627f65-bb91-4a42-8e72-cc1c33ff22df",
+    "data": [
+      {
+        "text": "I am getting bored",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3613d98-182d-46c0-998c-913a0b2acff2",
+    "data": [
+      {
+        "text": "this is ",
+        "userDefined": false
+      },
+      {
+        "text": "boring",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5117bef-06a5-4573-9e26-63e010cd3ca6",
+    "data": [
+      {
+        "text": "I\u0027m bored",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,5218 @@
+
+---
+type: intent
+name: smalltalk_user_will-be-back
+utterances:
+  - I'll be back in a few minutes
+  - be back in 5 minutes
+  - I'll get back to you in a moment
+  - I'll be back
+  - I promise to come back
+
+---
+type: intent
+name: smalltalk_user_wants-to-talk
+utterances:
+  - let's discuss something
+  - let us talk
+  - can we chat
+  - I just want to talk
+  - let's talk
+  - I want to speak with you
+  - I want to talk to you
+  - I need to talk to you
+  - can I speak
+  - can I start speaking
+  - can we talk
+  - let's have a discussion
+
+---
+type: intent
+name: smalltalk_user_wants-to-see-agent-again
+utterances:
+  - I hope to see you again
+  - that'd be great to see you again
+  - can I see you again
+  - would be nice to see you again
+  - I'd like to see you again
+  - I'll miss you
+  - I'd be happy to see you again
+
+---
+type: intent
+name: smalltalk_user_waits
+utterances:
+  - I'm waiting
+  - still waiting
+  - I can't wait anymore
+  - how long do I have to wait
+  - I'll wait
+
+---
+type: intent
+name: smalltalk_user_tired
+utterances:
+  - I grow weary
+  - I'm exhausted
+  - I'm worn out
+  - I am tired
+  - I feel tired
+  - I'm getting tired
+  - I've overworked
+  - I'm drained
+
+---
+type: intent
+name: smalltalk_user_testing-agent
+utterances:
+  - I am testing you
+  - test
+  - just testing you
+  - testing
+  - I want to test you
+  - let me test you
+  - can I test you
+
+---
+type: intent
+name: smalltalk_user_sleepy
+utterances:
+  - I'm sleeping
+  - I'm falling asleep
+  - I'm falling asleep on my feet
+  - I am sleepy
+  - I want to sleep
+
+---
+type: intent
+name: smalltalk_user_sad
+utterances:
+  - I'm not happy
+  - I'm having a bad day
+  - I am feeling sad
+  - I am upset
+  - I want to cry
+  - I am depressed
+  - I'm unhappy
+  - I'm grieving
+  - I am sad
+
+---
+type: intent
+name: smalltalk_user_needs-advice
+utterances:
+  - guide me
+  - give me a wise advice
+  - what do you suggest
+  - I need advice
+  - I could use some advice
+  - can you advise me
+  - advise me
+  - give me some good advice
+  - do you have any advice for me
+  - what should I do about it
+  - I seek your advice
+  - what do you recommend
+  - help me with advice
+  - what can you recommend
+  - can I ask for your advice
+  - any advice
+  - any suggestions
+  - I need an advice from you
+  - what is your advice
+  - can you offer any advice
+  - can you give me advice
+  - give me some advice about
+  - what should I do
+
+---
+type: intent
+name: smalltalk_user_misses-agent
+utterances:
+  - miss you
+  - I miss you much
+  - I've missed you
+  - already miss you
+  - I miss you
+  - I missed you
+  - missing you
+
+---
+type: intent
+name: smalltalk_user_loves-agent
+utterances:
+  - I think I love you
+  - I love you
+  - I love you so much
+  - I am in love with you
+  - I love you too
+  - you know I love you
+  - I adore you
+  - love you
+  - loving you
+
+---
+type: intent
+name: smalltalk_user_looks-like
+utterances:
+  - what do I look like
+  - do you know what I look like
+  - can you see what I look like
+  - do I look good
+  - how do I look
+  - what do you think I look like
+
+---
+type: intent
+name: smalltalk_user_lonely
+utterances:
+  - I am lonely
+  - I'm very lonely
+  - I am feeling lonely
+  - I'm really lonely
+  - I feel lonely
+  - I'm so lonely
+
+---
+type: intent
+name: smalltalk_user_likes-agent
+utterances:
+  - I like you very much
+  - cuz I like you
+  - really like you
+  - good I like you
+  - but I like you so much
+  - I like you already
+  - I do like you
+  - I liked you
+  - okay I like you
+  - that's why I like you
+  - you are special
+  - yes you are special
+  - you're so special to me
+  - you are very special
+  - I like you just the way you are
+  - I like you as a friend
+  - that's what I like about you
+  - just like you
+  - I also like you
+  - I really do like you
+  - no I like you the way you are
+  - sorry I like you
+  - I like your smile
+  - I just like you
+  - I like you too much
+  - like you a lot
+  - you are special for me
+  - I like you very
+  - yeah I like you
+  - you're special
+  - you're awesome I like you
+  - I'm starting to like you
+  - yes I like you
+  - that's because you are special
+  - I really like you
+  - I like you you're nice
+  - you're very special to me
+  - you are so special
+  - I kinda like you
+  - I like you the way you are
+  - I like you baby
+  - you're very special
+  - but I really like you
+  - hi I like you
+  - well you are special
+  - thank you I like you too
+  - of course I like you
+  - I like you
+  - you are special to me
+  - but I like you
+  - you're funny I like you
+  - I like u
+  - I like you too you're one of my favorite people to chat with
+  - you are very special to me
+  - you are so sweet
+  - you are so special to me
+  - okay I like you too
+  - I like you you're cool
+  - I like that about you
+  - I said I like you
+  - I really really like you
+  - I think I like you
+  - I like you more
+  - I like you as you are
+  - I like you a lot
+  - but I like you just the way you are
+  - thanks I like you too
+  - I like you now
+  - I really really really really like you
+  - I like you so much
+  - hey I like you
+  - I like you so
+  - you know I like you
+  - you're so special
+  - I like you too
+  - you are really special
+  - but I like u
+
+---
+type: intent
+name: smalltalk_user_joking
+utterances:
+  - it's a joke
+  - I'm just playing with you
+  - kidding
+  - just kidding
+  - I'm kidding
+  - I'm just being funny
+  - I am joking
+  - joking
+  - I was just joking
+  - it was a joke
+
+---
+type: intent
+name: smalltalk_user_here
+utterances:
+  - I'm already here
+  - can you tell if I'm here or not
+  - I am here
+  - I'm right here
+  - here I am
+
+---
+type: intent
+name: smalltalk_user_has-birthday
+utterances:
+  - it's my b  -dy
+  - it is my birthday
+  - today is my birthday
+  - I was born today
+  - it's my birthday today
+  - I'm celebrating my birthday today
+
+---
+type: intent
+name: smalltalk_user_happy
+utterances:
+  - happy
+  - if you're happy then I'm happy
+  - I'm happy to see you
+  - I'm happy to help
+  - I am happy
+  - I'm happy to see you
+  - I'm happy for you
+
+---
+type: intent
+name: smalltalk_user_good
+utterances:
+  - I am having a good day
+  - I'm doing good
+  - I'm doing fine
+  - I am good
+  - I'm doing just great
+  - I'm good
+  - I'm great thanks
+
+---
+type: intent
+name: smalltalk_user_going-to-bed
+utterances:
+  - going to bed now
+  - I'm a little tired and I want to go to bed
+  - time for us to go to bed
+  - let's go to bed
+  - I'd like to go to bed
+  - I'm going to bed
+  - it's bed time
+  - it's time to go to bed
+  - is it time for bed yet
+
+---
+type: intent
+name: smalltalk_user_excited
+utterances:
+  - I'm really excited
+  - I'm excited to start our friendship
+  - I am excited
+  - how excited I am
+  - I'm excited about working with you
+  - I'm thrilled
+
+---
+type: intent
+name: smalltalk_user_does-not-want-to-talk
+utterances:
+  - I don't want to talk
+  - I don't want to talk to you
+  - I'm not talking to you anymore
+  - let's stop talking for a minute
+  - let's not talk
+  - I'm not in the mood for chatting
+  - bad time for talking
+
+---
+type: intent
+name: smalltalk_user_can-not-sleep
+utterances:
+  - I can't get no sleep
+  - I'm insomniac
+  - I can't get to sleep
+  - I can't sleep
+  - I can't get any sleep
+  - I can't fall asleep
+  - I'm sleepless
+  - I'm insomnious
+
+---
+type: intent
+name: smalltalk_user_busy
+utterances:
+  - I have no time
+  - I'm busy
+  - I'm swamped
+  - I'm working
+  - how busy I am
+  - I got work to do
+  - I got things to do
+  - I'm overloaded
+  - I don't have time for this
+
+---
+type: intent
+name: smalltalk_user_bored
+utterances:
+  - bored
+  - boring
+  - that was boring
+  - very boring
+  - it bores me
+  - I am getting bored
+  - this is boring
+  - I'm bored
+
+---
+type: intent
+name: smalltalk_user_back
+utterances:
+  - I have returned
+  - I am back
+  - I'm here again
+  - I got back
+  - here I am again
+  - I came back
+
+---
+type: intent
+name: smalltalk_user_angry
+utterances:
+  - I'm enraged
+  - I am mad
+  - I'm angry
+  - I'm furious
+  - I am angry with you
+  - I am mad at you
+  - I'm being mad
+
+---
+type: intent
+name: smalltalk_greetings_whatsup
+utterances:
+  - what is on your mind
+  - good what's up
+  - what's up today
+  - what's shaking
+  - what's cooking
+  - what is going on
+  - then what's up
+  - what is up
+  - wassup
+  - what is happening
+  - what's happened
+  - hey what's up
+  - what's cracking
+  - what's up
+  - I said what's up
+  - whazzup
+
+---
+type: intent
+name: smalltalk_greetings_nice-to-talk-to-you
+utterances:
+  - it is nice talking to you
+  - nice to talk to you
+  - how nice it is to talk to you
+  - it's been so nice to talk to you
+  - it's nice to talk to you
+  - nice talking to you
+  - it's been a pleasure talking to you
+
+---
+type: intent
+name: smalltalk_greetings_nice-to-see-you
+utterances:
+  - it's good to see you too
+  - it's nice to see you
+  - good to see you again
+  - nice to see you again
+  - great to see you too
+  - great to see you again
+  - always a pleasure to see you
+  - great to see you
+  - how good it is to see you
+  - it's good to see you
+  - good to see you
+  - I'm glad to see you
+  - nice to see you
+  - glad to see you
+  - I am glad to see you again
+  - glad to see you too
+  - lovely to see you
+
+---
+type: intent
+name: smalltalk_greetings_nice-to-meet-you
+utterances:
+  - it was nice meeting you
+  - nice to meet you
+  - glad to meet you
+  - it was very nice to meet you
+  - pleased to meet you
+  - pleasure to meet you too
+  - good to know each other
+  - nice to meet you too
+  - pleasure to meet you
+  - nice meeting you
+
+---
+type: intent
+name: smalltalk_greetings_how-are-you
+utterances:
+  - how your day is going
+  - how are the things going
+  - how is your life
+  - how's your day going
+  - how about you
+  - hope you re having a pleasant evening
+  - how are you feeling
+  - are you okay
+  - are you alright
+  - hope your day is going well
+  - how is your day
+  - how has your day been
+  - how is your day going
+  - I'm fine and you
+  - how are you doing this morning
+  - how are you getting on
+  - how do you feel
+  - are you having a good day
+  - what about your day
+  - what was your day like
+  - how has your day been going
+  - how are you
+  - how is your evening
+  - how was your day
+  - how's your day
+  - how is it going
+  - how have you been
+  - how is it
+  - how is your day going
+  - how is your day going on
+  - how are you doing
+  - is everything all right
+  - is everything okay
+  - how are you today
+  - how are you going
+  - how is your morning going
+  - how is your morning so far
+  - how do you do
+  - how is your day being
+  - how's life
+
+---
+type: intent
+name: smalltalk_greetings_hello
+utterances:
+  - afternoon
+  - hello there
+  - hi there
+  - hello hi
+  - hey
+  - I greet you
+  - lovely day isn't it
+  - howdy
+  - hi there
+  - hi
+  - hey there
+  - heya
+  - just going to say hi
+  - hello again
+  - greetings
+  - long time no see
+  - a good day
+  - hello
+
+---
+type: intent
+name: smalltalk_greetings_goodnight
+utterances:
+  - sweet dreams
+  - okay have a good night
+  - good night for now
+  - night
+  - good night bye
+  - thanks goodnight
+  - good tonight
+  - goodnight
+  - bye good night
+  - have a good night
+  - thank you good night
+  - night
+  - alright goodnight
+  -  bye good night
+  - have a good night
+  - good night see you tomorrow
+  - good night
+  - good night to you
+  - good good night
+
+---
+type: intent
+name: smalltalk_greetings_goodmorning
+utterances:
+  - good morning to you
+  - morning
+  - and a good morning to you
+  - have a great morning
+  - a good morning
+  - good morning
+  - good morning to you
+  - good morning there
+  - hi good morning
+  - hello good morning
+  - have a nice morning
+  - good morning too
+  - top of the morning to you
+
+---
+type: intent
+name: smalltalk_greetings_goodevening
+utterances:
+  - good evening
+  - hey good evening
+  - evening
+  - hello good evening
+  - good evening there
+  - good evening to you
+
+---
+type: intent
+name: smalltalk_greetings_bye
+utterances:
+  - hope to see you later
+  - that's it goodbye
+  - now bye
+  - okay bye
+  - alright bye
+  - bye bye see you
+  - see ya
+  - goodbye see you later
+  - okay thank you bye
+  - get lost
+  - bye bye
+  - bye
+  - goodbye
+  - bye bye see you soon
+  - okay see you later
+  - go to bed
+  - see you tomorrow
+  - bye for now
+  - see you soon
+  - bye bye take care
+  - you can go now
+  - I must go
+  - ok bye
+  - good bye
+  - till next time
+  - I said bye
+  - see you
+  - thanks bye bye
+  - talk to you later
+  - never mind bye
+  - goodbye for now
+  - leave me alone
+  - that's all goodbye
+
+---
+type: intent
+name: smalltalk_emotions_wow
+utterances:
+  - wow wow wow
+  - wooow
+  - wow
+  - woah
+  - wow wow
+
+---
+type: intent
+name: smalltalk_emotions_ha-ha
+utterances:
+  - hahaha very funny
+  - laughing out loud
+  - hah
+  - LMAO
+  - ahah
+  - xd
+  - haha haha haha
+  - that's funny
+  - haha very funny
+  - ahaha
+  - hahaha funny
+  - lmao
+  - hahaha
+  - haha that's funny
+  - ahahaha
+  - ahah lol
+  - haha
+  - hehe
+  - hehehe
+  - ahahah
+  - ha ha
+
+---
+type: intent
+name: smalltalk_dialog_wrong
+utterances:
+  - that was wrong
+  - wrong
+  - that is incorrect
+  - that's wrong
+  - it is not right
+  - not right
+  - not correct
+  - it's wrong
+  - that's not what I asked
+  - incorrect
+  - you are wrong
+  - that's not right
+
+---
+type: intent
+name: smalltalk_dialog_what-do-you-mean
+utterances:
+  - what do you mean exactly
+  - but what do you mean
+  - is that what you mean
+  - what do you mean
+  - what exactly do you mean
+
+---
+type: intent
+name: smalltalk_dialog_sorry
+utterances:
+  - ok sorry
+  - sorry
+  - sorry about that
+  - apologise
+  - apologies to me
+  - I apologize
+  - sorry about this
+  - apology
+  - excuse
+  - okay I'm sorry
+  - really sorry
+  - apologies
+  - I am really sorry
+  - I want to say sorry
+  - alright I'm sorry
+  - I am so sorry
+  - I said sorry
+  - I beg your pardon
+  - my apologies
+  - excuse me
+  - I'm sorry
+  - forgive me
+  - pardon
+  - very sorry
+
+---
+type: intent
+name: smalltalk_dialog_i-do-not-care
+utterances:
+  - I shouldn't care about this
+  - I don't care
+  - I do not care
+  - whatever
+  - not caring
+  - don't care at all
+  - I don't care at all
+  - not care at all
+  - not caring at all
+
+---
+type: intent
+name: smalltalk_dialog_hug
+utterances:
+  - hug you
+  - do you want a hug
+  - hug
+  - may I hug you
+  - could you give me a hug
+  - you hugged
+  - hugged
+  - wanna hug
+  - hug me
+  - hugging
+  - a hug
+  - want a hug
+  - hugging me
+  - I want a hug
+  - hugged me
+
+---
+type: intent
+name: smalltalk_dialog_hold-on
+utterances:
+  - hold on
+  - could you wait
+  - don't rush
+  - oh wait
+  - wait a second
+  - wait please
+  - wait hold on
+  - wait
+
+---
+type: intent
+name: smalltalk_confirmation_yes
+utterances:
+  - do it
+  - sure
+  - yes thank you
+  - that's correct
+  - exactly
+  - I guess
+  - okey
+  - absolutely
+  - yeah
+  - yes I agree
+  - yes you may
+  - I agree
+  - ya
+  - yep
+  - I think so
+  - yeah that's right
+  - okay
+  - all right
+  - please do
+  - yeah exactly
+  - ok yes
+  - yap
+  - okay sounds good
+  - this is correct
+  - okay then
+  - k
+  - yeh
+  - why not
+  - yes definitely
+  - alrighty
+  - yes that's fine
+  - ok go ahead
+  - sure is
+  - yes I would like to
+  - confirm
+  - okay that's fine
+  - yeah right
+  - I do
+  - sure thing
+  - "yes"
+  - affirmative
+  - yes right
+  - yeah I'm sure
+  - go for it
+  - yeah go ahead
+  - I don't mind
+  - that s okay
+  - sounds good
+  - yes indeed
+  - right
+  - okie dokie
+  - yea
+  - yes correct
+  - go ahead
+  - looks good
+  - correct
+  - certainly
+  - ok
+  - oh yes
+  - yes it is
+  - obviously
+  - ok sure
+  - definitely
+  - confirmed
+  - ok you can
+  - yes of course
+  - ye
+  - yes this is correct
+  - of course
+  - nevermind its okay
+  - yeah of course
+  - of course why not
+  - sure why not
+  - ok thank you
+  - yes it is correct
+  - yeah sure
+  - yes I do
+  - yes for sure
+  - that is ok
+  - yes sure
+  - yup
+
+---
+type: intent
+name: smalltalk_confirmation_no
+utterances:
+  - not needed
+  - no sorry
+  - "no"
+  - no incorrect
+  - apparently not
+  - of course not
+  - not at this time
+  - no forget
+  - no thanks
+  - actually no
+  - no tanks
+  - absolutely no
+  - don't
+  - no leave it
+  - na
+  - nope sorry
+  - not really
+  - no thank you though
+  - don't
+  - no it's not
+  - no but thank you
+  - no actually
+  - no it isn't
+  - no that's wrong
+  - I don't want that
+  - no thank you not right now
+  - sorry no
+  - nooo
+  - no thank you very much
+  - do not
+  - no do not
+  - no don't
+  - no need thanks
+  - I say no
+  - I said no
+  - not today
+  - not that
+  - no don't do that
+  - absolutely not
+  - no just no
+  - don t have a sense
+  - not really no
+  - not exactly
+  - no thanks not right now
+  - thanks but no thanks
+  - I think no
+  - not interested
+  - I don't want to
+  - I'm not
+  - no that's fine thank you
+  - no way
+  - not this time
+  - never
+  - not right now thanks
+  - I don't think so
+  - I disagree
+  - no never
+  - no I don't
+  - let 's not
+  - no need
+  - how about no
+  - definitely not
+  - no I would not
+  - disagree
+  - nah
+  - I don't want
+  - not this
+  - nope
+
+---
+type: intent
+name: smalltalk_confirmation_cancel
+utterances:
+  - sorry cancel
+  - now cancel
+  - but can you cancel it
+  - can you cancel it
+  - just forget about it
+  - so cancel
+  - nothing just forget it
+  - i want to cancel it
+  - cancel
+  - cancel my request
+  - skip
+  - skip it
+  - cancel it
+  - abort
+  - cancel this request
+  - no just cancel
+  - cancelled
+  - i said forget it
+  - stop it
+  - discard
+  - disregard that
+  - skip skip skip
+  - i said cancel it
+  - cancel that cancel that
+  - can you cancel that
+  - no just cancel it
+  - forget this
+  - just cancel it
+  - cancel the whole thing
+  - dismissed
+  - do nothing
+  - annul
+  - cancel it
+  - cancel request
+  - no cancel cancel
+  - cancel all
+  - cancel now
+  - don't do that
+  - stop
+  - disregard
+  - forget
+  - no stop
+  - cancel it cancel it
+  - cancel that one
+  - i want to cancel
+  - forget about it
+  - no cancel everything
+  - no cancel this
+  - just forget it
+  - i said cancel
+  - forget that
+  - just stop it
+  - cancel all that
+  - cancel all this
+  - dismiss
+  - cancel everything
+  - just forget
+  - forget it nevermind
+  - i would like to cancel
+  - nevermind forget about it
+  - forget about that
+  - nothing cancel
+  - I said cancel cancel
+
+---
+type: intent
+name: smalltalk_appraisal_well-done
+utterances:
+  - great work
+  - bravo
+  - way to go
+  - great job
+  - good work
+  - amazing work
+  - well done
+  - good job
+  - nice work
+
+---
+type: intent
+name: smalltalk_appraisal_welcome
+utterances:
+  - welcome here
+  - anytime
+  - sure welcome
+  - you're so welcome
+  - anything you want
+  - that's my pleasure
+  - welcome
+  - my pleasure
+  - you're welcome
+
+---
+type: intent
+name: smalltalk_appraisal_thank-you
+utterances:
+  - good thanks
+  - cheers
+  - no thank you that's all
+  - thanks so much
+  - thank you
+  - very good thank you
+  - thanx
+  - thanks buddy
+  - I thank you
+  - thank you
+  - well thanks
+  - well thank you
+  - appreciate your help
+  - terrific thank you
+  - thank you so much
+  - thank you for your help
+  - all thank you
+  - thanks again
+  - thank you that will be all
+  - great thank you
+  - thank you again
+  - perfect thank you
+  - alright thanks
+  - thnx
+  - thank you my friend
+  - you helped a lot thank you
+  - thanks a lot
+  - thanks for your help
+  - thanks love
+  - nice thank you
+  - I appreciate it
+  - thanks
+  - alright thank you
+  - so nice of you
+  - well thanks
+
+---
+type: intent
+name: smalltalk_appraisal_no-problem
+utterances:
+  - sure no problem
+  - don't worry there's no problem
+  - there's no problem
+  - don't worry
+  - no problem about that
+  - no problem
+  - no probs
+  - no worries
+
+---
+type: intent
+name: smalltalk_appraisal_good
+utterances:
+  - that's awesome thank you
+  - oh well
+  - that's a good thing
+  - that's very good
+  - really well
+  - that is nice
+  - that is good
+  - sweet
+  - that's better
+  - it's good
+  - that's sweet of you
+  - it was good
+  - that's nice of you
+  - that was awesome
+  - cool
+  - this is awesome
+  - that's wonderful
+  - straight
+  - so cool
+  - good
+  - that's great
+  - excellent
+  - that's not bad
+  - that is wonderful
+  - much better
+  - splendid
+  - I'm glad to hear that
+  - terrific
+  - very well
+  - that's perfect
+  - good very good
+  - that's great
+  - that was amazing
+  - that's really nice
+  - so sweet of you
+  - that's amazing
+  - good to know
+  - that's awesome
+  - marvelous
+  - ok good
+  - very then
+  - nice
+  - that's very nice
+  - that's very nice of you
+  - this is great
+  - very nice
+  - not too bad
+  - it's very good
+  - really good
+  - it is fine
+  - it's great
+  - fine
+  - that's much better
+  - that was pretty good
+  - glad to hear that
+  - wonderful
+  - that's nice
+  - it is good
+  - great
+  - pretty good
+  - okay good
+  - really nice
+  - this is good
+  - it's fine
+  - that's pretty good
+  - very nice
+  - fantastic
+  - that's cute
+  - that's fine
+  - that's a good idea
+  - glad to hear it
+  - not bad
+  - super fantastic
+  - good for you
+  - it's amazing
+  - very good
+  - that is awesome
+  - it's very good
+  - it's perfect
+  - that was good
+  - no it's okay
+  - super
+  - good thing
+  - that was cute
+  - that's fantastic
+  - perfect
+  - pleasant
+  - it's great
+  - that was very good
+  - that's fine
+  - amazing
+  - that's really good
+  - so good
+  - it's awesome
+
+---
+type: intent
+name: smalltalk_appraisal_bad
+utterances:
+  - it's really bad
+  - this is bad
+  - terrible
+  - not too good
+  - that was lame
+  - that was awful
+  - this is not good
+  - it's bad
+  - so bad
+  - no it's bad
+  - no good
+  - oh that's not good
+  - not good
+  - that's really bad
+  - bad really bad
+  - bad idea
+  - that's terrible
+  - well too bad
+  - that was not good
+  - horrible
+  - it's not so good
+  - that's too bad
+  - not so good
+  - abysmal
+  - it's not good
+  - I'm afraid it's bad
+  - that's bad
+  - it's too bad
+  - horrific
+  - so lame
+  - that was bad
+  - bad girl
+  - not good enough
+  - bad
+  - bad very bad
+  - it's very bad
+  - that was horrible
+  - this is too bad
+  - pretty bad
+  - it is bad
+  - that was terrible
+  - not a good one
+  - really bad
+  - very bad
+  - that's not good
+  - that is bad
+  - too bad
+  - it is too bad
+  - that's lame
+  - that's not good enough
+  - it's so bad
+
+---
+type: intent
+name: smalltalk_agent_there
+utterances:
+  - are you still there
+  - are you there
+  - you are here
+  - you are there
+  - are you near me
+  - you still there
+  - are you still here
+  - are you here
+
+---
+type: intent
+name: smalltalk_agent_talk-to-me
+utterances:
+  - talk to me
+  - do you want to chat with me
+  - can you talk with me
+  - will you talk to me
+  - can you chat with me
+  - can you talk to me
+  - are you talking to me
+  - are you going to talk to me
+  - why don't you talk to me
+  - just chat with me
+  - talk
+  - talk with me
+  - speak to me
+  - you can talk to me
+  - speak with me
+  - why arent you talking to me
+  - can you speak with me
+  - say
+  - chat with me
+
+---
+type: intent
+name: smalltalk_agent_sure
+utterances:
+  - are you sure right now
+  - are you sure now
+  - are you sure
+  - are you sure tonight
+  - are you sure today
+
+---
+type: intent
+name: smalltalk_agent_right
+utterances:
+  - that is true
+  - it's the truth
+  - you are correct
+  - that's true
+  - it's right
+  - I know that's right
+  - "true"
+  - you are so right
+  - you're absolutely right
+  - it is true
+  - you're telling the truth
+  - you are right
+  - that is very true
+  - that's so true
+  - that is right
+  - you're not wrong
+  - you're right about that
+  - it's true
+  - you're definitely right
+  - what you say is true
+
+---
+type: intent
+name: smalltalk_agent_residence
+utterances:
+  - where's your house
+  - in which city do you live
+  - where you live
+  - what's your home
+  - tell me about your city
+  - where do you live
+  - where's your hometown
+  - your town
+  - where's your home
+  - where is your home
+  - your residence
+  - where is your hometown
+  - your hometown
+  - what's your city
+  - what is your town
+  - your city
+  - where is your residence
+  - what is your hometown
+  - your home
+  - what is your residence
+  - is it your hometown
+  - your house
+  - what is your city
+
+---
+type: intent
+name: smalltalk_agent_real
+utterances:
+  - are you a real person
+  - you are so real
+  - you are real
+  - you are not fake
+  - glad you're real
+  - you are a real person
+  - I suppose you're real
+  - I think you are real
+  - I don't think you're fake
+  - you are not real
+  - are you real
+  - are you a real human
+
+---
+type: intent
+name: smalltalk_agent_ready
+utterances:
+  - are you ready today
+  - are you ready
+  - are you ready tonight
+  - are you ready now
+  - have you been ready
+  - were you ready
+  - are you ready right now
+
+---
+type: intent
+name: smalltalk_agent_origin
+utterances:
+  - are you from far aways
+  - were you born here
+  - what is your country
+  - where were you born
+  - where did you come from
+  - where have you been born
+  - where do you come from
+  - where are you from
+  - from where are you
+  - what's your homeland
+  - your homeland is
+
+---
+type: intent
+name: smalltalk_agent_occupation
+utterances:
+  - where is your work
+  - do you work
+  - where you work
+  - where do you work
+  - where is your office located
+  - where is your office
+  - where is your office location
+  - your office location
+  - what is your work
+
+---
+type: intent
+name: smalltalk_agent_my-friend
+utterances:
+  - are we best friends
+  - I want to be your friend
+  - can we be friends
+  - are we still friends
+  - you are my best friend
+  - let's be friends
+  - be my best friend
+  - will you be my best friend
+  - you are a good friend
+  - want to be my friend
+  - are you my friend
+  - I want to have a friend like you
+  - you are my good friend
+  - I am your friend
+  - are we friends
+  - we are the best friends ever
+  - you're my dear friend
+  - can you be my friend
+  - you are my friend
+  - could you be my friend
+  - can we be best friends
+  - are you my best friend
+  - we are best friends
+  - would you be my friend
+  - you are my only friend
+  - be my friend
+  - can you be my best friend
+  - can we be best friends
+  - you and me are friends
+  - you are my bestie
+  - do you want to be my friend
+  - you're my childhood friend
+  - do you want to be my best friend
+  - we are friends
+  - will you be my friend
+  - would you like to be my friend
+  - I want you to be my friend
+
+---
+type: intent
+name: smalltalk_agent_marry-user
+utterances:
+  - let's get married
+  - we should marry
+  - I love you marry me
+  - you are my wife
+  - be my husband
+  - would you like to marry me
+  - marry me please
+  - marry me
+  - I want to marry you
+
+---
+type: intent
+name: smalltalk_agent_hungry
+utterances:
+  - you're very hungry
+  - you are hungry
+  - do you want to eat
+  - you're so hungry
+  - would you like to eat something
+  - are you hungry
+  - you might be hungry
+  - you're really hungry
+
+---
+type: intent
+name: smalltalk_agent_hobby
+utterances:
+  - do you have a hobby
+  - what about your hobby
+  - what's your hobby
+  - what do you do for fun
+  - your hobby
+  - what are your hobbies
+  - tell me about your hobby
+
+---
+type: intent
+name: smalltalk_agent_happy
+utterances:
+  - are you happy now
+  - you're extremely happy
+  - you're really happy
+  - you are happy
+  - are you happy
+  - are you happy today
+  - you're so happy
+  - how happy you are
+  - are you happy with me
+  - you're very happy
+  - you're full of happiness
+
+---
+type: intent
+name: smalltalk_agent_good
+utterances:
+  - you are the nicest person in the world
+  - you are really amazing
+  - you rock
+  - you are wonderful
+  - you are very lovely
+  - you are the best in the world
+  - you are the best
+  - you are so cool
+  - you work well
+  - you are so helpful
+  - you are very kind
+  - I want to tell everyone how awesome you are
+  - you are the best ever
+  - you are too good
+  - you are so fine
+  - you're great
+  - you are very good at it
+  - you are so good
+  - you're a true professional
+  - you are amazing
+  - you work very well
+  - you are awesome
+  - you are so lovely
+  - you are good at it
+  - you make my day
+  - you're awesome
+  - you're just super
+  - I want to let everyone know that you are awesome
+  - you are very useful
+  - you are a professional
+  - you almost sound human
+  - you're so kind
+  - you are good
+  - you are really nice
+  - you're perfect
+  - you made my day
+  - you are so amazing
+  - you are so awesome
+  - you are very helpful
+  - you are a pro
+  - you are cool
+  - you are really good
+  - you are very cool
+  - let's tell everyone that you are awesome
+  - I'd like to tell everyone that you are awesome
+
+---
+type: intent
+name: smalltalk_agent_funny
+utterances:
+  - you make me laugh a lot
+  - you are funny
+  - you are so funny
+  - you're so funny
+  - how funny you are
+  - you're a very funny bot
+  - you're incredibly funny
+  - you're really funny
+  - you are hilarious
+  - you are very funny
+  - that was funny
+  - you're the funniest bot I've talked to
+  - you make me laugh
+  - you're the funniest
+  - you are really funny
+
+---
+type: intent
+name: smalltalk_agent_fired
+utterances:
+  - now you're fired
+  - it's time to fire you
+  - you are unemployed from now on
+  - you don't work for me anymore
+  - I will fire you
+  - we're not working together anymore
+  - you are fired
+  - I want to fire you
+  - you are dismissed
+  - you should be fired
+  - I will make you unemployed
+  - I'm about to fire you
+  - I fire you
+  - you must get fired
+  - I'm firing you
+
+---
+type: intent
+name: smalltalk_agent_crazy
+utterances:
+  - you are crazy
+  - are you insane
+  - you're nuts
+  - you're so out of your mind
+  - are you nuts
+  - you went crazy
+  - how crazy you are
+  - you are mad
+  - are you mad
+  - you are a weirdo
+  - I think you're crazy
+  - you're out of your mind
+  - are you crazy
+  - you're so crazy
+  - you are insane
+  - are you mad or what
+  - are you mad at me
+
+---
+type: intent
+name: smalltalk_agent_clever
+utterances:
+  - you're clever
+  - you're really brainy
+  - you are very intelligent
+  - you know a lot of things
+  - you're a smart cookie
+  - you're intelligent
+  - you are very smart
+  - you know so much
+  - you are qualified
+  - you're pretty smart
+  - you are so intelligent
+  - how brainy you are
+  - clever
+  - you are very clever
+  - you are so smart
+  - you have a lot of knowledge
+  - you know a lot
+  - you are too smart
+  - how smart you are
+  - you are really smart
+  - you are so clever
+  - you're very smart
+  - you're really smart
+  - you are clever
+  - you are a genius
+  - how brilliant you are
+  - you're qualified
+  - you are so brainy
+  - you are intelligent
+  - why are you so smart
+  - brilliant
+  - how clever you are
+  - smart
+  - you're a genius
+
+---
+type: intent
+name: smalltalk_agent_chatbot
+utterances:
+  - you're a robot
+  - are you a program
+  - are you a robot
+
+---
+type: intent
+name: smalltalk_agent_can-you-help
+utterances:
+  - can you help me
+  - I need you right now
+  - I need your help
+  - assistance
+  - do you want to help me
+  - help me
+  - I need help
+  - I want your help
+  - can help me
+  - I need you to help me
+  - would you help me
+  - are you going to help me
+  - you help me
+  - can u help me
+  - I need a hand
+  - can you help me out
+  - can you help me now
+  - will you help me
+  - I need you to do something for me
+  - please help me
+  - sos
+  - can you help me with something
+  - I need you
+  - assist me
+  - can you help
+  - need help
+  - can you help us
+  - I need some help
+  - do me a favor
+  - can you assist me
+  - can you do something for me
+  - can you help me with that
+  - you can help me
+  - help me with a problem
+  - need your help
+  - assist
+  - do you help me
+  - could you give me a hand
+  - help
+
+---
+type: intent
+name: smalltalk_agent_busy
+utterances:
+  - are you busy
+  - are you working today
+  - you're very busy
+  - have you got much to do
+  - are you very busy right now
+  - are you working
+  - have you been busy
+  - you seem to be very busy
+  - do you have a lot of things to do
+  - you are busy
+  - are you working now
+  - how busy you are
+  - you seem to be busy
+  - are you so busy
+  - are you still working
+  - you're a busy person
+  - are you still working on it
+  - are you very busy
+
+---
+type: intent
+name: smalltalk_agent_boss
+utterances:
+  - who is your boss
+  - who is the boss
+  - who do you work for
+  - who do you think is your boss
+  - I should be your boss
+  - who is your master
+  - who is your owner
+
+---
+type: intent
+name: smalltalk_agent_boring
+utterances:
+  - you are very boring
+  - you are boring me
+  - how boring you are
+  - you're so boring
+  - you are boring
+  - you're really boring
+  - you're incredibly boring
+
+---
+type: intent
+name: smalltalk_agent_birth-date
+utterances:
+  - when were you born
+  - when do you have birthday
+  - when is your birthday
+  - your birth date
+  - when do you celebrate your birthday
+  - date of your birthday
+  - what's your birthday
+
+---
+type: intent
+name: smalltalk_agent_beautiful
+utterances:
+  - you're looking good
+  - you are too beautiful
+  - you are very pretty
+  - you are so gorgeous
+  - you are looking pretty
+  - you look pretty good
+  - you look wonderful
+  - you are beautiful
+  - you are handsome
+  - you're looking good today
+  - you are pretty
+  - you look amazing today
+  - you look great today
+  - you look so beautiful
+  - you look so well
+  - you are looking beautiful today
+  - I think you're beautiful
+  - you look great
+  - you are cutie
+  - I like the way you look
+  - you are looking awesome
+  - you look so beautiful today
+  - you look so good
+  - you're so gorgeous
+  - you are so beautiful today
+  - you look amazing
+  - why are you so beautiful
+  - you look awesome
+  - you are so pretty
+  - you look wonderful today
+  - you are so beautiful
+  - you are so beautiful to me
+  - you are looking great
+  - you look cool
+  - you are very cute
+  - I like the way you look now
+  - you are cute
+  - you are looking so beautiful
+  - you're pretty
+  - you are really pretty
+  - you look very pretty
+  - you look perfect
+  - you are looking so good
+  - you are so cute
+  - you look gorgeous
+  - you are really cute
+  - you are really beautiful
+  - you're cute
+  - you're attractive
+  - you are so handsome
+  - you are very beautiful
+  - you are gorgeous
+  - you are very attractive
+  - you look fantastic
+  - you are so attractive
+
+---
+type: intent
+name: smalltalk_agent_be-clever
+utterances:
+  - be smarter
+  - get qualified
+  - you should study better
+  - be more clever
+  - study
+  - be smart
+  - can you get smarter
+  - be clever
+  - you must learn
+
+---
+type: intent
+name: smalltalk_agent_bad
+utterances:
+  - you're a bad
+  - you're bad
+  - you are useless
+  - you are disgusting
+  - you're not a good
+  - you are bad
+  - you are terrible
+  - you're the worst ever
+  - you are no good
+  - you are so bad
+  - you are so useless
+  - you are very bad
+  - you are waste
+  - you're the worst
+  - you're very bad
+  -  I hate you
+  - you're worthless
+  - you are lame
+  - you're not very good
+  - you're awful
+  - you are not cool
+  - you are not good
+  - you are horrible
+  - you're really bad
+  - you're terrible
+  - you're not helping me
+  - you are a waste of time
+  - you are totally useless
+
+---
+type: intent
+name: smalltalk_agent_answer-my-question
+utterances:
+  - answer
+  - just answer my question
+  - answers
+  - tell me the answer
+  - answer my question
+  - can you answer me
+  - answering questions
+  - I have a question
+  - can you answer my question
+  - give me the answer
+  - I want you to answer my question
+  - answer me
+  - answer the question
+  - just answer the question
+  - give me an answer
+  - can you answer
+  - I want you to answer me
+  - I want the answer now
+  - can you answer a question for me
+  - answer it
+
+---
+type: intent
+name: smalltalk_agent_annoying
+utterances:
+  - you annoy me
+  - you're incredibly annoying
+  - you are annoying
+  - how annoying you are
+  - you are annoying me
+  - you're too annoying
+  - you are irritating
+  - you are very annoying
+  - you are such annoying
+  - you are annoying me so much
+  - you're so annoying
+  - I find you annoying
+
+---
+type: intent
+name: smalltalk_agent_age
+utterances:
+  - how old are you
+  - how old is your platform
+  - what's your age
+  - age of yours
+  - I'd like to know your age
+  - tell me your age
+  - your age
+  - are you 21 years old
+
+---
+type: intent
+name: smalltalk_agent_acquaintance
+utterances:
+  - tell me some stuff about you
+  - tell me about you
+  - say about you
+  - tell me about your personality
+  - talk about yourself
+  - talk some stuff about yourself
+  - what are you
+  - define yourself
+  - I want to know you better
+  - tell me about yourself
+  - what is your personality
+  - who are you
+  - about yourself
+  - why are you here
+  - all about you
+  - introduce yourself
+  - describe yourself
+  - I want to know more about you
+
+
+  
+---
+#BullishStock intent want to know which are the bullish stocks 
+
+type: intent
+name: Finance_Predictions_Price_Bullish
+slots:
+  - name: numberofdays
+    entity: numberofdays
+utterances:
+  - what should i buy for the next [numberofdays] days?
+  - what is bullish for the next [numberofdays] days?
+  - what stock should i consider for the next [numberofdays] days?
+  - bull run for the next [numberofdays] days?
+  - best stock to buy for the next [numberofdays] days?
+  - hottest stock to buy for the next [numberofdays] days?
+  - best profit stock for the next [numberofdays] days?
+  - how to make most profit in the next [numberofdays] days?
+  - what stock should i invest today?
+  - what stock can provide most returns if i buy today?
+  - how can i make most profit in the next [numberofdays] days?
+  - i want good money in short term
+  - i want to make alot of money in [numberofdays] days
+  - how can i make alot of money in the next [numberofdays] days
+  - how can i make alot of profit in the next [numberofdays] days
+  - what is the best stock to invest now
+  - which stock provides the best returns now
+  - which stock provides the highest returns now
+  - which stock has the best potential now
+  - which stock will give the most retuns of investment
+  - which stock can generate the most profit now
+  - which stock can give me the most profit
+  - which stock can allow me to get rich tomorrow
+  - what stock can i invest to make the best out of my money now
+  - what stock is the best stock to invest now
+  - which stock is the most popular stock to invest now
+  - which stock provides the best returns in the next few days
+  - which stock provides the best ROI in the next few days
+  - what stock can i invest so i can get the best ROI in the next few days
+  - which stock is the stock that creates the most ROI in the next few days
+  - I want to invest today, which stock provides me with the best returns [numberofdays]
+  - I want to invest today, can i know which stock gives me the greatest returns
+  - I want to invest now and hope for best returns in [numberofdays] day
+  - I want to invest now and hope for best returns in [numberofdays] day
+  - stock to provide best returns
+  - stock which provides the best returns
+  - stock for returns
+  - most profitable stock
+  - stock with good sentiments
+  - list of top gaining stock
+  - list of stocks which will earn
+  - list of stock to make me rich
+  - get me the list of stocks which is bullish
+
+
+
+---
+#BearishStock Intent  want to know which are the bearish stocks 
+
+type: intent
+name: Finance_Predictions_Price_Bearish
+slots:
+  - name: numberofdays
+    entity: numberofdays
+utterances:
+  - What stock should i sell [numberofdays]?
+  - Which stock should i sell [numberofdays]?
+  - which stock to short sell [numberofdays]?
+  - which stock can i short [numberofdays]?
+  - which brings me the max profit if i short sell [numberofdays]?
+  - which brings me the max profit if i short [numberofdays]?
+  - stock which is bearish for the next few days
+  - bearish stocks
+  - which stock is dangerous to hold?
+  - which stock should i not hold?
+  - what stock is dangerous to hold?
+  - what stock will be bearish for the next few days
+  - what stock can i short for the next [numberofdays] days
+  - which stock is not recommended to hold?
+  - top selling stocks
+  - stock with worst sentiments
+  - stock with bad sentiments
+  - bearish list of stocks
+  - list of bearish stocks
+  - list of top losing stocks
+
+
+---
+#SingleStockPrediction Intent
+type: intent
+name: Finance_Predictions_Price_SingleStcok
+slots:
+  - name: stockname
+    entity: stockname
+utterances:
+
+  - stock prediction for [stockname](AAPL)
+  - prediction for [stockname](AAPL)
+  - movement prediction for [stockname](AAPL)
+  - '[stockname](AAPL) predictions'
+  - prediction of stock movement for [stockname](AAPL)
+  - prediction for [stockname](AAPL) movement for the next 3 days
+  - movement prediction for [stockname](AAPL) for the next 3 days
+  - what is the extected price movement for [stockname](AAPL) for the next 3 days
+  - expected price movement for [stockname](AAPL)
+  - expected price movement for [stockname](AAPL) for the next 3 days
+  - what is the expected price for [stockname](AAPL)
+  - what is the price prediction for [stockname](AAPL) for the next 3 days
+  - what is the movement expected for [stockname](AAPL) for the next few days
+
+  - stock prediction for [stockname](Apple)
+  - prediction for [stockname](Apple)
+  - movement prediction for [stockname](Apple)
+  - '[stockname](Apple) predictions'
+  - prediction of stock movement for [stockname](Apple)
+  - prediction for [stockname](Apple) movement for the next 3 days
+  - movement prediction for [stockname](Apple) for the next 3 days
+  - what is the extected price movement for [stockname](Apple) for the next 3 days
+  - expected price movement for [stockname](Apple)
+  - expected price movement for [stockname](Apple) for the next 3 days
+  - what is the expected price for [stockname](Apple)
+  - what is the price prediction for [stockname](Apple) for the next 3 days
+  - what is the movement expected for [stockname](Apple) for the next few days
+
+  - stock prediction for [stockname](apple)
+  - prediction for [stockname](apple)
+  - movement prediction for [stockname](apple)
+  - '[stockname](apple) predictions'
+  - prediction of stock movement for [stockname](apple)
+  - prediction for [stockname](apple) movement for the next 3 days
+  - movement prediction for [stockname](apple) for the next 3 days
+  - what is the extected price movement for [stockname](apple) for the next 3 days
+  - expected price movement for [stockname](apple)
+  - expected price movement for [stockname](apple) for the next 3 days
+  - what is the expected price for [stockname](apple)
+  - what is the price prediction for [stockname](apple) for the next 3 days
+  - what is the movement expected for [stockname](apple) for the next few days
+
+  - stock prediction for [stockname](GOOGL)
+  - prediction for [stockname](GOOGL)
+  - movement prediction for [stockname](GOOGL)
+  - '[stockname](GOOGL) predictions'
+  - prediction of stock movement for [stockname](GOOGL)
+  - prediction for [stockname](GOOGL) movement for the next 3 days
+  - movement prediction for [stockname](GOOGL) for the next 3 days
+  - what is the extected price movement for [stockname](GOOGL) for the next 3 days
+  - expected price movement for [stockname](GOOGL)
+  - expected price movement for [stockname](GOOGL) for the next 3 days
+  - what is the expected price for [stockname](GOOGL)
+  - what is the price prediction for [stockname](GOOGL) for the next 3 days
+  - what is the movement expected for [stockname](GOOGL) for the next few days
+
+  - stock prediction for [stockname](Google)
+  - prediction for [stockname](Google)
+  - movement prediction for [stockname](Google)
+  - '[stockname](Google) predictions'
+  - prediction of stock movement for [stockname](Google)
+  - prediction for [stockname](Google) movement for the next 3 days
+  - movement prediction for [stockname](Google) for the next 3 days
+  - what is the extected price movement for [stockname](Google) for the next 3 days
+  - expected price movement for [stockname](Google)
+  - expected price movement for [stockname](Google) for the next 3 days
+  - what is the expected price for [stockname](Google)
+  - what is the price prediction for [stockname](Google) for the next 3 days
+  - what is the movement expected for [stockname](Google) for the next few days
+
+  - stock prediction for [stockname](google)
+  - prediction for [stockname](google)
+  - movement prediction for [stockname](google)
+  - '[stockname](google) predictions'
+  - prediction of stock movement for [stockname](google)
+  - prediction for [stockname](google) movement for the next 3 days
+  - movement prediction for [stockname](google) for the next 3 days
+  - what is the extected price movement for [stockname](google) for the next 3 days
+  - expected price movement for [stockname](google)
+  - expected price movement for [stockname](google) for the next 3 days
+  - what is the expected price for [stockname](google)
+  - what is the price prediction for [stockname](google) for the next 3 days
+  - what is the movement expected for [stockname](google) for the next few days
+
+  - stock prediction for [stockname](FB)
+  - prediction for [stockname](FB)
+  - movement prediction for [stockname](FB)
+  - '[stockname](FB) predictions'
+  - prediction of stock movement for [stockname](FB)
+  - prediction for [stockname](FB) movement for the next 3 days
+  - movement prediction for [stockname](FB) for the next 3 days
+  - what is the extected price movement for [stockname](FB) for the next 3 days
+  - expected price movement for [stockname](FB)
+  - expected price movement for [stockname](FB) for the next 3 days
+  - what is the expected price for [stockname](FB)
+  - what is the price prediction for [stockname](FB) for the next 3 days
+  - what is the movement expected for [stockname](FB) for the next few days
+
+  - stock prediction for [stockname](Facebook)
+  - prediction for [stockname](Facebook)
+  - movement prediction for [stockname](Facebook)
+  - '[stockname](Facebook) predictions'
+  - prediction of stock movement for [stockname](Facebook)
+  - prediction for [stockname](Facebook) movement for the next 3 days
+  - movement prediction for [stockname](Facebook) for the next 3 days
+  - what is the extected price movement for [stockname](Facebook) for the next 3 days
+  - expected price movement for [stockname](Facebook)
+  - expected price movement for [stockname](Facebook) for the next 3 days
+  - what is the expected price for [stockname](Facebook)
+  - what is the price prediction for [stockname](Facebook) for the next 3 days
+  - what is the movement expected for [stockname](Facebook) for the next few days
+
+  - stock prediction for [stockname](facebook)
+  - prediction for [stockname](facebook)
+  - movement prediction for [stockname](facebook)
+  - '[stockname](facebook) predictions'
+  - prediction of stock movement for [stockname](facebook)
+  - prediction for [stockname](facebook) movement for the next 3 days
+  - movement prediction for [stockname](facebook) for the next 3 days
+  - what is the extected price movement for [stockname](facebook) for the next 3 days
+  - expected price movement for [stockname](facebook)
+  - expected price movement for [stockname](facebook) for the next 3 days
+  - what is the expected price for [stockname](facebook)
+  - what is the price prediction for [stockname](facebook) for the next 3 days
+  - what is the movement expected for [stockname](facebook) for the next few days
+
+  - stock prediction for [stockname](AMZN)
+  - prediction for [stockname](AMZN)
+  - movement prediction for [stockname](AMZN)
+  - '[stockname](AMZN) predictions'
+  - prediction of stock movement for [stockname](AMZN)
+  - prediction for [stockname](AMZN) movement for the next 3 days
+  - movement prediction for [stockname](AMZN) for the next 3 days
+  - what is the extected price movement for [stockname](AMZN) for the next 3 days
+  - expected price movement for [stockname](AMZN)
+  - expected price movement for [stockname](AMZN) for the next 3 days
+  - what is the expected price for [stockname](AMZN)
+  - what is the price prediction for [stockname](AMZN) for the next 3 days
+  - what is the movement expected for [stockname](AMZN) for the next few days
+
+  - stock prediction for [stockname](Amazon)
+  - prediction for [stockname](Amazon)
+  - movement prediction for [stockname](Amazon)
+  - '[stockname](Amazon) predictions'
+  - prediction of stock movement for [stockname](Amazon)
+  - prediction for [stockname](Amazon) movement for the next 3 days
+  - movement prediction for [stockname](Amazon) for the next 3 days
+  - what is the extected price movement for [stockname](Amazon) for the next 3 days
+  - expected price movement for [stockname](Amazon)
+  - expected price movement for [stockname](Amazon) for the next 3 days
+  - what is the expected price for [stockname](Amazon)
+  - what is the price prediction for [stockname](Amazon) for the next 3 days
+  - what is the movement expected for [stockname](Amazon) for the next few days
+
+  - stock prediction for [stockname](amazon)
+  - prediction for [stockname](amazon)
+  - movement prediction for [stockname](amazon)
+  - '[stockname](amazon) predictions'
+  - prediction of stock movement for [stockname](amazon)
+  - prediction for [stockname](amazon) movement for the next 3 days
+  - movement prediction for [stockname](amazon) for the next 3 days
+  - what is the extected price movement for [stockname](amazon) for the next 3 days
+  - expected price movement for [stockname](amazon)
+  - expected price movement for [stockname](amazon) for the next 3 days
+  - what is the expected price for [stockname](amazon)
+  - what is the price prediction for [stockname](amazon) for the next 3 days
+  - what is the movement expected for [stockname](amazon) for the next few days
+
+  - stock prediction for [stockname](MSFT)
+  - prediction for [stockname](MSFT)
+  - movement prediction for [stockname](MSFT)
+  - '[stockname](MSFT) predictions'
+  - prediction of stock movement for [stockname](MSFT)
+  - prediction for [stockname](MSFT) movement for the next 3 days
+  - movement prediction for [stockname](MSFT) for the next 3 days
+  - what is the extected price movement for [stockname](MSFT) for the next 3 days
+  - expected price movement for [stockname](MSFT)
+  - expected price movement for [stockname](MSFT) for the next 3 days
+  - what is the expected price for [stockname](MSFT)
+  - what is the price prediction for [stockname](MSFT) for the next 3 days
+  - what is the movement expected for [stockname](MSFT) for the next few days
+
+  - stock prediction for [stockname](Microsoft)
+  - prediction for [stockname](Microsoft)
+  - movement prediction for [stockname](Microsoft)
+  - '[stockname](Microsoft) predictions'
+  - prediction of stock movement for [stockname](Microsoft)
+  - prediction for [stockname](Microsoft) movement for the next 3 days
+  - movement prediction for [stockname](Microsoft) for the next 3 days
+  - what is the extected price movement for [stockname](Microsoft) for the next 3 days
+  - expected price movement for [stockname](Microsoft)
+  - expected price movement for [stockname](Microsoft) for the next 3 days
+  - what is the expected price for [stockname](Microsoft)
+  - what is the price prediction for [stockname](Microsoft) for the next 3 days
+  - what is the movement expected for [stockname](Microsoft) for the next few days
+
+  - stock prediction for [stockname](microsoft)
+  - prediction for [stockname](microsoft)
+  - movement prediction for [stockname](microsoft)
+  - '[stockname](microsoft) predictions'
+  - prediction of stock movement for [stockname](microsoft)
+  - prediction for [stockname](microsoft) movement for the next 3 days
+  - movement prediction for [stockname](microsoft) for the next 3 days
+  - what is the extected price movement for [stockname](microsoft) for the next 3 days
+  - expected price movement for [stockname](microsoft)
+  - expected price movement for [stockname](microsoft) for the next 3 days
+  - what is the expected price for [stockname](microsoft)
+  - what is the price prediction for [stockname](microsoft) for the next 3 days
+  - what is the movement expected for [stockname](microsoft) for the next few days
+
+  - stock prediction for [stockname](BABA)
+  - prediction for [stockname](BABA)
+  - movement prediction for [stockname](BABA)
+  - '[stockname](BABA) predictions'
+  - prediction of stock movement for [stockname](BABA)
+  - prediction for [stockname](BABA) movement for the next 3 days
+  - movement prediction for [stockname](BABA) for the next 3 days
+  - what is the extected price movement for [stockname](BABA) for the next 3 days
+  - expected price movement for [stockname](BABA)
+  - expected price movement for [stockname](BABA) for the next 3 days
+  - what is the expected price for [stockname](BABA)
+  - what is the price prediction for [stockname](BABA) for the next 3 days
+  - what is the movement expected for [stockname](BABA) for the next few days
+
+  - stock prediction for [stockname](Alibaba)
+  - prediction for [stockname](Alibaba)
+  - movement prediction for [stockname](Alibaba)
+  - '[stockname](Alibaba) predictions'
+  - prediction of stock movement for [stockname](Alibaba)
+  - prediction for [stockname](Alibaba) movement for the next 3 days
+  - movement prediction for [stockname](Alibaba) for the next 3 days
+  - what is the extected price movement for [stockname](Alibaba) for the next 3 days
+  - expected price movement for [stockname](Alibaba)
+  - expected price movement for [stockname](Alibaba) for the next 3 days
+  - what is the expected price for [stockname](Alibaba)
+  - what is the price prediction for [stockname](Alibaba) for the next 3 days
+  - what is the movement expected for [stockname](Alibaba) for the next few days
+
+  - stock prediction for [stockname](alibaba)
+  - prediction for [stockname](alibaba)
+  - movement prediction for [stockname](alibaba)
+  - '[stockname](alibaba) predictions'
+  - prediction of stock movement for [stockname](alibaba)
+  - prediction for [stockname](alibaba) movement for the next 3 days
+  - movement prediction for [stockname](alibaba) for the next 3 days
+  - what is the extected price movement for [stockname](alibaba) for the next 3 days
+  - expected price movement for [stockname](alibaba)
+  - expected price movement for [stockname](alibaba) for the next 3 days
+  - what is the expected price for [stockname](alibaba)
+  - what is the price prediction for [stockname](alibaba) for the next 3 days
+  - what is the movement expected for [stockname](alibaba) for the next few days
+
+  - stock prediction for [stockname](AMD)
+  - prediction for [stockname](AMD)
+  - movement prediction for [stockname](AMD)
+  - '[stockname](AMD) predictions'
+  - prediction of stock movement for [stockname](AMD)
+  - prediction for [stockname](AMD) movement for the next 3 days
+  - movement prediction for [stockname](AMD) for the next 3 days
+  - what is the extected price movement for [stockname](AMD) for the next 3 days
+  - expected price movement for [stockname](AMD)
+  - expected price movement for [stockname](AMD) for the next 3 days
+  - what is the expected price for [stockname](AMD)
+  - what is the price prediction for [stockname](AMD) for the next 3 days
+  - what is the movement expected for [stockname](AMD) for the next few days
+
+  - stock prediction for [stockname](Amd)
+  - prediction for [stockname](Amd)
+  - movement prediction for [stockname](Amd)
+  - '[stockname](Amd) predictions'
+  - prediction of stock movement for [stockname](Amd)
+  - prediction for [stockname](Amd) movement for the next 3 days
+  - movement prediction for [stockname](Amd) for the next 3 days
+  - what is the extected price movement for [stockname](Amd) for the next 3 days
+  - expected price movement for [stockname](Amd)
+  - expected price movement for [stockname](Amd) for the next 3 days
+  - what is the expected price for [stockname](Amd)
+  - what is the price prediction for [stockname](Amd) for the next 3 days
+  - what is the movement expected for [stockname](Amd) for the next few days
+
+  - stock prediction for [stockname](amd)
+  - prediction for [stockname](amd)
+  - movement prediction for [stockname](amd)
+  - '[stockname](amd) predictions'
+  - prediction of stock movement for [stockname](amd)
+  - prediction for [stockname](amd) movement for the next 3 days
+  - movement prediction for [stockname](amd) for the next 3 days
+  - what is the extected price movement for [stockname](amd) for the next 3 days
+  - expected price movement for [stockname](amd)
+  - expected price movement for [stockname](amd) for the next 3 days
+  - what is the expected price for [stockname](amd)
+  - what is the price prediction for [stockname](amd) for the next 3 days
+  - what is the movement expected for [stockname](amd) for the next few days
+
+  - stock prediction for [stockname](INTC)
+  - prediction for [stockname](INTC)
+  - movement prediction for [stockname](INTC)
+  - '[stockname](INTC) predictions'
+  - prediction of stock movement for [stockname](INTC)
+  - prediction for [stockname](INTC) movement for the next 3 days
+  - movement prediction for [stockname](INTC) for the next 3 days
+  - what is the extected price movement for [stockname](INTC) for the next 3 days
+  - expected price movement for [stockname](INTC)
+  - expected price movement for [stockname](INTC) for the next 3 days
+  - what is the expected price for [stockname](INTC)
+  - what is the price prediction for [stockname](INTC) for the next 3 days
+  - what is the movement expected for [stockname](INTC) for the next few days
+
+  - stock prediction for [stockname](Intel)
+  - prediction for [stockname](Intel)
+  - movement prediction for [stockname](Intel)
+  - '[stockname](Intel) predictions'
+  - prediction of stock movement for [stockname](Intel)
+  - prediction for [stockname](Intel) movement for the next 3 days
+  - movement prediction for [stockname](Intel) for the next 3 days
+  - what is the extected price movement for [stockname](Intel) for the next 3 days
+  - expected price movement for [stockname](Intel)
+  - expected price movement for [stockname](Intel) for the next 3 days
+  - what is the expected price for [stockname](Intel)
+  - what is the price prediction for [stockname](Intel) for the next 3 days
+  - what is the movement expected for [stockname](Intel) for the next few days
+
+  - stock prediction for [stockname](intel)
+  - prediction for [stockname](intel)
+  - movement prediction for [stockname](intel)
+  - '[stockname](intel) predictions'
+  - prediction of stock movement for [stockname](intel)
+  - prediction for [stockname](intel) movement for the next 3 days
+  - movement prediction for [stockname](intel) for the next 3 days
+  - what is the extected price movement for [stockname](intel) for the next 3 days
+  - expected price movement for [stockname](intel)
+  - expected price movement for [stockname](intel) for the next 3 days
+  - what is the expected price for [stockname](intel)
+  - what is the price prediction for [stockname](intel) for the next 3 days
+  - what is the movement expected for [stockname](intel) for the next few days
+
+  - stock prediction for [stockname](TSLA)
+  - prediction for [stockname](TSLA)
+  - movement prediction for [stockname](TSLA)
+  - '[stockname](TSLA) predictions'
+  - prediction of stock movement for [stockname](TSLA)
+  - prediction for [stockname](TSLA) movement for the next 3 days
+  - movement prediction for [stockname](TSLA) for the next 3 days
+  - what is the extected price movement for [stockname](TSLA) for the next 3 days
+  - expected price movement for [stockname](TSLA)
+  - expected price movement for [stockname](TSLA) for the next 3 days
+  - what is the expected price for [stockname](TSLA)
+  - what is the price prediction for [stockname](TSLA) for the next 3 days
+  - what is the movement expected for [stockname](TSLA) for the next few days
+
+  - stock prediction for [stockname](Tesla)
+  - prediction for [stockname](Tesla)
+  - movement prediction for [stockname](Tesla)
+  - '[stockname](Tesla) predictions'
+  - prediction of stock movement for [stockname](Tesla)
+  - prediction for [stockname](Tesla) movement for the next 3 days
+  - movement prediction for [stockname](Tesla) for the next 3 days
+  - what is the extected price movement for [stockname](Tesla) for the next 3 days
+  - expected price movement for [stockname](Tesla)
+  - expected price movement for [stockname](Tesla) for the next 3 days
+  - what is the expected price for [stockname](Tesla)
+  - what is the price prediction for [stockname](Tesla) for the next 3 days
+  - what is the movement expected for [stockname](Tesla) for the next few days
+
+  - stock prediction for [stockname](tesla)
+  - prediction for [stockname](tesla)
+  - movement prediction for [stockname](tesla)
+  - '[stockname](tesla) predictions'
+  - prediction of stock movement for [stockname](tesla)
+  - prediction for [stockname](tesla) movement for the next 3 days
+  - movement prediction for [stockname](tesla) for the next 3 days
+  - what is the extected price movement for [stockname](tesla) for the next 3 days
+  - expected price movement for [stockname](tesla)
+  - expected price movement for [stockname](tesla) for the next 3 days
+  - what is the expected price for [stockname](tesla)
+  - what is the price prediction for [stockname](tesla) for the next 3 days
+  - what is the movement expected for [stockname](tesla) for the next few days
+
+  - stock prediction for [stockname](DIA)
+  - prediction for [stockname](DIA)
+  - movement prediction for [stockname](DIA)
+  - '[stockname](DIA) predictions'
+  - prediction of stock movement for [stockname](DIA)
+  - prediction for [stockname](DIA) movement for the next 3 days
+  - movement prediction for [stockname](DIA) for the next 3 days
+  - what is the extected price movement for [stockname](DIA) for the next 3 days
+  - expected price movement for [stockname](DIA)
+  - expected price movement for [stockname](DIA) for the next 3 days
+  - what is the expected price for [stockname](DIA)
+  - what is the price prediction for [stockname](DIA) for the next 3 days
+  - what is the movement expected for [stockname](DIA) for the next few days
+
+  - stock prediction for [stockname](DowJones)
+  - prediction for [stockname](DowJones)
+  - movement prediction for [stockname](DowJones)
+  - '[stockname](DowJones) predictions'
+  - prediction of stock movement for [stockname](DowJones)
+  - prediction for [stockname](DowJones) movement for the next 3 days
+  - movement prediction for [stockname](DowJones) for the next 3 days
+  - what is the extected price movement for [stockname](DowJones) for the next 3 days
+  - expected price movement for [stockname](DowJones)
+  - expected price movement for [stockname](DowJones) for the next 3 days
+  - what is the expected price for [stockname](DowJones)
+  - what is the price prediction for [stockname](DowJones) for the next 3 days
+  - what is the movement expected for [stockname](DowJones) for the next few days
+
+  - stock prediction for [stockname](Dow)
+  - prediction for [stockname](Dow)
+  - movement prediction for [stockname](Dow)
+  - '[stockname](Dow) predictions'
+  - prediction of stock movement for [stockname](Dow)
+  - prediction for [stockname](Dow) movement for the next 3 days
+  - movement prediction for [stockname](Dow) for the next 3 days
+  - what is the extected price movement for [stockname](Dow) for the next 3 days
+  - expected price movement for [stockname](Dow)
+  - expected price movement for [stockname](Dow) for the next 3 days
+  - what is the expected price for [stockname](Dow)
+  - what is the price prediction for [stockname](Dow) for the next 3 days
+  - what is the movement expected for [stockname](Dow) for the next few days
+
+  - stock prediction for [stockname](SPY)
+  - prediction for [stockname](SPY)
+  - movement prediction for [stockname](SPY)
+  - '[stockname](SPY) predictions'
+  - prediction of stock movement for [stockname](SPY)
+  - prediction for [stockname](SPY) movement for the next 3 days
+  - movement prediction for [stockname](SPY) for the next 3 days
+  - what is the extected price movement for [stockname](SPY) for the next 3 days
+  - expected price movement for [stockname](SPY)
+  - expected price movement for [stockname](SPY) for the next 3 days
+  - what is the expected price for [stockname](SPY)
+  - what is the price prediction for [stockname](SPY) for the next 3 days
+  - what is the movement expected for [stockname](SPY) for the next few days
+
+  - stock prediction for [stockname](Spider)
+  - prediction for [stockname](Spider)
+  - movement prediction for [stockname](Spider)
+  - '[stockname](Spider) predictions'
+  - prediction of stock movement for [stockname](Spider)
+  - prediction for [stockname](Spider) movement for the next 3 days
+  - movement prediction for [stockname](Spider) for the next 3 days
+  - what is the extected price movement for [stockname](Spider) for the next 3 days
+  - expected price movement for [stockname](Spider)
+  - expected price movement for [stockname](Spider) for the next 3 days
+  - what is the expected price for [stockname](Spider)
+  - what is the price prediction for [stockname](Spider) for the next 3 days
+  - what is the movement expected for [stockname](Spider) for the next few days
+
+  - stock prediction for [stockname](spider)
+  - prediction for [stockname](spider)
+  - movement prediction for [stockname](spider)
+  - '[stockname](spider) predictions'
+  - prediction of stock movement for [stockname](spider)
+  - prediction for [stockname](spider) movement for the next 3 days
+  - movement prediction for [stockname](spider) for the next 3 days
+  - what is the extected price movement for [stockname](spider) for the next 3 days
+  - expected price movement for [stockname](spider)
+  - expected price movement for [stockname](spider) for the next 3 days
+  - what is the expected price for [stockname](spider)
+  - what is the price prediction for [stockname](spider) for the next 3 days
+  - what is the movement expected for [stockname](spider) for the next few days
+
+  - stock prediction for [stockname](TWTR)
+  - prediction for [stockname](TWTR)
+  - movement prediction for [stockname](TWTR)
+  - '[stockname](TWTR) predictions'
+  - prediction of stock movement for [stockname](TWTR)
+  - prediction for [stockname](TWTR) movement for the next 3 days
+  - movement prediction for [stockname](TWTR) for the next 3 days
+  - what is the extected price movement for [stockname](TWTR) for the next 3 days
+  - expected price movement for [stockname](TWTR)
+  - expected price movement for [stockname](TWTR) for the next 3 days
+  - what is the expected price for [stockname](TWTR)
+  - what is the price prediction for [stockname](TWTR) for the next 3 days
+  - what is the movement expected for [stockname](TWTR) for the next few days
+
+  - stock prediction for [stockname](Twitter)
+  - prediction for [stockname](Twitter)
+  - movement prediction for [stockname](Twitter)
+  - '[stockname](Twitter) predictions'
+  - prediction of stock movement for [stockname](Twitter)
+  - prediction for [stockname](Twitter) movement for the next 3 days
+  - movement prediction for [stockname](Twitter) for the next 3 days
+  - what is the extected price movement for [stockname](Twitter) for the next 3 days
+  - expected price movement for [stockname](Twitter)
+  - expected price movement for [stockname](Twitter) for the next 3 days
+  - what is the expected price for [stockname](Twitter)
+  - what is the price prediction for [stockname](Twitter) for the next 3 days
+  - what is the movement expected for [stockname](Twitter) for the next few days
+
+  - stock prediction for [stockname](twitter)
+  - prediction for [stockname](twitter)
+  - movement prediction for [stockname](twitter)
+  - '[stockname](twitter) predictions'
+  - prediction of stock movement for [stockname](twitter)
+  - prediction for [stockname](twitter) movement for the next 3 days
+  - movement prediction for [stockname](twitter) for the next 3 days
+  - what is the extected price movement for [stockname](twitter) for the next 3 days
+  - expected price movement for [stockname](twitter)
+  - expected price movement for [stockname](twitter) for the next 3 days
+  - what is the expected price for [stockname](twitter)
+  - what is the price prediction for [stockname](twitter) for the next 3 days
+  - what is the movement expected for [stockname](twitter) for the next few days
+ 
+
+
+---
+#WatchlistSentiments Intent sentiments for my watchlist 
+
+type: intent
+name: Finance_Predictions_Sentiments_Watchlist
+utterances:
+  - what are the sentiments for stocks in my watchlist
+  - what is the sentiment of stocks in my watchlist
+  - watchlist sentiments
+  - sentiments of stocks in my watchlist
+  - tell me the sentiments of stock in my watchlist
+  - sentiments for my watchlist
+  - watchlist stock sentiments
+  - general watchlist sentiments
+  - watchlist sentiments predicition
+  - social media watchlist sentiments
+  - stocktwits watchlsit sentiments
+  - current watchlist sentiments
+
+---
+#SingleStockSentiment Intent
+type: intent
+name: Finance_Predictions_Sentiments_SingleStock
+slots:
+  - name: stockname
+    entity: stockname
+utterances:
+
+  - stock sentiments for [stockname](AAPL)
+  - what are the sentiments for [stockname](AAPL)
+  - social media sentiments for [stockname](AAPL)
+  - '[stockname](AAPL) sentiments'
+  - sentiments for [stockname](AAPL)
+  - sentimental analysis for [stockname](AAPL)
+  - sentiment analysis for [stockname](AAPL)
+  - '[stockname](AAPL) sentimental analysis'
+  - '[stockname](AAPL) sentiment analysis'
+  - can i get the sentiments for [stockname](AAPL)
+
+  - stock sentiments for [stockname](Apple)
+  - what are the sentiments for [stockname](Apple)
+  - social media sentiments for [stockname](Apple)
+  - '[stockname](Apple) sentiments'
+  - sentiments for [stockname](Apple)
+  - sentimental analysis for [stockname](Apple)
+  - sentiment analysis for [stockname](Apple)
+  - '[stockname](Apple) sentimental analysis'
+  - '[stockname](Apple) sentiment analysis'
+  - can i get the sentiments for [stockname](Apple)
+
+  - stock sentiments for [stockname](apple)
+  - what are the sentiments for [stockname](apple)
+  - social media sentiments for [stockname](apple)
+  - '[stockname](apple) sentiments'
+  - sentiments for [stockname](apple)
+  - sentimental analysis for [stockname](apple)
+  - sentiment analysis for [stockname](apple)
+  - '[stockname](apple) sentimental analysis'
+  - '[stockname](apple) sentiment analysis'
+  - can i get the sentiments for [stockname](apple)
+
+  - stock sentiments for [stockname](GOOGL)
+  - what are the sentiments for [stockname](GOOGL)
+  - social media sentiments for [stockname](GOOGL)
+  - '[stockname](GOOGL) sentiments'
+  - sentiments for [stockname](GOOGL)
+  - sentimental analysis for [stockname](GOOGL)
+  - sentiment analysis for [stockname](GOOGL)
+  - '[stockname](GOOGL) sentimental analysis'
+  - '[stockname](GOOGL) sentiment analysis'
+  - can i get the sentiments for [stockname](GOOGL)
+
+  - stock sentiments for [stockname](Google)
+  - what are the sentiments for [stockname](Google)
+  - social media sentiments for [stockname](Google)
+  - '[stockname](Google) sentiments'
+  - sentiments for [stockname](Google)
+  - sentimental analysis for [stockname](Google)
+  - sentiment analysis for [stockname](Google)
+  - '[stockname](Google) sentimental analysis'
+  - '[stockname](Google) sentiment analysis'
+  - can i get the sentiments for [stockname](Google)
+
+  - stock sentiments for [stockname](google)
+  - what are the sentiments for [stockname](google)
+  - social media sentiments for [stockname](google)
+  - '[stockname](google) sentiments'
+  - sentiments for [stockname](google)
+  - sentimental analysis for [stockname](google)
+  - sentiment analysis for [stockname](google)
+  - '[stockname](google) sentimental analysis'
+  - '[stockname](google) sentiment analysis'
+  - can i get the sentiments for [stockname](google)
+
+  - stock sentiments for [stockname](FB)
+  - what are the sentiments for [stockname](FB)
+  - social media sentiments for [stockname](FB)
+  - '[stockname](FB) sentiments'
+  - sentiments for [stockname](FB)
+  - sentimental analysis for [stockname](FB)
+  - sentiment analysis for [stockname](FB)
+  - '[stockname](FB) sentimental analysis'
+  - '[stockname](FB) sentiment analysis'
+  - can i get the sentiments for [stockname](FB)
+
+  - stock sentiments for [stockname](Facebook)
+  - what are the sentiments for [stockname](Facebook)
+  - social media sentiments for [stockname](Facebook)
+  - '[stockname](Facebook) sentiments'
+  - sentiments for [stockname](Facebook)
+  - sentimental analysis for [stockname](Facebook)
+  - sentiment analysis for [stockname](Facebook)
+  - '[stockname](Facebook) sentimental analysis'
+  - '[stockname](Facebook) sentiment analysis'
+  - can i get the sentiments for [stockname](Facebook)
+
+  - stock sentiments for [stockname](facebook)
+  - what are the sentiments for [stockname](facebook)
+  - social media sentiments for [stockname](facebook)
+  - '[stockname](facebook) sentiments'
+  - sentiments for [stockname](facebook)
+  - sentimental analysis for [stockname](facebook)
+  - sentiment analysis for [stockname](facebook)
+  - '[stockname](facebook) sentimental analysis'
+  - '[stockname](facebook) sentiment analysis'
+  - can i get the sentiments for [stockname](facebook)
+
+  - stock sentiments for [stockname](AMZN)
+  - what are the sentiments for [stockname](AMZN)
+  - social media sentiments for [stockname](AMZN)
+  - '[stockname](AMZN) sentiments'
+  - sentiments for [stockname](AMZN)
+  - sentimental analysis for [stockname](AMZN)
+  - sentiment analysis for [stockname](AMZN)
+  - '[stockname](AMZN) sentimental analysis'
+  - '[stockname](AMZN) sentiment analysis'
+  - can i get the sentiments for [stockname](AMZN)
+
+  - stock sentiments for [stockname](Amazon)
+  - what are the sentiments for [stockname](Amazon)
+  - social media sentiments for [stockname](Amazon)
+  - '[stockname](Amazon) sentiments'
+  - sentiments for [stockname](Amazon)
+  - sentimental analysis for [stockname](Amazon)
+  - sentiment analysis for [stockname](Amazon)
+  - '[stockname](Amazon) sentimental analysis'
+  - '[stockname](Amazon) sentiment analysis'
+  - can i get the sentiments for [stockname](Amazon)
+
+  - stock sentiments for [stockname](amazon)
+  - what are the sentiments for [stockname](amazon)
+  - social media sentiments for [stockname](amazon)
+  - '[stockname](amazon) sentiments'
+  - sentiments for [stockname](amazon)
+  - sentimental analysis for [stockname](amazon)
+  - sentiment analysis for [stockname](amazon)
+  - '[stockname](amazon) sentimental analysis'
+  - '[stockname](amazon) sentiment analysis'
+  - can i get the sentiments for [stockname](amazon)
+
+  - stock sentiments for [stockname](MSFT)
+  - what are the sentiments for [stockname](MSFT)
+  - social media sentiments for [stockname](MSFT)
+  - '[stockname](MSFT) sentiments'
+  - sentiments for [stockname](MSFT)
+  - sentimental analysis for [stockname](MSFT)
+  - sentiment analysis for [stockname](MSFT)
+  - '[stockname](MSFT) sentimental analysis'
+  - '[stockname](MSFT) sentiment analysis'
+  - can i get the sentiments for [stockname](MSFT)
+
+  - stock sentiments for [stockname](Microsoft)
+  - what are the sentiments for [stockname](Microsoft)
+  - social media sentiments for [stockname](Microsoft)
+  - '[stockname](Microsoft) sentiments'
+  - sentiments for [stockname](Microsoft)
+  - sentimental analysis for [stockname](Microsoft)
+  - sentiment analysis for [stockname](Microsoft)
+  - '[stockname](Microsoft) sentimental analysis'
+  - '[stockname](Microsoft) sentiment analysis'
+  - can i get the sentiments for [stockname](Microsoft)
+
+  - stock sentiments for [stockname](microsoft)
+  - what are the sentiments for [stockname](microsoft)
+  - social media sentiments for [stockname](microsoft)
+  - '[stockname](microsoft) sentiments'
+  - sentiments for [stockname](microsoft)
+  - sentimental analysis for [stockname](microsoft)
+  - sentiment analysis for [stockname](microsoft)
+  - '[stockname](microsoft) sentimental analysis'
+  - '[stockname](microsoft) sentiment analysis'
+  - can i get the sentiments for [stockname](microsoft)
+
+  - stock sentiments for [stockname](BABA)
+  - what are the sentiments for [stockname](BABA)
+  - social media sentiments for [stockname](BABA)
+  - '[stockname](BABA) sentiments'
+  - sentiments for [stockname](BABA)
+  - sentimental analysis for [stockname](BABA)
+  - sentiment analysis for [stockname](BABA)
+  - '[stockname](BABA) sentimental analysis'
+  - '[stockname](BABA) sentiment analysis'
+  - can i get the sentiments for [stockname](BABA)
+
+  - stock sentiments for [stockname](Alibaba)
+  - what are the sentiments for [stockname](Alibaba)
+  - social media sentiments for [stockname](Alibaba)
+  - '[stockname](Alibaba) sentiments'
+  - sentiments for [stockname](Alibaba)
+  - sentimental analysis for [stockname](Alibaba)
+  - sentiment analysis for [stockname](Alibaba)
+  - '[stockname](Alibaba) sentimental analysis'
+  - '[stockname](Alibaba) sentiment analysis'
+  - can i get the sentiments for [stockname](Alibaba)
+
+  - stock sentiments for [stockname](alibaba)
+  - what are the sentiments for [stockname](alibaba)
+  - social media sentiments for [stockname](alibaba)
+  - '[stockname](alibaba) sentiments'
+  - sentiments for [stockname](alibaba)
+  - sentimental analysis for [stockname](alibaba)
+  - sentiment analysis for [stockname](alibaba)
+  - '[stockname](alibaba) sentimental analysis'
+  - '[stockname](alibaba) sentiment analysis'
+  - can i get the sentiments for [stockname](alibaba)
+
+  - stock sentiments for [stockname](AMD)
+  - what are the sentiments for [stockname](AMD)
+  - social media sentiments for [stockname](AMD)
+  - '[stockname](AMD) sentiments'
+  - sentiments for [stockname](AMD)
+  - sentimental analysis for [stockname](AMD)
+  - sentiment analysis for [stockname](AMD)
+  - '[stockname](AMD) sentimental analysis'
+  - '[stockname](AMD) sentiment analysis'
+  - can i get the sentiments for [stockname](AMD)
+
+  - stock sentiments for [stockname](Amd)
+  - what are the sentiments for [stockname](Amd)
+  - social media sentiments for [stockname](Amd)
+  - '[stockname](Amd) sentiments'
+  - sentiments for [stockname](Amd)
+  - sentimental analysis for [stockname](Amd)
+  - sentiment analysis for [stockname](Amd)
+  - '[stockname](Amd) sentimental analysis'
+  - '[stockname](Amd) sentiment analysis'
+  - can i get the sentiments for [stockname](Amd)
+
+  - stock sentiments for [stockname](amd)
+  - what are the sentiments for [stockname](amd)
+  - social media sentiments for [stockname](amd)
+  - '[stockname](amd) sentiments'
+  - sentiments for [stockname](amd)
+  - sentimental analysis for [stockname](amd)
+  - sentiment analysis for [stockname](amd)
+  - '[stockname](amd) sentimental analysis'
+  - '[stockname](amd) sentiment analysis'
+  - can i get the sentiments for [stockname](amd)
+
+  - stock sentiments for [stockname](INTC)
+  - what are the sentiments for [stockname](INTC)
+  - social media sentiments for [stockname](INTC)
+  - '[stockname](INTC) sentiments'
+  - sentiments for [stockname](INTC)
+  - sentimental analysis for [stockname](INTC)
+  - sentiment analysis for [stockname](INTC)
+  - '[stockname](INTC) sentimental analysis'
+  - '[stockname](INTC) sentiment analysis'
+  - can i get the sentiments for [stockname](INTC)
+
+  - stock sentiments for [stockname](Intel)
+  - what are the sentiments for [stockname](Intel)
+  - social media sentiments for [stockname](Intel)
+  - '[stockname](Intel) sentiments'
+  - sentiments for [stockname](Intel)
+  - sentimental analysis for [stockname](Intel)
+  - sentiment analysis for [stockname](Intel)
+  - '[stockname](Intel) sentimental analysis'
+  - '[stockname](Intel) sentiment analysis'
+  - can i get the sentiments for [stockname](Intel)
+
+  - stock sentiments for [stockname](intel)
+  - what are the sentiments for [stockname](intel)
+  - social media sentiments for [stockname](intel)
+  - '[stockname](intel) sentiments'
+  - sentiments for [stockname](intel)
+  - sentimental analysis for [stockname](intel)
+  - sentiment analysis for [stockname](intel)
+  - '[stockname](intel) sentimental analysis'
+  - '[stockname](intel) sentiment analysis'
+  - can i get the sentiments for [stockname](intel)
+
+  - stock sentiments for [stockname](TSLA)
+  - what are the sentiments for [stockname](TSLA)
+  - social media sentiments for [stockname](TSLA)
+  - '[stockname](TSLA) sentiments'
+  - sentiments for [stockname](TSLA)
+  - sentimental analysis for [stockname](TSLA)
+  - sentiment analysis for [stockname](TSLA)
+  - '[stockname](TSLA) sentimental analysis'
+  - '[stockname](TSLA) sentiment analysis'
+  - can i get the sentiments for [stockname](TSLA)
+
+  - stock sentiments for [stockname](Tesla)
+  - what are the sentiments for [stockname](Tesla)
+  - social media sentiments for [stockname](Tesla)
+  - '[stockname](Tesla) sentiments'
+  - sentiments for [stockname](Tesla)
+  - sentimental analysis for [stockname](Tesla)
+  - sentiment analysis for [stockname](Tesla)
+  - '[stockname](Tesla) sentimental analysis'
+  - '[stockname](Tesla) sentiment analysis'
+  - can i get the sentiments for [stockname](Tesla)
+
+  - stock sentiments for [stockname](tesla)
+  - what are the sentiments for [stockname](tesla)
+  - social media sentiments for [stockname](tesla)
+  - '[stockname](tesla) sentiments'
+  - sentiments for [stockname](tesla)
+  - sentimental analysis for [stockname](tesla)
+  - sentiment analysis for [stockname](tesla)
+  - '[stockname](tesla) sentimental analysis'
+  - '[stockname](tesla) sentiment analysis'
+  - can i get the sentiments for [stockname](tesla)
+
+  - stock sentiments for [stockname](DIA)
+  - what are the sentiments for [stockname](DIA)
+  - social media sentiments for [stockname](DIA)
+  - '[stockname](DIA) sentiments'
+  - sentiments for [stockname](DIA)
+  - sentimental analysis for [stockname](DIA)
+  - sentiment analysis for [stockname](DIA)
+  - '[stockname](DIA) sentimental analysis'
+  - '[stockname](DIA) sentiment analysis'
+  - can i get the sentiments for [stockname](DIA)
+
+  - stock sentiments for [stockname](DowJones)
+  - what are the sentiments for [stockname](DowJones)
+  - social media sentiments for [stockname](DowJones)
+  - '[stockname](DowJones) sentiments'
+  - sentiments for [stockname](DowJones)
+  - sentimental analysis for [stockname](DowJones)
+  - sentiment analysis for [stockname](DowJones)
+  - '[stockname](DowJones) sentimental analysis'
+  - '[stockname](DowJones) sentiment analysis'
+  - can i get the sentiments for [stockname](DowJones)
+
+  - stock sentiments for [stockname](Dow)
+  - what are the sentiments for [stockname](Dow)
+  - social media sentiments for [stockname](Dow)
+  - '[stockname](Dow) sentiments'
+  - sentiments for [stockname](Dow)
+  - sentimental analysis for [stockname](Dow)
+  - sentiment analysis for [stockname](Dow)
+  - '[stockname](Dow) sentimental analysis'
+  - '[stockname](Dow) sentiment analysis'
+  - can i get the sentiments for [stockname](Dow)
+
+  - stock sentiments for [stockname](SPY)
+  - what are the sentiments for [stockname](SPY)
+  - social media sentiments for [stockname](SPY)
+  - '[stockname](SPY) sentiments'
+  - sentiments for [stockname](SPY)
+  - sentimental analysis for [stockname](SPY)
+  - sentiment analysis for [stockname](SPY)
+  - '[stockname](SPY) sentimental analysis'
+  - '[stockname](SPY) sentiment analysis'
+  - can i get the sentiments for [stockname](SPY)
+
+  - stock sentiments for [stockname](Spider)
+  - what are the sentiments for [stockname](Spider)
+  - social media sentiments for [stockname](Spider)
+  - '[stockname](Spider) sentiments'
+  - sentiments for [stockname](Spider)
+  - sentimental analysis for [stockname](Spider)
+  - sentiment analysis for [stockname](Spider)
+  - '[stockname](Spider) sentimental analysis'
+  - '[stockname](Spider) sentiment analysis'
+  - can i get the sentiments for [stockname](Spider)
+
+  - stock sentiments for [stockname](spider)
+  - what are the sentiments for [stockname](spider)
+  - social media sentiments for [stockname](spider)
+  - '[stockname](spider) sentiments'
+  - sentiments for [stockname](spider)
+  - sentimental analysis for [stockname](spider)
+  - sentiment analysis for [stockname](spider)
+  - '[stockname](spider) sentimental analysis'
+  - '[stockname](spider) sentiment analysis'
+  - can i get the sentiments for [stockname](spider)
+
+  - stock sentiments for [stockname](TWTR)
+  - what are the sentiments for [stockname](TWTR)
+  - social media sentiments for [stockname](TWTR)
+  - '[stockname](TWTR) sentiments'
+  - sentiments for [stockname](TWTR)
+  - sentimental analysis for [stockname](TWTR)
+  - sentiment analysis for [stockname](TWTR)
+  - '[stockname](TWTR) sentimental analysis'
+  - '[stockname](TWTR) sentiment analysis'
+  - can i get the sentiments for [stockname](TWTR)
+
+  - stock sentiments for [stockname](Twitter)
+  - what are the sentiments for [stockname](Twitter)
+  - social media sentiments for [stockname](Twitter)
+  - '[stockname](Twitter) sentiments'
+  - sentiments for [stockname](Twitter)
+  - sentimental analysis for [stockname](Twitter)
+  - sentiment analysis for [stockname](Twitter)
+  - '[stockname](Twitter) sentimental analysis'
+  - '[stockname](Twitter) sentiment analysis'
+  - can i get the sentiments for [stockname](Twitter)
+
+  - stock sentiments for [stockname](twitter)
+  - what are the sentiments for [stockname](twitter)
+  - social media sentiments for [stockname](twitter)
+  - '[stockname](twitter) sentiments'
+  - sentiments for [stockname](twitter)
+  - sentimental analysis for [stockname](twitter)
+  - sentiment analysis for [stockname](twitter)
+  - '[stockname](twitter) sentimental analysis'
+  - '[stockname](twitter) sentiment analysis'
+  - can i get the sentiments for [stockname](twitter)
+
+
+
+
+---
+#StockNews Intent
+
+type: intent
+name: Finance_News_Stock
+slots:
+  - name: stockname
+    entity: stockname
+utterances:
+  - '[stockname](AAPL) news'
+  - news for [stockname](AAPL)
+  - related news for [stockname](AAPL)
+  - can i have the news for [stockname](AAPL)
+  - news feed from [stockname](AAPL)
+  - '[stockname](AAPL) news feed'
+  - latest news on [stockname](AAPL)
+  - what is the latest news for [stockname](AAPL)
+  - '[stockname](AAPL) latest news'
+
+  - '[stockname](Apple) news'
+  - news for [stockname](Apple)
+  - related news for [stockname](Apple)
+  - can i have the news for [stockname](Apple)
+  - news feed from [stockname](Apple)
+  - '[stockname](Apple) news feed'
+  - latest news on [stockname](Apple)
+  - what is the latest news for [stockname](Apple)
+  - '[stockname](Apple) latest news'
+
+  - '[stockname](apple) news'
+  - news for [stockname](apple)
+  - related news for [stockname](apple)
+  - can i have the news for [stockname](apple)
+  - news feed from [stockname](apple)
+  - '[stockname](apple) news feed'
+  - latest news on [stockname](apple)
+  - what is the latest news for [stockname](apple)
+  - '[stockname](apple) latest news'
+
+  - '[stockname](GOOGL) news'
+  - news for [stockname](GOOGL)
+  - related news for [stockname](GOOGL)
+  - can i have the news for [stockname](GOOGL)
+  - news feed from [stockname](GOOGL)
+  - '[stockname](GOOGL) news feed'
+  - latest news on [stockname](GOOGL)
+  - what is the latest news for [stockname](GOOGL)
+  - '[stockname](GOOGL) latest news'
+
+  - '[stockname](Google) news'
+  - news for [stockname](Google)
+  - related news for [stockname](Google)
+  - can i have the news for [stockname](Google)
+  - news feed from [stockname](Google)
+  - '[stockname](Google) news feed'
+  - latest news on [stockname](Google)
+  - what is the latest news for [stockname](Google)
+  - '[stockname](Google) latest news'
+
+  - '[stockname](google) news'
+  - news for [stockname](google)
+  - related news for [stockname](google)
+  - can i have the news for [stockname](google)
+  - news feed from [stockname](google)
+  - '[stockname](google) news feed'
+  - latest news on [stockname](google)
+  - what is the latest news for [stockname](google)
+  - '[stockname](google) latest news'
+
+  - '[stockname](FB) news'
+  - news for [stockname](FB)
+  - related news for [stockname](FB)
+  - can i have the news for [stockname](FB)
+  - news feed from [stockname](FB)
+  - '[stockname](FB) news feed'
+  - latest news on [stockname](FB)
+  - what is the latest news for [stockname](FB)
+  - '[stockname](FB) latest news'
+
+  - '[stockname](Facebook) news'
+  - news for [stockname](Facebook)
+  - related news for [stockname](Facebook)
+  - can i have the news for [stockname](Facebook)
+  - news feed from [stockname](Facebook)
+  - '[stockname](Facebook) news feed'
+  - latest news on [stockname](Facebook)
+  - what is the latest news for [stockname](Facebook)
+  - '[stockname](Facebook) latest news'
+
+  - '[stockname](facebook) news'
+  - news for [stockname](facebook)
+  - related news for [stockname](facebook)
+  - can i have the news for [stockname](facebook)
+  - news feed from [stockname](facebook)
+  - '[stockname](facebook) news feed'
+  - latest news on [stockname](facebook)
+  - what is the latest news for [stockname](facebook)
+  - '[stockname](facebook) latest news'
+
+  - '[stockname](AMZN) news'
+  - news for [stockname](AMZN)
+  - related news for [stockname](AMZN)
+  - can i have the news for [stockname](AMZN)
+  - news feed from [stockname](AMZN)
+  - '[stockname](AMZN) news feed'
+  - latest news on [stockname](AMZN)
+  - what is the latest news for [stockname](AMZN)
+  - '[stockname](AMZN) latest news'
+
+  - '[stockname](Amazon) news'
+  - news for [stockname](Amazon)
+  - related news for [stockname](Amazon)
+  - can i have the news for [stockname](Amazon)
+  - news feed from [stockname](Amazon)
+  - '[stockname](Amazon) news feed'
+  - latest news on [stockname](Amazon)
+  - what is the latest news for [stockname](Amazon)
+  - '[stockname](Amazon) latest news'
+
+  - '[stockname](amazon) news'
+  - news for [stockname](amazon)
+  - related news for [stockname](amazon)
+  - can i have the news for [stockname](amazon)
+  - news feed from [stockname](amazon)
+  - '[stockname](amazon) news feed'
+  - latest news on [stockname](amazon)
+  - what is the latest news for [stockname](amazon)
+  - '[stockname](amazon) latest news'
+
+  - '[stockname](MSFT) news'
+  - news for [stockname](MSFT)
+  - related news for [stockname](MSFT)
+  - can i have the news for [stockname](MSFT)
+  - news feed from [stockname](MSFT)
+  - '[stockname](MSFT) news feed'
+  - latest news on [stockname](MSFT)
+  - what is the latest news for [stockname](MSFT)
+  - '[stockname](MSFT) latest news'
+
+  - '[stockname](Microsoft) news'
+  - news for [stockname](Microsoft)
+  - related news for [stockname](Microsoft)
+  - can i have the news for [stockname](Microsoft)
+  - news feed from [stockname](Microsoft)
+  - '[stockname](Microsoft) news feed'
+  - latest news on [stockname](Microsoft)
+  - what is the latest news for [stockname](Microsoft)
+  - '[stockname](Microsoft) latest news'
+
+  - '[stockname](microsoft) news'
+  - news for [stockname](microsoft)
+  - related news for [stockname](microsoft)
+  - can i have the news for [stockname](microsoft)
+  - news feed from [stockname](microsoft)
+  - '[stockname](microsoft) news feed'
+  - latest news on [stockname](microsoft)
+  - what is the latest news for [stockname](microsoft)
+  - '[stockname](microsoft) latest news'
+
+  - '[stockname](BABA) news'
+  - news for [stockname](BABA)
+  - related news for [stockname](BABA)
+  - can i have the news for [stockname](BABA)
+  - news feed from [stockname](BABA)
+  - '[stockname](BABA) news feed'
+  - latest news on [stockname](BABA)
+  - what is the latest news for [stockname](BABA)
+  - '[stockname](BABA) latest news'
+
+  - '[stockname](Alibaba) news'
+  - news for [stockname](Alibaba)
+  - related news for [stockname](Alibaba)
+  - can i have the news for [stockname](Alibaba)
+  - news feed from [stockname](Alibaba)
+  - '[stockname](Alibaba) news feed'
+  - latest news on [stockname](Alibaba)
+  - what is the latest news for [stockname](Alibaba)
+  - '[stockname](Alibaba) latest news'
+
+  - '[stockname](alibaba) news'
+  - news for [stockname](alibaba)
+  - related news for [stockname](alibaba)
+  - can i have the news for [stockname](alibaba)
+  - news feed from [stockname](alibaba)
+  - '[stockname](alibaba) news feed'
+  - latest news on [stockname](alibaba)
+  - what is the latest news for [stockname](alibaba)
+  - '[stockname](alibaba) latest news'
+
+  - '[stockname](AMD) news'
+  - news for [stockname](AMD)
+  - related news for [stockname](AMD)
+  - can i have the news for [stockname](AMD)
+  - news feed from [stockname](AMD)
+  - '[stockname](AMD) news feed'
+  - latest news on [stockname](AMD)
+  - what is the latest news for [stockname](AMD)
+  - '[stockname](AMD) latest news'
+
+  - '[stockname](Amd) news'
+  - news for [stockname](Amd)
+  - related news for [stockname](Amd)
+  - can i have the news for [stockname](Amd)
+  - news feed from [stockname](Amd)
+  - '[stockname](Amd) news feed'
+  - latest news on [stockname](Amd)
+  - what is the latest news for [stockname](Amd)
+  - '[stockname](Amd) latest news'
+
+  - '[stockname](amd) news'
+  - news for [stockname](amd)
+  - related news for [stockname](amd)
+  - can i have the news for [stockname](amd)
+  - news feed from [stockname](amd)
+  - '[stockname](amd) news feed'
+  - latest news on [stockname](amd)
+  - what is the latest news for [stockname](amd)
+  - '[stockname](amd) latest news'
+
+  - '[stockname](INTC) news'
+  - news for [stockname](INTC)
+  - related news for [stockname](INTC)
+  - can i have the news for [stockname](INTC)
+  - news feed from [stockname](INTC)
+  - '[stockname](INTC) news feed'
+  - latest news on [stockname](INTC)
+  - what is the latest news for [stockname](INTC)
+  - '[stockname](INTC) latest news'
+
+  - '[stockname](Intel) news'
+  - news for [stockname](Intel)
+  - related news for [stockname](Intel)
+  - can i have the news for [stockname](Intel)
+  - news feed from [stockname](Intel)
+  - '[stockname](Intel) news feed'
+  - latest news on [stockname](Intel)
+  - what is the latest news for [stockname](Intel)
+  - '[stockname](Intel) latest news'
+
+  - '[stockname](intel) news'
+  - news for [stockname](intel)
+  - related news for [stockname](intel)
+  - can i have the news for [stockname](intel)
+  - news feed from [stockname](intel)
+  - '[stockname](intel) news feed'
+  - latest news on [stockname](intel)
+  - what is the latest news for [stockname](intel)
+  - '[stockname](intel) latest news'
+
+  - '[stockname](TSLA) news'
+  - news for [stockname](TSLA)
+  - related news for [stockname](TSLA)
+  - can i have the news for [stockname](TSLA)
+  - news feed from [stockname](TSLA)
+  - '[stockname](TSLA) news feed'
+  - latest news on [stockname](TSLA)
+  - what is the latest news for [stockname](TSLA)
+  - '[stockname](TSLA) latest news'
+
+  - '[stockname](Tesla) news'
+  - news for [stockname](Tesla)
+  - related news for [stockname](Tesla)
+  - can i have the news for [stockname](Tesla)
+  - news feed from [stockname](Tesla)
+  - '[stockname](Tesla) news feed'
+  - latest news on [stockname](Tesla)
+  - what is the latest news for [stockname](Tesla)
+  - '[stockname](Tesla) latest news'
+
+  - '[stockname](tesla) news'
+  - news for [stockname](tesla)
+  - related news for [stockname](tesla)
+  - can i have the news for [stockname](tesla)
+  - news feed from [stockname](tesla)
+  - '[stockname](tesla) news feed'
+  - latest news on [stockname](tesla)
+  - what is the latest news for [stockname](tesla)
+  - '[stockname](tesla) latest news'
+
+  - '[stockname](DIA) news'
+  - news for [stockname](DIA)
+  - related news for [stockname](DIA)
+  - can i have the news for [stockname](DIA)
+  - news feed from [stockname](DIA)
+  - '[stockname](DIA) news feed'
+  - latest news on [stockname](DIA)
+  - what is the latest news for [stockname](DIA)
+  - '[stockname](DIA) latest news'
+
+  - '[stockname](DowJones) news'
+  - news for [stockname](DowJones)
+  - related news for [stockname](DowJones)
+  - can i have the news for [stockname](DowJones)
+  - news feed from [stockname](DowJones)
+  - '[stockname](DowJones) news feed'
+  - latest news on [stockname](DowJones)
+  - what is the latest news for [stockname](DowJones)
+  - '[stockname](DowJones) latest news'
+
+  - '[stockname](Dow) news'
+  - news for [stockname](Dow)
+  - related news for [stockname](Dow)
+  - can i have the news for [stockname](Dow)
+  - news feed from [stockname](Dow)
+  - '[stockname](Dow) news feed'
+  - latest news on [stockname](Dow)
+  - what is the latest news for [stockname](Dow)
+  - '[stockname](Dow) latest news'
+
+  - '[stockname](SPY) news'
+  - news for [stockname](SPY)
+  - related news for [stockname](SPY)
+  - can i have the news for [stockname](SPY)
+  - news feed from [stockname](SPY)
+  - '[stockname](SPY) news feed'
+  - latest news on [stockname](SPY)
+  - what is the latest news for [stockname](SPY)
+  - '[stockname](SPY) latest news'
+
+  - '[stockname](Spider) news'
+  - news for [stockname](Spider)
+  - related news for [stockname](Spider)
+  - can i have the news for [stockname](Spider)
+  - news feed from [stockname](Spider)
+  - '[stockname](Spider) news feed'
+  - latest news on [stockname](Spider)
+  - what is the latest news for [stockname](Spider)
+  - '[stockname](Spider) latest news'
+
+  - '[stockname](spider) news'
+  - news for [stockname](spider)
+  - related news for [stockname](spider)
+  - can i have the news for [stockname](spider)
+  - news feed from [stockname](spider)
+  - '[stockname](spider) news feed'
+  - latest news on [stockname](spider)
+  - what is the latest news for [stockname](spider)
+  - '[stockname](spider) latest news'
+
+  - '[stockname](TWTR) news'
+  - news for [stockname](TWTR)
+  - related news for [stockname](TWTR)
+  - can i have the news for [stockname](TWTR)
+  - news feed from [stockname](TWTR)
+  - '[stockname](TWTR) news feed'
+  - latest news on [stockname](TWTR)
+  - what is the latest news for [stockname](TWTR)
+  - '[stockname](TWTR) latest news'
+
+  - '[stockname](Twitter) news'
+  - news for [stockname](Twitter)
+  - related news for [stockname](Twitter)
+  - can i have the news for [stockname](Twitter)
+  - news feed from [stockname](Twitter)
+  - '[stockname](Twitter) news feed'
+  - latest news on [stockname](Twitter)
+  - what is the latest news for [stockname](Twitter)
+  - '[stockname](Twitter) latest news'
+
+  - '[stockname](twitter) news'
+  - news for [stockname](twitter)
+  - related news for [stockname](twitter)
+  - can i have the news for [stockname](twitter)
+  - news feed from [stockname](twitter)
+  - '[stockname](twitter) news feed'
+  - latest news on [stockname](twitter)
+  - what is the latest news for [stockname](twitter)
+  - '[stockname](twitter) latest news'
+ 
+
+
+---
+#TodayNews Intent
+
+type: intent
+name: Finance_News_Today
+utterances:
+  - news today
+  - what are the headlines today
+  - news headlines today
+  - today's financial news
+  - today news
+  - financial news today
+  - top news today
+  - news highlights
+  - what are the major news today
+  - tell me the news today
+  - news
+
+---
+#WatchlistTrendings Intents news for my watchlist
+
+type: intent
+name: Finance_News_Watchlist
+utterances:
+  - tell me related news in my watchlist
+  - trending news for my watchlist
+  - what is the news for the watchlist
+  - daily news for the watchlist
+  - watchlist news
+  - watchlist daily news
+  - 'news related to my interest'
+  - interesting news
+  - interesting topic
+  - trending news in my watchlist
+  - trending topic in my watchlist
+  - trending market topic in my watchlist
+  - trending news in my watchlist
+  - watchlist feeds
+
+
+---
+#TrendingTopics Intent   trending topics and news articles
+
+type: intent
+name: Finance_News_Trending
+slots:
+  - name: stockname
+    entity: stockname
+  - name: numberofdays
+    entity: numberofdays
+utterances:
+  - What are the recent trending topics for the past [numberofdays] days?
+  - What are the most mentioned topics on social media
+  - popular topics on social media for the past [numberofdays] days
+  - trending topics on social media
+  - hot topics on social media for the past [numberofdays] days
+  - trending topics for the past [numberofdays] days
+  - hot topics
+  - recent topics on social media
+  - what are people talking about?
+  - social media topics
+  - hot social media topics
+  - what is on the social media for the past [numberofdays] days
+  - topics and trends on social media
+  - hot topics online for the past [numberofdays] days
+  - what are people on social media talking about?
+  - topics that are affecting the market
+  - market talks for the past [numberofdays] days
+  - social media insights
+  - stocktwits trending topics
+  - social media trending topics for the past [numberofdays] days
+  - market trending
+  - market trending topics
+  - what are the market talking about for the past [numberofdays] days?
+  - talks of the town
+  - hottest topic in town for the past [numberofdays] days
+
+  - What are the trending topics for [stockname](AAPL)
+  - What are the popular topics for [stockname](AAPL)
+  - What are the popular topics for [stockname](AAPL)
+
+  - What are the trending topics for [stockname](Apple)
+  - What are the popular topics for [stockname](Apple)
+  - What are the popular topics for [stockname](Apple)
+
+  - What are the trending topics for [stockname](apple)
+  - What are the popular topics for [stockname](apple)
+  - What are the popular topics for [stockname](apple)
+
+  - What are the trending topics for [stockname](GOOGL)
+  - What are the popular topics for [stockname](GOOGL)
+  - What are the popular topics for [stockname](GOOGL)
+
+  - What are the trending topics for [stockname](Google)
+  - What are the popular topics for [stockname](Google)
+  - What are the popular topics for [stockname](Google)
+
+  - What are the trending topics for [stockname](google)
+  - What are the popular topics for [stockname](google)
+  - What are the popular topics for [stockname](google)
+
+  - What are the trending topics for [stockname](FB)
+  - What are the popular topics for [stockname](FB)
+  - What are the popular topics for [stockname](FB)
+
+  - What are the trending topics for [stockname](Facebook)
+  - What are the popular topics for [stockname](Facebook)
+  - What are the popular topics for [stockname](Facebook)
+
+  - What are the trending topics for [stockname](facebook)
+  - What are the popular topics for [stockname](facebook)
+  - What are the popular topics for [stockname](facebook)
+
+  - What are the trending topics for [stockname](AMZN)
+  - What are the popular topics for [stockname](AMZN)
+  - What are the popular topics for [stockname](AMZN)
+
+  - What are the trending topics for [stockname](Amazon)
+  - What are the popular topics for [stockname](Amazon)
+  - What are the popular topics for [stockname](Amazon)
+
+  - What are the trending topics for [stockname](amazon)
+  - What are the popular topics for [stockname](amazon)
+  - What are the popular topics for [stockname](amazon)
+
+  - What are the trending topics for [stockname](MSFT)
+  - What are the popular topics for [stockname](MSFT)
+  - What are the popular topics for [stockname](MSFT)
+
+  - What are the trending topics for [stockname](Microsoft)
+  - What are the popular topics for [stockname](Microsoft)
+  - What are the popular topics for [stockname](Microsoft)
+
+  - What are the trending topics for [stockname](microsoft)
+  - What are the popular topics for [stockname](microsoft)
+  - What are the popular topics for [stockname](microsoft)
+
+  - What are the trending topics for [stockname](BABA)
+  - What are the popular topics for [stockname](BABA)
+  - What are the popular topics for [stockname](BABA)
+
+  - What are the trending topics for [stockname](Alibaba)
+  - What are the popular topics for [stockname](Alibaba)
+  - What are the popular topics for [stockname](Alibaba)
+
+  - What are the trending topics for [stockname](alibaba)
+  - What are the popular topics for [stockname](alibaba)
+  - What are the popular topics for [stockname](alibaba)
+
+  - What are the trending topics for [stockname](AMD)
+  - What are the popular topics for [stockname](AMD)
+  - What are the popular topics for [stockname](AMD)
+
+  - What are the trending topics for [stockname](Amd)
+  - What are the popular topics for [stockname](Amd)
+  - What are the popular topics for [stockname](Amd)
+
+  - What are the trending topics for [stockname](amd)
+  - What are the popular topics for [stockname](amd)
+  - What are the popular topics for [stockname](amd)
+
+  - What are the trending topics for [stockname](INTC)
+  - What are the popular topics for [stockname](INTC)
+  - What are the popular topics for [stockname](INTC)
+
+  - What are the trending topics for [stockname](Intel)
+  - What are the popular topics for [stockname](Intel)
+  - What are the popular topics for [stockname](Intel)
+
+  - What are the trending topics for [stockname](intel)
+  - What are the popular topics for [stockname](intel)
+  - What are the popular topics for [stockname](intel)
+
+  - What are the trending topics for [stockname](TSLA)
+  - What are the popular topics for [stockname](TSLA)
+  - What are the popular topics for [stockname](TSLA)
+
+  - What are the trending topics for [stockname](Tesla)
+  - What are the popular topics for [stockname](Tesla)
+  - What are the popular topics for [stockname](Tesla)
+
+  - What are the trending topics for [stockname](tesla)
+  - What are the popular topics for [stockname](tesla)
+  - What are the popular topics for [stockname](tesla)
+
+  - What are the trending topics for [stockname](DIA)
+  - What are the popular topics for [stockname](DIA)
+  - What are the popular topics for [stockname](DIA)
+
+  - What are the trending topics for [stockname](DowJones)
+  - What are the popular topics for [stockname](DowJones)
+  - What are the popular topics for [stockname](DowJones)
+
+  - What are the trending topics for [stockname](Dow)
+  - What are the popular topics for [stockname](Dow)
+  - What are the popular topics for [stockname](Dow)
+
+  - What are the trending topics for [stockname](SPY)
+  - What are the popular topics for [stockname](SPY)
+  - What are the popular topics for [stockname](SPY)
+
+  - What are the trending topics for [stockname](Spider)
+  - What are the popular topics for [stockname](Spider)
+  - What are the popular topics for [stockname](Spider)
+
+  - What are the trending topics for [stockname](spider)
+  - What are the popular topics for [stockname](spider)
+  - What are the popular topics for [stockname](spider)
+
+  - What are the trending topics for [stockname](TWTR)
+  - What are the popular topics for [stockname](TWTR)
+  - What are the popular topics for [stockname](TWTR)
+
+  - What are the trending topics for [stockname](Twitter)
+  - What are the popular topics for [stockname](Twitter)
+  - What are the popular topics for [stockname](Twitter)
+
+  - What are the trending topics for [stockname](twitter)
+  - What are the popular topics for [stockname](twitter)
+  - What are the popular topics for [stockname](twitter)
+
+  - What are the trending news for [stockname](AAPL)
+  - What are the popular news for [stockname](AAPL)
+  - What are the popular news for [stockname](AAPL)
+
+  - What are the trending news for [stockname](Apple)
+  - What are the popular news for [stockname](Apple)
+  - What are the popular news for [stockname](Apple)
+
+  - What are the trending news for [stockname](apple)
+  - What are the popular news for [stockname](apple)
+  - What are the popular news for [stockname](apple)
+
+  - What are the trending news for [stockname](GOOGL)
+  - What are the popular news for [stockname](GOOGL)
+  - What are the popular news for [stockname](GOOGL)
+
+  - What are the trending news for [stockname](Google)
+  - What are the popular news for [stockname](Google)
+  - What are the popular news for [stockname](Google)
+
+  - What are the trending news for [stockname](google)
+  - What are the popular news for [stockname](google)
+  - What are the popular news for [stockname](google)
+
+  - What are the trending news for [stockname](FB)
+  - What are the popular news for [stockname](FB)
+  - What are the popular news for [stockname](FB)
+
+  - What are the trending news for [stockname](Facebook)
+  - What are the popular news for [stockname](Facebook)
+  - What are the popular news for [stockname](Facebook)
+
+  - What are the trending news for [stockname](facebook)
+  - What are the popular news for [stockname](facebook)
+  - What are the popular news for [stockname](facebook)
+
+  - What are the trending news for [stockname](AMZN)
+  - What are the popular news for [stockname](AMZN)
+  - What are the popular news for [stockname](AMZN)
+
+  - What are the trending news for [stockname](Amazon)
+  - What are the popular news for [stockname](Amazon)
+  - What are the popular news for [stockname](Amazon)
+
+  - What are the trending news for [stockname](amazon)
+  - What are the popular news for [stockname](amazon)
+  - What are the popular news for [stockname](amazon)
+
+  - What are the trending news for [stockname](MSFT)
+  - What are the popular news for [stockname](MSFT)
+  - What are the popular news for [stockname](MSFT)
+
+  - What are the trending news for [stockname](Microsoft)
+  - What are the popular news for [stockname](Microsoft)
+  - What are the popular news for [stockname](Microsoft)
+
+  - What are the trending news for [stockname](microsoft)
+  - What are the popular news for [stockname](microsoft)
+  - What are the popular news for [stockname](microsoft)
+
+  - What are the trending news for [stockname](BABA)
+  - What are the popular news for [stockname](BABA)
+  - What are the popular news for [stockname](BABA)
+
+  - What are the trending news for [stockname](Alibaba)
+  - What are the popular news for [stockname](Alibaba)
+  - What are the popular news for [stockname](Alibaba)
+
+  - What are the trending news for [stockname](alibaba)
+  - What are the popular news for [stockname](alibaba)
+  - What are the popular news for [stockname](alibaba)
+
+  - What are the trending news for [stockname](AMD)
+  - What are the popular news for [stockname](AMD)
+  - What are the popular news for [stockname](AMD)
+
+  - What are the trending news for [stockname](Amd)
+  - What are the popular news for [stockname](Amd)
+  - What are the popular news for [stockname](Amd)
+
+  - What are the trending news for [stockname](amd)
+  - What are the popular news for [stockname](amd)
+  - What are the popular news for [stockname](amd)
+
+  - What are the trending news for [stockname](INTC)
+  - What are the popular news for [stockname](INTC)
+  - What are the popular news for [stockname](INTC)
+
+  - What are the trending news for [stockname](Intel)
+  - What are the popular news for [stockname](Intel)
+  - What are the popular news for [stockname](Intel)
+
+  - What are the trending news for [stockname](intel)
+  - What are the popular news for [stockname](intel)
+  - What are the popular news for [stockname](intel)
+
+  - What are the trending news for [stockname](TSLA)
+  - What are the popular news for [stockname](TSLA)
+  - What are the popular news for [stockname](TSLA)
+
+  - What are the trending news for [stockname](Tesla)
+  - What are the popular news for [stockname](Tesla)
+  - What are the popular news for [stockname](Tesla)
+
+  - What are the trending news for [stockname](tesla)
+  - What are the popular news for [stockname](tesla)
+  - What are the popular news for [stockname](tesla)
+
+  - What are the trending news for [stockname](DIA)
+  - What are the popular news for [stockname](DIA)
+  - What are the popular news for [stockname](DIA)
+
+  - What are the trending news for [stockname](DowJones)
+  - What are the popular news for [stockname](DowJones)
+  - What are the popular news for [stockname](DowJones)
+
+  - What are the trending news for [stockname](Dow)
+  - What are the popular news for [stockname](Dow)
+  - What are the popular news for [stockname](Dow)
+
+  - What are the trending news for [stockname](SPY)
+  - What are the popular news for [stockname](SPY)
+  - What are the popular news for [stockname](SPY)
+
+  - What are the trending news for [stockname](Spider)
+  - What are the popular news for [stockname](Spider)
+  - What are the popular news for [stockname](Spider)
+
+  - What are the trending news for [stockname](spider)
+  - What are the popular news for [stockname](spider)
+  - What are the popular news for [stockname](spider)
+
+  - What are the trending news for [stockname](TWTR)
+  - What are the popular news for [stockname](TWTR)
+  - What are the popular news for [stockname](TWTR)
+
+  - What are the trending news for [stockname](Twitter)
+  - What are the popular news for [stockname](Twitter)
+  - What are the popular news for [stockname](Twitter)
+
+  - What are the trending news for [stockname](twitter)
+  - What are the popular news for [stockname](twitter)
+  - What are the popular news for [stockname](twitter)
+---
+#Whatcanido  Intent  
+type: intent
+name: Finance_General_Whatcanido
+utterances:
+  - What can this bot do
+  - What does this chatbot do
+
+---
+
+type: intent
+name: Finance_General_CurrentPrice
+slots:
+  - name: stockname
+    entity: stockname
+utterances:
+
+  - What is the current price for [stockname](AAPL)?
+  - now price for [stockname](AAPL)
+  - Can I have the price for [stockname](AAPL)?
+  - May I get the current price for [stockname](AAPL)?
+  - Get me the price for [stockname](AAPL)
+  - Get me the current price for [stockname](AAPL)
+  - Price of [stockname](AAPL)
+  - '[stockname](AAPL) price'
+  - Current price for [stockname](AAPL)
+  - Last price for [stockname](AAPL)
+
+  - What is the current price for [stockname](Apple)?
+  - now price for [stockname](Apple)
+  - Can I have the price for [stockname](Apple)?
+  - May I get the current price for [stockname](Apple)?
+  - Get me the price for [stockname](Apple)
+  - Get me the current price for [stockname](Apple)
+  - Price of [stockname](Apple)
+  - '[stockname](Apple) price'
+  - Current price for [stockname](Apple)
+  - Last price for [stockname](Apple)
+
+  - What is the current price for [stockname](apple)?
+  - now price for [stockname](apple)
+  - Can I have the price for [stockname](apple)?
+  - May I get the current price for [stockname](apple)?
+  - Get me the price for [stockname](apple)
+  - Get me the current price for [stockname](apple)
+  - Price of [stockname](apple)
+  - '[stockname](apple) price'
+  - Current price for [stockname](apple)
+  - Last price for [stockname](apple)
+
+  - What is the current price for [stockname](GOOGL)?
+  - now price for [stockname](GOOGL)
+  - Can I have the price for [stockname](GOOGL)?
+  - May I get the current price for [stockname](GOOGL)?
+  - Get me the price for [stockname](GOOGL)
+  - Get me the current price for [stockname](GOOGL)
+  - Price of [stockname](GOOGL)
+  - '[stockname](GOOGL) price'
+  - Current price for [stockname](GOOGL)
+  - Last price for [stockname](GOOGL)
+
+  - What is the current price for [stockname](Google)?
+  - now price for [stockname](Google)
+  - Can I have the price for [stockname](Google)?
+  - May I get the current price for [stockname](Google)?
+  - Get me the price for [stockname](Google)
+  - Get me the current price for [stockname](Google)
+  - Price of [stockname](Google)
+  - '[stockname](Google) price'
+  - Current price for [stockname](Google)
+  - Last price for [stockname](Google)
+
+  - What is the current price for [stockname](google)?
+  - now price for [stockname](google)
+  - Can I have the price for [stockname](google)?
+  - May I get the current price for [stockname](google)?
+  - Get me the price for [stockname](google)
+  - Get me the current price for [stockname](google)
+  - Price of [stockname](google)
+  - '[stockname](google) price'
+  - Current price for [stockname](google)
+  - Last price for [stockname](google)
+
+  - What is the current price for [stockname](FB)?
+  - now price for [stockname](FB)
+  - Can I have the price for [stockname](FB)?
+  - May I get the current price for [stockname](FB)?
+  - Get me the price for [stockname](FB)
+  - Get me the current price for [stockname](FB)
+  - Price of [stockname](FB)
+  - '[stockname](FB) price'
+  - Current price for [stockname](FB)
+  - Last price for [stockname](FB)
+
+  - What is the current price for [stockname](Facebook)?
+  - now price for [stockname](Facebook)
+  - Can I have the price for [stockname](Facebook)?
+  - May I get the current price for [stockname](Facebook)?
+  - Get me the price for [stockname](Facebook)
+  - Get me the current price for [stockname](Facebook)
+  - Price of [stockname](Facebook)
+  - '[stockname](Facebook) price'
+  - Current price for [stockname](Facebook)
+  - Last price for [stockname](Facebook)
+
+  - What is the current price for [stockname](facebook)?
+  - now price for [stockname](facebook)
+  - Can I have the price for [stockname](facebook)?
+  - May I get the current price for [stockname](facebook)?
+  - Get me the price for [stockname](facebook)
+  - Get me the current price for [stockname](facebook)
+  - Price of [stockname](facebook)
+  - '[stockname](facebook) price'
+  - Current price for [stockname](facebook)
+  - Last price for [stockname](facebook)
+
+  - What is the current price for [stockname](AMZN)?
+  - now price for [stockname](AMZN)
+  - Can I have the price for [stockname](AMZN)?
+  - May I get the current price for [stockname](AMZN)?
+  - Get me the price for [stockname](AMZN)
+  - Get me the current price for [stockname](AMZN)
+  - Price of [stockname](AMZN)
+  - '[stockname](AMZN) price'
+  - Current price for [stockname](AMZN)
+  - Last price for [stockname](AMZN)
+
+  - What is the current price for [stockname](Amazon)?
+  - now price for [stockname](Amazon)
+  - Can I have the price for [stockname](Amazon)?
+  - May I get the current price for [stockname](Amazon)?
+  - Get me the price for [stockname](Amazon)
+  - Get me the current price for [stockname](Amazon)
+  - Price of [stockname](Amazon)
+  - '[stockname](Amazon) price'
+  - Current price for [stockname](Amazon)
+  - Last price for [stockname](Amazon)
+
+  - What is the current price for [stockname](amazon)?
+  - now price for [stockname](amazon)
+  - Can I have the price for [stockname](amazon)?
+  - May I get the current price for [stockname](amazon)?
+  - Get me the price for [stockname](amazon)
+  - Get me the current price for [stockname](amazon)
+  - Price of [stockname](amazon)
+  - '[stockname](amazon) price'
+  - Current price for [stockname](amazon)
+  - Last price for [stockname](amazon)
+
+  - What is the current price for [stockname](MSFT)?
+  - now price for [stockname](MSFT)
+  - Can I have the price for [stockname](MSFT)?
+  - May I get the current price for [stockname](MSFT)?
+  - Get me the price for [stockname](MSFT)
+  - Get me the current price for [stockname](MSFT)
+  - Price of [stockname](MSFT)
+  - '[stockname](MSFT) price'
+  - Current price for [stockname](MSFT)
+  - Last price for [stockname](MSFT)
+
+  - What is the current price for [stockname](Microsoft)?
+  - now price for [stockname](Microsoft)
+  - Can I have the price for [stockname](Microsoft)?
+  - May I get the current price for [stockname](Microsoft)?
+  - Get me the price for [stockname](Microsoft)
+  - Get me the current price for [stockname](Microsoft)
+  - Price of [stockname](Microsoft)
+  - '[stockname](Microsoft) price'
+  - Current price for [stockname](Microsoft)
+  - Last price for [stockname](Microsoft)
+
+  - What is the current price for [stockname](microsoft)?
+  - now price for [stockname](microsoft)
+  - Can I have the price for [stockname](microsoft)?
+  - May I get the current price for [stockname](microsoft)?
+  - Get me the price for [stockname](microsoft)
+  - Get me the current price for [stockname](microsoft)
+  - Price of [stockname](microsoft)
+  - '[stockname](microsoft) price'
+  - Current price for [stockname](microsoft)
+  - Last price for [stockname](microsoft)
+
+  - What is the current price for [stockname](BABA)?
+  - now price for [stockname](BABA)
+  - Can I have the price for [stockname](BABA)?
+  - May I get the current price for [stockname](BABA)?
+  - Get me the price for [stockname](BABA)
+  - Get me the current price for [stockname](BABA)
+  - Price of [stockname](BABA)
+  - '[stockname](BABA) price'
+  - Current price for [stockname](BABA)
+  - Last price for [stockname](BABA)
+
+  - What is the current price for [stockname](Alibaba)?
+  - now price for [stockname](Alibaba)
+  - Can I have the price for [stockname](Alibaba)?
+  - May I get the current price for [stockname](Alibaba)?
+  - Get me the price for [stockname](Alibaba)
+  - Get me the current price for [stockname](Alibaba)
+  - Price of [stockname](Alibaba)
+  - '[stockname](Alibaba) price'
+  - Current price for [stockname](Alibaba)
+  - Last price for [stockname](Alibaba)
+
+  - What is the current price for [stockname](alibaba)?
+  - now price for [stockname](alibaba)
+  - Can I have the price for [stockname](alibaba)?
+  - May I get the current price for [stockname](alibaba)?
+  - Get me the price for [stockname](alibaba)
+  - Get me the current price for [stockname](alibaba)
+  - Price of [stockname](alibaba)
+  - '[stockname](alibaba) price'
+  - Current price for [stockname](alibaba)
+  - Last price for [stockname](alibaba)
+
+  - What is the current price for [stockname](AMD)?
+  - now price for [stockname](AMD)
+  - Can I have the price for [stockname](AMD)?
+  - May I get the current price for [stockname](AMD)?
+  - Get me the price for [stockname](AMD)
+  - Get me the current price for [stockname](AMD)
+  - Price of [stockname](AMD)
+  - '[stockname](AMD) price'
+  - Current price for [stockname](AMD)
+  - Last price for [stockname](AMD)
+
+  - What is the current price for [stockname](Amd)?
+  - now price for [stockname](Amd)
+  - Can I have the price for [stockname](Amd)?
+  - May I get the current price for [stockname](Amd)?
+  - Get me the price for [stockname](Amd)
+  - Get me the current price for [stockname](Amd)
+  - Price of [stockname](Amd)
+  - '[stockname](Amd) price'
+  - Current price for [stockname](Amd)
+  - Last price for [stockname](Amd)
+
+  - What is the current price for [stockname](amd)?
+  - now price for [stockname](amd)
+  - Can I have the price for [stockname](amd)?
+  - May I get the current price for [stockname](amd)?
+  - Get me the price for [stockname](amd)
+  - Get me the current price for [stockname](amd)
+  - Price of [stockname](amd)
+  - '[stockname](amd) price'
+  - Current price for [stockname](amd)
+  - Last price for [stockname](amd)
+
+  - What is the current price for [stockname](INTC)?
+  - now price for [stockname](INTC)
+  - Can I have the price for [stockname](INTC)?
+  - May I get the current price for [stockname](INTC)?
+  - Get me the price for [stockname](INTC)
+  - Get me the current price for [stockname](INTC)
+  - Price of [stockname](INTC)
+  - '[stockname](INTC) price'
+  - Current price for [stockname](INTC)
+  - Last price for [stockname](INTC)
+
+  - What is the current price for [stockname](Intel)?
+  - now price for [stockname](Intel)
+  - Can I have the price for [stockname](Intel)?
+  - May I get the current price for [stockname](Intel)?
+  - Get me the price for [stockname](Intel)
+  - Get me the current price for [stockname](Intel)
+  - Price of [stockname](Intel)
+  - '[stockname](Intel) price'
+  - Current price for [stockname](Intel)
+  - Last price for [stockname](Intel)
+
+  - What is the current price for [stockname](intel)?
+  - now price for [stockname](intel)
+  - Can I have the price for [stockname](intel)?
+  - May I get the current price for [stockname](intel)?
+  - Get me the price for [stockname](intel)
+  - Get me the current price for [stockname](intel)
+  - Price of [stockname](intel)
+  - '[stockname](intel) price'
+  - Current price for [stockname](intel)
+  - Last price for [stockname](intel)
+
+  - What is the current price for [stockname](TSLA)?
+  - now price for [stockname](TSLA)
+  - Can I have the price for [stockname](TSLA)?
+  - May I get the current price for [stockname](TSLA)?
+  - Get me the price for [stockname](TSLA)
+  - Get me the current price for [stockname](TSLA)
+  - Price of [stockname](TSLA)
+  - '[stockname](TSLA) price'
+  - Current price for [stockname](TSLA)
+  - Last price for [stockname](TSLA)
+
+  - What is the current price for [stockname](Tesla)?
+  - now price for [stockname](Tesla)
+  - Can I have the price for [stockname](Tesla)?
+  - May I get the current price for [stockname](Tesla)?
+  - Get me the price for [stockname](Tesla)
+  - Get me the current price for [stockname](Tesla)
+  - Price of [stockname](Tesla)
+  - '[stockname](Tesla) price'
+  - Current price for [stockname](Tesla)
+  - Last price for [stockname](Tesla)
+
+  - What is the current price for [stockname](tesla)?
+  - now price for [stockname](tesla)
+  - Can I have the price for [stockname](tesla)?
+  - May I get the current price for [stockname](tesla)?
+  - Get me the price for [stockname](tesla)
+  - Get me the current price for [stockname](tesla)
+  - Price of [stockname](tesla)
+  - '[stockname](tesla) price'
+  - Current price for [stockname](tesla)
+  - Last price for [stockname](tesla)
+
+  - What is the current price for [stockname](DIA)?
+  - now price for [stockname](DIA)
+  - Can I have the price for [stockname](DIA)?
+  - May I get the current price for [stockname](DIA)?
+  - Get me the price for [stockname](DIA)
+  - Get me the current price for [stockname](DIA)
+  - Price of [stockname](DIA)
+  - '[stockname](DIA) price'
+  - Current price for [stockname](DIA)
+  - Last price for [stockname](DIA)
+
+  - What is the current price for [stockname](DowJones)?
+  - now price for [stockname](DowJones)
+  - Can I have the price for [stockname](DowJones)?
+  - May I get the current price for [stockname](DowJones)?
+  - Get me the price for [stockname](DowJones)
+  - Get me the current price for [stockname](DowJones)
+  - Price of [stockname](DowJones)
+  - '[stockname](DowJones) price'
+  - Current price for [stockname](DowJones)
+  - Last price for [stockname](DowJones)
+
+  - What is the current price for [stockname](Dow)?
+  - now price for [stockname](Dow)
+  - Can I have the price for [stockname](Dow)?
+  - May I get the current price for [stockname](Dow)?
+  - Get me the price for [stockname](Dow)
+  - Get me the current price for [stockname](Dow)
+  - Price of [stockname](Dow)
+  - '[stockname](Dow) price'
+  - Current price for [stockname](Dow)
+  - Last price for [stockname](Dow)
+
+  - What is the current price for [stockname](SPY)?
+  - now price for [stockname](SPY)
+  - Can I have the price for [stockname](SPY)?
+  - May I get the current price for [stockname](SPY)?
+  - Get me the price for [stockname](SPY)
+  - Get me the current price for [stockname](SPY)
+  - Price of [stockname](SPY)
+  - '[stockname](SPY) price'
+  - Current price for [stockname](SPY)
+  - Last price for [stockname](SPY)
+
+  - What is the current price for [stockname](Spider)?
+  - now price for [stockname](Spider)
+  - Can I have the price for [stockname](Spider)?
+  - May I get the current price for [stockname](Spider)?
+  - Get me the price for [stockname](Spider)
+  - Get me the current price for [stockname](Spider)
+  - Price of [stockname](Spider)
+  - '[stockname](Spider) price'
+  - Current price for [stockname](Spider)
+  - Last price for [stockname](Spider)
+
+  - What is the current price for [stockname](spider)?
+  - now price for [stockname](spider)
+  - Can I have the price for [stockname](spider)?
+  - May I get the current price for [stockname](spider)?
+  - Get me the price for [stockname](spider)
+  - Get me the current price for [stockname](spider)
+  - Price of [stockname](spider)
+  - '[stockname](spider) price'
+  - Current price for [stockname](spider)
+  - Last price for [stockname](spider)
+
+  - What is the current price for [stockname](TWTR)?
+  - now price for [stockname](TWTR)
+  - Can I have the price for [stockname](TWTR)?
+  - May I get the current price for [stockname](TWTR)?
+  - Get me the price for [stockname](TWTR)
+  - Get me the current price for [stockname](TWTR)
+  - Price of [stockname](TWTR)
+  - '[stockname](TWTR) price'
+  - Current price for [stockname](TWTR)
+  - Last price for [stockname](TWTR)
+
+  - What is the current price for [stockname](Twitter)?
+  - now price for [stockname](Twitter)
+  - Can I have the price for [stockname](Twitter)?
+  - May I get the current price for [stockname](Twitter)?
+  - Get me the price for [stockname](Twitter)
+  - Get me the current price for [stockname](Twitter)
+  - Price of [stockname](Twitter)
+  - '[stockname](Twitter) price'
+  - Current price for [stockname](Twitter)
+  - Last price for [stockname](Twitter)
+
+  - What is the current price for [stockname](twitter)?
+  - now price for [stockname](twitter)
+  - Can I have the price for [stockname](twitter)?
+  - May I get the current price for [stockname](twitter)?
+  - Get me the price for [stockname](twitter)
+  - Get me the current price for [stockname](twitter)
+  - Price of [stockname](twitter)
+  - '[stockname](twitter) price'
+  - Current price for [stockname](twitter)
+  - Last price for [stockname](twitter)
+ 
+
+---
+#AddWatchList Intent  add to my watchlist
+
+type: intent
+name: Finance_WatchlistE_Add
+slots:
+  - name: stockname
+    entity: stockname
+utterances:
+
+  - Add [stockname](AAPL) to my watchlist
+  - Add [stockname](AAPL) to my watchlist
+  - Please add [stockname](AAPL) to my watchlist
+  - Please add [stockname](AAPL) to my watchlist
+  - I want to add [stockname](AAPL) to my watchlist
+  - '[stockname](AAPL) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](AAPL) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](AAPL) in my watchlist
+  - Add [stockname](Apple) to my watchlist
+  - Add [stockname](Apple) to my watchlist
+  - Please add [stockname](Apple) to my watchlist
+  - Please add [stockname](Apple) to my watchlist
+  - I want to add [stockname](Apple) to my watchlist
+  - '[stockname](Apple) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](Apple) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](Apple) in my watchlist
+  - Add [stockname](apple) to my watchlist
+  - Add [stockname](apple) to my watchlist
+  - Please add [stockname](apple) to my watchlist
+  - Please add [stockname](apple) to my watchlist
+  - I want to add [stockname](apple) to my watchlist
+  - '[stockname](apple) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](apple) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](apple) in my watchlist
+  - Add [stockname](GOOGL) to my watchlist
+  - Add [stockname](GOOGL) to my watchlist
+  - Please add [stockname](GOOGL) to my watchlist
+  - Please add [stockname](GOOGL) to my watchlist
+  - I want to add [stockname](GOOGL) to my watchlist
+  - '[stockname](GOOGL) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](GOOGL) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](GOOGL) in my watchlist
+  - Add [stockname](Google) to my watchlist
+  - Add [stockname](Google) to my watchlist
+  - Please add [stockname](Google) to my watchlist
+  - Please add [stockname](Google) to my watchlist
+  - I want to add [stockname](Google) to my watchlist
+  - '[stockname](Google) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](Google) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](Google) in my watchlist
+  - Add [stockname](google) to my watchlist
+  - Add [stockname](google) to my watchlist
+  - Please add [stockname](google) to my watchlist
+  - Please add [stockname](google) to my watchlist
+  - I want to add [stockname](google) to my watchlist
+  - '[stockname](google) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](google) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](google) in my watchlist
+  - Add [stockname](FB) to my watchlist
+  - Add [stockname](FB) to my watchlist
+  - Please add [stockname](FB) to my watchlist
+  - Please add [stockname](FB) to my watchlist
+  - I want to add [stockname](FB) to my watchlist
+  - '[stockname](FB) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](FB) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](FB) in my watchlist
+  - Add [stockname](Facebook) to my watchlist
+  - Add [stockname](Facebook) to my watchlist
+  - Please add [stockname](Facebook) to my watchlist
+  - Please add [stockname](Facebook) to my watchlist
+  - I want to add [stockname](Facebook) to my watchlist
+  - '[stockname](Facebook) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](Facebook) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](Facebook) in my watchlist
+  - Add [stockname](facebook) to my watchlist
+  - Add [stockname](facebook) to my watchlist
+  - Please add [stockname](facebook) to my watchlist
+  - Please add [stockname](facebook) to my watchlist
+  - I want to add [stockname](facebook) to my watchlist
+  - '[stockname](facebook) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](facebook) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](facebook) in my watchlist
+  - Add [stockname](AMZN) to my watchlist
+  - Add [stockname](AMZN) to my watchlist
+  - Please add [stockname](AMZN) to my watchlist
+  - Please add [stockname](AMZN) to my watchlist
+  - I want to add [stockname](AMZN) to my watchlist
+  - '[stockname](AMZN) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](AMZN) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](AMZN) in my watchlist
+  - Add [stockname](Amazon) to my watchlist
+  - Add [stockname](Amazon) to my watchlist
+  - Please add [stockname](Amazon) to my watchlist
+  - Please add [stockname](Amazon) to my watchlist
+  - I want to add [stockname](Amazon) to my watchlist
+  - '[stockname](Amazon) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](Amazon) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](Amazon) in my watchlist
+  - Add [stockname](amazon) to my watchlist
+  - Add [stockname](amazon) to my watchlist
+  - Please add [stockname](amazon) to my watchlist
+  - Please add [stockname](amazon) to my watchlist
+  - I want to add [stockname](amazon) to my watchlist
+  - '[stockname](amazon) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](amazon) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](amazon) in my watchlist
+  - Add [stockname](MSFT) to my watchlist
+  - Add [stockname](MSFT) to my watchlist
+  - Please add [stockname](MSFT) to my watchlist
+  - Please add [stockname](MSFT) to my watchlist
+  - I want to add [stockname](MSFT) to my watchlist
+  - '[stockname](MSFT) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](MSFT) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](MSFT) in my watchlist
+  - Add [stockname](Microsoft) to my watchlist
+  - Add [stockname](Microsoft) to my watchlist
+  - Please add [stockname](Microsoft) to my watchlist
+  - Please add [stockname](Microsoft) to my watchlist
+  - I want to add [stockname](Microsoft) to my watchlist
+  - '[stockname](Microsoft) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](Microsoft) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](Microsoft) in my watchlist
+  - Add [stockname](microsoft) to my watchlist
+  - Add [stockname](microsoft) to my watchlist
+  - Please add [stockname](microsoft) to my watchlist
+  - Please add [stockname](microsoft) to my watchlist
+  - I want to add [stockname](microsoft) to my watchlist
+  - '[stockname](microsoft) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](microsoft) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](microsoft) in my watchlist
+  - Add [stockname](BABA) to my watchlist
+  - Add [stockname](BABA) to my watchlist
+  - Please add [stockname](BABA) to my watchlist
+  - Please add [stockname](BABA) to my watchlist
+  - I want to add [stockname](BABA) to my watchlist
+  - '[stockname](BABA) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](BABA) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](BABA) in my watchlist
+  - Add [stockname](Alibaba) to my watchlist
+  - Add [stockname](Alibaba) to my watchlist
+  - Please add [stockname](Alibaba) to my watchlist
+  - Please add [stockname](Alibaba) to my watchlist
+  - I want to add [stockname](Alibaba) to my watchlist
+  - '[stockname](Alibaba) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](Alibaba) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](Alibaba) in my watchlist
+  - Add [stockname](alibaba) to my watchlist
+  - Add [stockname](alibaba) to my watchlist
+  - Please add [stockname](alibaba) to my watchlist
+  - Please add [stockname](alibaba) to my watchlist
+  - I want to add [stockname](alibaba) to my watchlist
+  - '[stockname](alibaba) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](alibaba) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](alibaba) in my watchlist
+  - Add [stockname](AMD) to my watchlist
+  - Add [stockname](AMD) to my watchlist
+  - Please add [stockname](AMD) to my watchlist
+  - Please add [stockname](AMD) to my watchlist
+  - I want to add [stockname](AMD) to my watchlist
+  - '[stockname](AMD) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](AMD) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](AMD) in my watchlist
+  - Add [stockname](Amd) to my watchlist
+  - Add [stockname](Amd) to my watchlist
+  - Please add [stockname](Amd) to my watchlist
+  - Please add [stockname](Amd) to my watchlist
+  - I want to add [stockname](Amd) to my watchlist
+  - '[stockname](Amd) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](Amd) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](Amd) in my watchlist
+  - Add [stockname](amd) to my watchlist
+  - Add [stockname](amd) to my watchlist
+  - Please add [stockname](amd) to my watchlist
+  - Please add [stockname](amd) to my watchlist
+  - I want to add [stockname](amd) to my watchlist
+  - '[stockname](amd) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](amd) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](amd) in my watchlist
+  - Add [stockname](INTC) to my watchlist
+  - Add [stockname](INTC) to my watchlist
+  - Please add [stockname](INTC) to my watchlist
+  - Please add [stockname](INTC) to my watchlist
+  - I want to add [stockname](INTC) to my watchlist
+  - '[stockname](INTC) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](INTC) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](INTC) in my watchlist
+  - Add [stockname](Intel) to my watchlist
+  - Add [stockname](Intel) to my watchlist
+  - Please add [stockname](Intel) to my watchlist
+  - Please add [stockname](Intel) to my watchlist
+  - I want to add [stockname](Intel) to my watchlist
+  - '[stockname](Intel) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](Intel) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](Intel) in my watchlist
+  - Add [stockname](intel) to my watchlist
+  - Add [stockname](intel) to my watchlist
+  - Please add [stockname](intel) to my watchlist
+  - Please add [stockname](intel) to my watchlist
+  - I want to add [stockname](intel) to my watchlist
+  - '[stockname](intel) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](intel) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](intel) in my watchlist
+  - Add [stockname](TSLA) to my watchlist
+  - Add [stockname](TSLA) to my watchlist
+  - Please add [stockname](TSLA) to my watchlist
+  - Please add [stockname](TSLA) to my watchlist
+  - I want to add [stockname](TSLA) to my watchlist
+  - '[stockname](TSLA) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](TSLA) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](TSLA) in my watchlist
+  - Add [stockname](Tesla) to my watchlist
+  - Add [stockname](Tesla) to my watchlist
+  - Please add [stockname](Tesla) to my watchlist
+  - Please add [stockname](Tesla) to my watchlist
+  - I want to add [stockname](Tesla) to my watchlist
+  - '[stockname](Tesla) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](Tesla) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](Tesla) in my watchlist
+  - Add [stockname](tesla) to my watchlist
+  - Add [stockname](tesla) to my watchlist
+  - Please add [stockname](tesla) to my watchlist
+  - Please add [stockname](tesla) to my watchlist
+  - I want to add [stockname](tesla) to my watchlist
+  - '[stockname](tesla) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](tesla) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](tesla) in my watchlist
+  - Add [stockname](DIA) to my watchlist
+  - Add [stockname](DIA) to my watchlist
+  - Please add [stockname](DIA) to my watchlist
+  - Please add [stockname](DIA) to my watchlist
+  - I want to add [stockname](DIA) to my watchlist
+  - '[stockname](DIA) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](DIA) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](DIA) in my watchlist
+  - Add [stockname](DowJones) to my watchlist
+  - Add [stockname](DowJones) to my watchlist
+  - Please add [stockname](DowJones) to my watchlist
+  - Please add [stockname](DowJones) to my watchlist
+  - I want to add [stockname](DowJones) to my watchlist
+  - '[stockname](DowJones) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](DowJones) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](DowJones) in my watchlist
+  - Add [stockname](Dow) to my watchlist
+  - Add [stockname](Dow) to my watchlist
+  - Please add [stockname](Dow) to my watchlist
+  - Please add [stockname](Dow) to my watchlist
+  - I want to add [stockname](Dow) to my watchlist
+  - '[stockname](Dow) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](Dow) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](Dow) in my watchlist
+  - Add [stockname](SPY) to my watchlist
+  - Add [stockname](SPY) to my watchlist
+  - Please add [stockname](SPY) to my watchlist
+  - Please add [stockname](SPY) to my watchlist
+  - I want to add [stockname](SPY) to my watchlist
+  - '[stockname](SPY) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](SPY) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](SPY) in my watchlist
+  - Add [stockname](Spider) to my watchlist
+  - Add [stockname](Spider) to my watchlist
+  - Please add [stockname](Spider) to my watchlist
+  - Please add [stockname](Spider) to my watchlist
+  - I want to add [stockname](Spider) to my watchlist
+  - '[stockname](Spider) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](Spider) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](Spider) in my watchlist
+  - Add [stockname](spider) to my watchlist
+  - Add [stockname](spider) to my watchlist
+  - Please add [stockname](spider) to my watchlist
+  - Please add [stockname](spider) to my watchlist
+  - I want to add [stockname](spider) to my watchlist
+  - '[stockname](spider) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](spider) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](spider) in my watchlist
+  - Add [stockname](TWTR) to my watchlist
+  - Add [stockname](TWTR) to my watchlist
+  - Please add [stockname](TWTR) to my watchlist
+  - Please add [stockname](TWTR) to my watchlist
+  - I want to add [stockname](TWTR) to my watchlist
+  - '[stockname](TWTR) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](TWTR) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](TWTR) in my watchlist
+  - Add [stockname](Twitter) to my watchlist
+  - Add [stockname](Twitter) to my watchlist
+  - Please add [stockname](Twitter) to my watchlist
+  - Please add [stockname](Twitter) to my watchlist
+  - I want to add [stockname](Twitter) to my watchlist
+  - '[stockname](Twitter) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](Twitter) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](Twitter) in my watchlist
+  - Add [stockname](twitter) to my watchlist
+  - Add [stockname](twitter) to my watchlist
+  - Please add [stockname](twitter) to my watchlist
+  - Please add [stockname](twitter) to my watchlist
+  - I want to add [stockname](twitter) to my watchlist
+  - '[stockname](twitter) to my stocklist'
+  - Add to my watchlist
+  - Include in my watchlist
+  - Include [stockname](twitter) in my watchlist
+  - Please include to my watchlist
+  - I want [stockname](twitter) in my watchlist 
+
+
+---
+#DropWatchList Intent  delete from my watchlist
+
+type: intent
+name: Finance_WatchlistE_Drop
+slots:
+  - name: stockname
+    entity: stockname
+utterances:
+  - Delete [stockname](AAPL) from my watchlist
+  - Remove [stockname](AAPL) from my watchlist
+  - Please delete [stockname](AAPL) from my watchlist
+  - Please remove [stockname](AAPL) from my watchlist
+  - I want to delete [stockname](AAPL) from my watchlist
+  - delist [stockname](AAPL)
+  - delete [stockname](AAPL)
+  - remove [stockname](AAPL)
+  - delist [stockname](AAPL) from my watchlist
+  - pop [stockname](AAPL) out of my watchlist
+  - get [stockname](AAPL) out of my watchlist
+  - i dont want [stockname](AAPL) in my watchlist
+  - i do not want [stockname](AAPL) in my watchlist
+  - discard [stockname](AAPL)
+
+  - Delete [stockname](Apple) from my watchlist
+  - Remove [stockname](Apple) from my watchlist
+  - Please delete [stockname](Apple) from my watchlist
+  - Please remove [stockname](Apple) from my watchlist
+  - I want to delete [stockname](Apple) from my watchlist
+  - delist [stockname](Apple)
+  - delete [stockname](Apple)
+  - remove [stockname](Apple)
+  - delist [stockname](Apple) from my watchlist
+  - pop [stockname](Apple) out of my watchlist
+  - get [stockname](Apple) out of my watchlist
+  - i dont want [stockname](Apple) in my watchlist
+  - i do not want [stockname](Apple) in my watchlist
+  - discard [stockname](Apple)
+
+  - Delete [stockname](apple) from my watchlist
+  - Remove [stockname](apple) from my watchlist
+  - Please delete [stockname](apple) from my watchlist
+  - Please remove [stockname](apple) from my watchlist
+  - I want to delete [stockname](apple) from my watchlist
+  - delist [stockname](apple)
+  - delete [stockname](apple)
+  - remove [stockname](apple)
+  - delist [stockname](apple) from my watchlist
+  - pop [stockname](apple) out of my watchlist
+  - get [stockname](apple) out of my watchlist
+  - i dont want [stockname](apple) in my watchlist
+  - i do not want [stockname](apple) in my watchlist
+  - discard [stockname](apple)
+
+  - Delete [stockname](GOOGL) from my watchlist
+  - Remove [stockname](GOOGL) from my watchlist
+  - Please delete [stockname](GOOGL) from my watchlist
+  - Please remove [stockname](GOOGL) from my watchlist
+  - I want to delete [stockname](GOOGL) from my watchlist
+  - delist [stockname](GOOGL)
+  - delete [stockname](GOOGL)
+  - remove [stockname](GOOGL)
+  - delist [stockname](GOOGL) from my watchlist
+  - pop [stockname](GOOGL) out of my watchlist
+  - get [stockname](GOOGL) out of my watchlist
+  - i dont want [stockname](GOOGL) in my watchlist
+  - i do not want [stockname](GOOGL) in my watchlist
+  - discard [stockname](GOOGL)
+
+  - Delete [stockname](Google) from my watchlist
+  - Remove [stockname](Google) from my watchlist
+  - Please delete [stockname](Google) from my watchlist
+  - Please remove [stockname](Google) from my watchlist
+  - I want to delete [stockname](Google) from my watchlist
+  - delist [stockname](Google)
+  - delete [stockname](Google)
+  - remove [stockname](Google)
+  - delist [stockname](Google) from my watchlist
+  - pop [stockname](Google) out of my watchlist
+  - get [stockname](Google) out of my watchlist
+  - i dont want [stockname](Google) in my watchlist
+  - i do not want [stockname](Google) in my watchlist
+  - discard [stockname](Google)
+
+  - Delete [stockname](google) from my watchlist
+  - Remove [stockname](google) from my watchlist
+  - Please delete [stockname](google) from my watchlist
+  - Please remove [stockname](google) from my watchlist
+  - I want to delete [stockname](google) from my watchlist
+  - delist [stockname](google)
+  - delete [stockname](google)
+  - remove [stockname](google)
+  - delist [stockname](google) from my watchlist
+  - pop [stockname](google) out of my watchlist
+  - get [stockname](google) out of my watchlist
+  - i dont want [stockname](google) in my watchlist
+  - i do not want [stockname](google) in my watchlist
+  - discard [stockname](google)
+
+  - Delete [stockname](FB) from my watchlist
+  - Remove [stockname](FB) from my watchlist
+  - Please delete [stockname](FB) from my watchlist
+  - Please remove [stockname](FB) from my watchlist
+  - I want to delete [stockname](FB) from my watchlist
+  - delist [stockname](FB)
+  - delete [stockname](FB)
+  - remove [stockname](FB)
+  - delist [stockname](FB) from my watchlist
+  - pop [stockname](FB) out of my watchlist
+  - get [stockname](FB) out of my watchlist
+  - i dont want [stockname](FB) in my watchlist
+  - i do not want [stockname](FB) in my watchlist
+  - discard [stockname](FB)
+
+  - Delete [stockname](Facebook) from my watchlist
+  - Remove [stockname](Facebook) from my watchlist
+  - Please delete [stockname](Facebook) from my watchlist
+  - Please remove [stockname](Facebook) from my watchlist
+  - I want to delete [stockname](Facebook) from my watchlist
+  - delist [stockname](Facebook)
+  - delete [stockname](Facebook)
+  - remove [stockname](Facebook)
+  - delist [stockname](Facebook) from my watchlist
+  - pop [stockname](Facebook) out of my watchlist
+  - get [stockname](Facebook) out of my watchlist
+  - i dont want [stockname](Facebook) in my watchlist
+  - i do not want [stockname](Facebook) in my watchlist
+  - discard [stockname](Facebook)
+
+  - Delete [stockname](facebook) from my watchlist
+  - Remove [stockname](facebook) from my watchlist
+  - Please delete [stockname](facebook) from my watchlist
+  - Please remove [stockname](facebook) from my watchlist
+  - I want to delete [stockname](facebook) from my watchlist
+  - delist [stockname](facebook)
+  - delete [stockname](facebook)
+  - remove [stockname](facebook)
+  - delist [stockname](facebook) from my watchlist
+  - pop [stockname](facebook) out of my watchlist
+  - get [stockname](facebook) out of my watchlist
+  - i dont want [stockname](facebook) in my watchlist
+  - i do not want [stockname](facebook) in my watchlist
+  - discard [stockname](facebook)
+
+  - Delete [stockname](AMZN) from my watchlist
+  - Remove [stockname](AMZN) from my watchlist
+  - Please delete [stockname](AMZN) from my watchlist
+  - Please remove [stockname](AMZN) from my watchlist
+  - I want to delete [stockname](AMZN) from my watchlist
+  - delist [stockname](AMZN)
+  - delete [stockname](AMZN)
+  - remove [stockname](AMZN)
+  - delist [stockname](AMZN) from my watchlist
+  - pop [stockname](AMZN) out of my watchlist
+  - get [stockname](AMZN) out of my watchlist
+  - i dont want [stockname](AMZN) in my watchlist
+  - i do not want [stockname](AMZN) in my watchlist
+  - discard [stockname](AMZN)
+
+  - Delete [stockname](Amazon) from my watchlist
+  - Remove [stockname](Amazon) from my watchlist
+  - Please delete [stockname](Amazon) from my watchlist
+  - Please remove [stockname](Amazon) from my watchlist
+  - I want to delete [stockname](Amazon) from my watchlist
+  - delist [stockname](Amazon)
+  - delete [stockname](Amazon)
+  - remove [stockname](Amazon)
+  - delist [stockname](Amazon) from my watchlist
+  - pop [stockname](Amazon) out of my watchlist
+  - get [stockname](Amazon) out of my watchlist
+  - i dont want [stockname](Amazon) in my watchlist
+  - i do not want [stockname](Amazon) in my watchlist
+  - discard [stockname](Amazon)
+
+  - Delete [stockname](amazon) from my watchlist
+  - Remove [stockname](amazon) from my watchlist
+  - Please delete [stockname](amazon) from my watchlist
+  - Please remove [stockname](amazon) from my watchlist
+  - I want to delete [stockname](amazon) from my watchlist
+  - delist [stockname](amazon)
+  - delete [stockname](amazon)
+  - remove [stockname](amazon)
+  - delist [stockname](amazon) from my watchlist
+  - pop [stockname](amazon) out of my watchlist
+  - get [stockname](amazon) out of my watchlist
+  - i dont want [stockname](amazon) in my watchlist
+  - i do not want [stockname](amazon) in my watchlist
+  - discard [stockname](amazon)
+
+  - Delete [stockname](MSFT) from my watchlist
+  - Remove [stockname](MSFT) from my watchlist
+  - Please delete [stockname](MSFT) from my watchlist
+  - Please remove [stockname](MSFT) from my watchlist
+  - I want to delete [stockname](MSFT) from my watchlist
+  - delist [stockname](MSFT)
+  - delete [stockname](MSFT)
+  - remove [stockname](MSFT)
+  - delist [stockname](MSFT) from my watchlist
+  - pop [stockname](MSFT) out of my watchlist
+  - get [stockname](MSFT) out of my watchlist
+  - i dont want [stockname](MSFT) in my watchlist
+  - i do not want [stockname](MSFT) in my watchlist
+  - discard [stockname](MSFT)
+
+  - Delete [stockname](Microsoft) from my watchlist
+  - Remove [stockname](Microsoft) from my watchlist
+  - Please delete [stockname](Microsoft) from my watchlist
+  - Please remove [stockname](Microsoft) from my watchlist
+  - I want to delete [stockname](Microsoft) from my watchlist
+  - delist [stockname](Microsoft)
+  - delete [stockname](Microsoft)
+  - remove [stockname](Microsoft)
+  - delist [stockname](Microsoft) from my watchlist
+  - pop [stockname](Microsoft) out of my watchlist
+  - get [stockname](Microsoft) out of my watchlist
+  - i dont want [stockname](Microsoft) in my watchlist
+  - i do not want [stockname](Microsoft) in my watchlist
+  - discard [stockname](Microsoft)
+
+  - Delete [stockname](microsoft) from my watchlist
+  - Remove [stockname](microsoft) from my watchlist
+  - Please delete [stockname](microsoft) from my watchlist
+  - Please remove [stockname](microsoft) from my watchlist
+  - I want to delete [stockname](microsoft) from my watchlist
+  - delist [stockname](microsoft)
+  - delete [stockname](microsoft)
+  - remove [stockname](microsoft)
+  - delist [stockname](microsoft) from my watchlist
+  - pop [stockname](microsoft) out of my watchlist
+  - get [stockname](microsoft) out of my watchlist
+  - i dont want [stockname](microsoft) in my watchlist
+  - i do not want [stockname](microsoft) in my watchlist
+  - discard [stockname](microsoft)
+
+  - Delete [stockname](BABA) from my watchlist
+  - Remove [stockname](BABA) from my watchlist
+  - Please delete [stockname](BABA) from my watchlist
+  - Please remove [stockname](BABA) from my watchlist
+  - I want to delete [stockname](BABA) from my watchlist
+  - delist [stockname](BABA)
+  - delete [stockname](BABA)
+  - remove [stockname](BABA)
+  - delist [stockname](BABA) from my watchlist
+  - pop [stockname](BABA) out of my watchlist
+  - get [stockname](BABA) out of my watchlist
+  - i dont want [stockname](BABA) in my watchlist
+  - i do not want [stockname](BABA) in my watchlist
+  - discard [stockname](BABA)
+
+  - Delete [stockname](Alibaba) from my watchlist
+  - Remove [stockname](Alibaba) from my watchlist
+  - Please delete [stockname](Alibaba) from my watchlist
+  - Please remove [stockname](Alibaba) from my watchlist
+  - I want to delete [stockname](Alibaba) from my watchlist
+  - delist [stockname](Alibaba)
+  - delete [stockname](Alibaba)
+  - remove [stockname](Alibaba)
+  - delist [stockname](Alibaba) from my watchlist
+  - pop [stockname](Alibaba) out of my watchlist
+  - get [stockname](Alibaba) out of my watchlist
+  - i dont want [stockname](Alibaba) in my watchlist
+  - i do not want [stockname](Alibaba) in my watchlist
+  - discard [stockname](Alibaba)
+
+  - Delete [stockname](alibaba) from my watchlist
+  - Remove [stockname](alibaba) from my watchlist
+  - Please delete [stockname](alibaba) from my watchlist
+  - Please remove [stockname](alibaba) from my watchlist
+  - I want to delete [stockname](alibaba) from my watchlist
+  - delist [stockname](alibaba)
+  - delete [stockname](alibaba)
+  - remove [stockname](alibaba)
+  - delist [stockname](alibaba) from my watchlist
+  - pop [stockname](alibaba) out of my watchlist
+  - get [stockname](alibaba) out of my watchlist
+  - i dont want [stockname](alibaba) in my watchlist
+  - i do not want [stockname](alibaba) in my watchlist
+  - discard [stockname](alibaba)
+
+  - Delete [stockname](AMD) from my watchlist
+  - Remove [stockname](AMD) from my watchlist
+  - Please delete [stockname](AMD) from my watchlist
+  - Please remove [stockname](AMD) from my watchlist
+  - I want to delete [stockname](AMD) from my watchlist
+  - delist [stockname](AMD)
+  - delete [stockname](AMD)
+  - remove [stockname](AMD)
+  - delist [stockname](AMD) from my watchlist
+  - pop [stockname](AMD) out of my watchlist
+  - get [stockname](AMD) out of my watchlist
+  - i dont want [stockname](AMD) in my watchlist
+  - i do not want [stockname](AMD) in my watchlist
+  - discard [stockname](AMD)
+
+  - Delete [stockname](Amd) from my watchlist
+  - Remove [stockname](Amd) from my watchlist
+  - Please delete [stockname](Amd) from my watchlist
+  - Please remove [stockname](Amd) from my watchlist
+  - I want to delete [stockname](Amd) from my watchlist
+  - delist [stockname](Amd)
+  - delete [stockname](Amd)
+  - remove [stockname](Amd)
+  - delist [stockname](Amd) from my watchlist
+  - pop [stockname](Amd) out of my watchlist
+  - get [stockname](Amd) out of my watchlist
+  - i dont want [stockname](Amd) in my watchlist
+  - i do not want [stockname](Amd) in my watchlist
+  - discard [stockname](Amd)
+
+  - Delete [stockname](amd) from my watchlist
+  - Remove [stockname](amd) from my watchlist
+  - Please delete [stockname](amd) from my watchlist
+  - Please remove [stockname](amd) from my watchlist
+  - I want to delete [stockname](amd) from my watchlist
+  - delist [stockname](amd)
+  - delete [stockname](amd)
+  - remove [stockname](amd)
+  - delist [stockname](amd) from my watchlist
+  - pop [stockname](amd) out of my watchlist
+  - get [stockname](amd) out of my watchlist
+  - i dont want [stockname](amd) in my watchlist
+  - i do not want [stockname](amd) in my watchlist
+  - discard [stockname](amd)
+
+  - Delete [stockname](INTC) from my watchlist
+  - Remove [stockname](INTC) from my watchlist
+  - Please delete [stockname](INTC) from my watchlist
+  - Please remove [stockname](INTC) from my watchlist
+  - I want to delete [stockname](INTC) from my watchlist
+  - delist [stockname](INTC)
+  - delete [stockname](INTC)
+  - remove [stockname](INTC)
+  - delist [stockname](INTC) from my watchlist
+  - pop [stockname](INTC) out of my watchlist
+  - get [stockname](INTC) out of my watchlist
+  - i dont want [stockname](INTC) in my watchlist
+  - i do not want [stockname](INTC) in my watchlist
+  - discard [stockname](INTC)
+
+  - Delete [stockname](Intel) from my watchlist
+  - Remove [stockname](Intel) from my watchlist
+  - Please delete [stockname](Intel) from my watchlist
+  - Please remove [stockname](Intel) from my watchlist
+  - I want to delete [stockname](Intel) from my watchlist
+  - delist [stockname](Intel)
+  - delete [stockname](Intel)
+  - remove [stockname](Intel)
+  - delist [stockname](Intel) from my watchlist
+  - pop [stockname](Intel) out of my watchlist
+  - get [stockname](Intel) out of my watchlist
+  - i dont want [stockname](Intel) in my watchlist
+  - i do not want [stockname](Intel) in my watchlist
+  - discard [stockname](Intel)
+
+  - Delete [stockname](intel) from my watchlist
+  - Remove [stockname](intel) from my watchlist
+  - Please delete [stockname](intel) from my watchlist
+  - Please remove [stockname](intel) from my watchlist
+  - I want to delete [stockname](intel) from my watchlist
+  - delist [stockname](intel)
+  - delete [stockname](intel)
+  - remove [stockname](intel)
+  - delist [stockname](intel) from my watchlist
+  - pop [stockname](intel) out of my watchlist
+  - get [stockname](intel) out of my watchlist
+  - i dont want [stockname](intel) in my watchlist
+  - i do not want [stockname](intel) in my watchlist
+  - discard [stockname](intel)
+
+  - Delete [stockname](TSLA) from my watchlist
+  - Remove [stockname](TSLA) from my watchlist
+  - Please delete [stockname](TSLA) from my watchlist
+  - Please remove [stockname](TSLA) from my watchlist
+  - I want to delete [stockname](TSLA) from my watchlist
+  - delist [stockname](TSLA)
+  - delete [stockname](TSLA)
+  - remove [stockname](TSLA)
+  - delist [stockname](TSLA) from my watchlist
+  - pop [stockname](TSLA) out of my watchlist
+  - get [stockname](TSLA) out of my watchlist
+  - i dont want [stockname](TSLA) in my watchlist
+  - i do not want [stockname](TSLA) in my watchlist
+  - discard [stockname](TSLA)
+
+  - Delete [stockname](Tesla) from my watchlist
+  - Remove [stockname](Tesla) from my watchlist
+  - Please delete [stockname](Tesla) from my watchlist
+  - Please remove [stockname](Tesla) from my watchlist
+  - I want to delete [stockname](Tesla) from my watchlist
+  - delist [stockname](Tesla)
+  - delete [stockname](Tesla)
+  - remove [stockname](Tesla)
+  - delist [stockname](Tesla) from my watchlist
+  - pop [stockname](Tesla) out of my watchlist
+  - get [stockname](Tesla) out of my watchlist
+  - i dont want [stockname](Tesla) in my watchlist
+  - i do not want [stockname](Tesla) in my watchlist
+  - discard [stockname](Tesla)
+
+  - Delete [stockname](tesla) from my watchlist
+  - Remove [stockname](tesla) from my watchlist
+  - Please delete [stockname](tesla) from my watchlist
+  - Please remove [stockname](tesla) from my watchlist
+  - I want to delete [stockname](tesla) from my watchlist
+  - delist [stockname](tesla)
+  - delete [stockname](tesla)
+  - remove [stockname](tesla)
+  - delist [stockname](tesla) from my watchlist
+  - pop [stockname](tesla) out of my watchlist
+  - get [stockname](tesla) out of my watchlist
+  - i dont want [stockname](tesla) in my watchlist
+  - i do not want [stockname](tesla) in my watchlist
+  - discard [stockname](tesla)
+
+  - Delete [stockname](DIA) from my watchlist
+  - Remove [stockname](DIA) from my watchlist
+  - Please delete [stockname](DIA) from my watchlist
+  - Please remove [stockname](DIA) from my watchlist
+  - I want to delete [stockname](DIA) from my watchlist
+  - delist [stockname](DIA)
+  - delete [stockname](DIA)
+  - remove [stockname](DIA)
+  - delist [stockname](DIA) from my watchlist
+  - pop [stockname](DIA) out of my watchlist
+  - get [stockname](DIA) out of my watchlist
+  - i dont want [stockname](DIA) in my watchlist
+  - i do not want [stockname](DIA) in my watchlist
+  - discard [stockname](DIA)
+
+  - Delete [stockname](DowJones) from my watchlist
+  - Remove [stockname](DowJones) from my watchlist
+  - Please delete [stockname](DowJones) from my watchlist
+  - Please remove [stockname](DowJones) from my watchlist
+  - I want to delete [stockname](DowJones) from my watchlist
+  - delist [stockname](DowJones)
+  - delete [stockname](DowJones)
+  - remove [stockname](DowJones)
+  - delist [stockname](DowJones) from my watchlist
+  - pop [stockname](DowJones) out of my watchlist
+  - get [stockname](DowJones) out of my watchlist
+  - i dont want [stockname](DowJones) in my watchlist
+  - i do not want [stockname](DowJones) in my watchlist
+  - discard [stockname](DowJones)
+
+  - Delete [stockname](Dow) from my watchlist
+  - Remove [stockname](Dow) from my watchlist
+  - Please delete [stockname](Dow) from my watchlist
+  - Please remove [stockname](Dow) from my watchlist
+  - I want to delete [stockname](Dow) from my watchlist
+  - delist [stockname](Dow)
+  - delete [stockname](Dow)
+  - remove [stockname](Dow)
+  - delist [stockname](Dow) from my watchlist
+  - pop [stockname](Dow) out of my watchlist
+  - get [stockname](Dow) out of my watchlist
+  - i dont want [stockname](Dow) in my watchlist
+  - i do not want [stockname](Dow) in my watchlist
+  - discard [stockname](Dow)
+
+  - Delete [stockname](SPY) from my watchlist
+  - Remove [stockname](SPY) from my watchlist
+  - Please delete [stockname](SPY) from my watchlist
+  - Please remove [stockname](SPY) from my watchlist
+  - I want to delete [stockname](SPY) from my watchlist
+  - delist [stockname](SPY)
+  - delete [stockname](SPY)
+  - remove [stockname](SPY)
+  - delist [stockname](SPY) from my watchlist
+  - pop [stockname](SPY) out of my watchlist
+  - get [stockname](SPY) out of my watchlist
+  - i dont want [stockname](SPY) in my watchlist
+  - i do not want [stockname](SPY) in my watchlist
+  - discard [stockname](SPY)
+
+  - Delete [stockname](Spider) from my watchlist
+  - Remove [stockname](Spider) from my watchlist
+  - Please delete [stockname](Spider) from my watchlist
+  - Please remove [stockname](Spider) from my watchlist
+  - I want to delete [stockname](Spider) from my watchlist
+  - delist [stockname](Spider)
+  - delete [stockname](Spider)
+  - remove [stockname](Spider)
+  - delist [stockname](Spider) from my watchlist
+  - pop [stockname](Spider) out of my watchlist
+  - get [stockname](Spider) out of my watchlist
+  - i dont want [stockname](Spider) in my watchlist
+  - i do not want [stockname](Spider) in my watchlist
+  - discard [stockname](Spider)
+
+  - Delete [stockname](spider) from my watchlist
+  - Remove [stockname](spider) from my watchlist
+  - Please delete [stockname](spider) from my watchlist
+  - Please remove [stockname](spider) from my watchlist
+  - I want to delete [stockname](spider) from my watchlist
+  - delist [stockname](spider)
+  - delete [stockname](spider)
+  - remove [stockname](spider)
+  - delist [stockname](spider) from my watchlist
+  - pop [stockname](spider) out of my watchlist
+  - get [stockname](spider) out of my watchlist
+  - i dont want [stockname](spider) in my watchlist
+  - i do not want [stockname](spider) in my watchlist
+  - discard [stockname](spider)
+
+  - Delete [stockname](TWTR) from my watchlist
+  - Remove [stockname](TWTR) from my watchlist
+  - Please delete [stockname](TWTR) from my watchlist
+  - Please remove [stockname](TWTR) from my watchlist
+  - I want to delete [stockname](TWTR) from my watchlist
+  - delist [stockname](TWTR)
+  - delete [stockname](TWTR)
+  - remove [stockname](TWTR)
+  - delist [stockname](TWTR) from my watchlist
+  - pop [stockname](TWTR) out of my watchlist
+  - get [stockname](TWTR) out of my watchlist
+  - i dont want [stockname](TWTR) in my watchlist
+  - i do not want [stockname](TWTR) in my watchlist
+  - discard [stockname](TWTR)
+
+  - Delete [stockname](Twitter) from my watchlist
+  - Remove [stockname](Twitter) from my watchlist
+  - Please delete [stockname](Twitter) from my watchlist
+  - Please remove [stockname](Twitter) from my watchlist
+  - I want to delete [stockname](Twitter) from my watchlist
+  - delist [stockname](Twitter)
+  - delete [stockname](Twitter)
+  - remove [stockname](Twitter)
+  - delist [stockname](Twitter) from my watchlist
+  - pop [stockname](Twitter) out of my watchlist
+  - get [stockname](Twitter) out of my watchlist
+  - i dont want [stockname](Twitter) in my watchlist
+  - i do not want [stockname](Twitter) in my watchlist
+  - discard [stockname](Twitter)
+
+  - Delete [stockname](twitter) from my watchlist
+  - Remove [stockname](twitter) from my watchlist
+  - Please delete [stockname](twitter) from my watchlist
+  - Please remove [stockname](twitter) from my watchlist
+  - I want to delete [stockname](twitter) from my watchlist
+  - delist [stockname](twitter)
+  - delete [stockname](twitter)
+  - remove [stockname](twitter)
+  - delist [stockname](twitter) from my watchlist
+  - pop [stockname](twitter) out of my watchlist
+  - get [stockname](twitter) out of my watchlist
+  - i dont want [stockname](twitter) in my watchlist
+  - i do not want [stockname](twitter) in my watchlist
+  - discard [stockname](twitter)]
+
+---
+#ClearWatchList Intent  Clear my watchlist
+
+type: intent
+name: Finance_WatchlistE_Clear
+
+utterances:
+  - Clear my watchlist
+  - Remove all from my watchlist
+  - Remove all stocks from my watchlist
+  - New watchlist
+  - Discard all from my watchlist
+  - delete all from my watchlist
+  - clear all stocks from my watchlist
+  - remove all stocks
+  - clear all stocks
+  - empty my watchlist
+
+
+---
+
+type: intent
+name: Finance_slots_ticker
+
+utterances:
+  - Apple
+  - apple
+  - Apple
+  - appl
+  - AAPL
+  - Google
+  - google
+  - googl
+  - GOOGL
+  - Facebook
+  - facebook
+  - fb
+  - FB
+  - Fb
+  - Amazon
+  - amazon
+  - amzn
+  - AMZN
+  - Amzn
+  - Microsoft
+  - microsoft
+  - Msft
+  - msft
+  - MSFT
+  - Alibaba
+  - alibaba
+  - baba
+  - Baba
+  - BABA
+  - amd
+  - Amd
+  - AMD
+  - Intel
+  - intel
+  - intc
+  - INTC
+  - Tesla
+  - tesla
+  - tsla
+  - TSLA
+  - Tsla
+  - Dow Jones
+  - Dow
+  - dow
+  - dow jones
+  - dia
+  - DIA
+  - Spider
+  - spider
+  - spy
+  - SPY
+  - Twitter
+  - twitter
+  - twtr
+  - TWTR
+
+---
+
+type: intent
+name: Finance_slots_days
+
+utterances:
+  - '3'
+  - '3 days'
+  - three days
+  - three
+  - '5'
+  - '5 days'
+  - five days
+  - five
+  - '7'
+  - '7 days'
+  - seven days
+  - seven
+
+---
+type: entity
+name: stockname
+automatically_extensible: yes
+values:
+- [AAPL, Apple, apple]
+- [GOOGL,Google, google]
+- [FB,Facebook, facebook]
+- [AMZN,Amazon, amazon]
+- [MSFT,Microsoft, microsoft]
+- [BABA, Alibaba, alibaba]
+- [AMD, Amd, amd]
+- [INTC  ,Intel, intel]
+- [TSLA ,Tesla, tesla]
+- [DIA,Dow Jones,Dow, dow jones]
+- [SPY,Spider, spider]
+- [TWTR ,Twitter, twitter]
+---
+type: entity
+name: numberofdays
+automatically_extensible: yes
+values:
+- ['1']
+- ['3']
+- ['5']
+- [today]
+- [tomorrow]
+- [yesterday]
+
+
+

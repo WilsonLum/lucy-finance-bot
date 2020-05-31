@@ -1,0 +1,37 @@
+Steps for Data collection and analysis
+1. Twitters data scrapping
+	- Collect labelled twiter data.ipynb
+	- output to data/stock_tweets_Mar-02-2020.xlsx
+2. Twitters labelled Data collection
+	- Input from https://github.com/poojathakoor/twitter-stock-sentiment
+	- Collect "labelled twiter data.ipynb"
+	- output todata/twiters_label_data.xlsx
+3. Stocktwits data Scrapping
+	- Input stocktwits 
+	- StockTwits_Scrapper.ipynb
+	- output to Stocktwits/{stockname}.json
+4. Reuter News Scrapping
+	- Reuter_news_scraper.ipynb
+	- Output to reuters.pkl
+	
+Dataset Processing
+1. Stocktwits data processing
+	- inout stocktwits.pkl
+	- Stocktwits Analysis.ipynb
+	- Output to data/stocktwits_Mar-08-2020.xlsx
+2. Reuter Data Processing data Processing
+	- input reuters.pkl
+	- .ipynb
+	- output to ReuterNews/{stockname}.json
+
+
+Sentiment Label Model Training
+1. Stocktwits-Twitters data Label Machine Learning Model training
+	- Input from stocktwits_sentiment_subjectivity_Feb-01-2020_p.xlsx and twiters_label_data_Feb-02-2020.xlsx
+	- Stocktwits-Twitters data Label Model training.ipynb
+	- Output to finalized_SVM_model.sav
+
+2. Stocktwits-Twitters data Label Keras FNN Model training
+	- Input from stocktwits_sentiment_subjectivity_Feb-01-2020_p.xlsx and twiters_label_data_Feb-02-2020.xlsx
+	- Stocktwits Keras FNN for sentiment analysis.ipynb
+	- Output to Keras_FNN_model.h5 & finalized_Keras_model.sav

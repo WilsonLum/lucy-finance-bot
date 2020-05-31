@@ -1,0 +1,83 @@
+# lucy-fin-bot
+Telegram based chatbot for trending financial news, sentiment analysis and stock predictions
+
+
+Installation
+-------------
+1) Creating Environment
+	conda create -n venv python=3.7 scikit-learn pandas numpy pickle nltk itertools spacy pydot pytorch
+2) Activating Environment
+	conda activate venv
+3) Installing other packages
+	pip install python-telegram-bot pycrfsuite 
+	python -m spacy download en_core_web_sm
+	
+	*** USE THE FOLLOWING ONLY IF YOU NEED TO EDIT TRAINING PHRASES ***
+	pip install snips-nlu 
+
+Running the Bot
+---------------
+1) Edit run.py. Change TokenKey = "your token key"
+2) Use Spyder to execute run.py
+
+
+Editing the Training Utterance/Slots
+------------------------------------
+1) Make sure that snips-nlu is installed
+2) Go to Dataset/YAML folder
+3) Create YAML File with the format provided (use smalltalk.yaml, intent should be groupname_intent)
+4) Converting YAML to JSON
+	Command line: snips-nlu generate-dataset en dataset.yaml > dataset.json
+5) Cut Json file to Dataset/Converted
+6) Go to Training/Training.py
+7) Find and edit:
+	def train():
+            trainingfile = "Dataset\\Converted\\yourfile.json"
+	    intentdataset(trainingfile)
+	    slotdetection(trainingfile)
+8) Training will automatically run when run.py is initiated
+
+
+Editing Response based on Intent
+---------------------------------
+1) Response is Grouped by groupname in different py files, for smalltalk, smalltalk.py etc.
+	Refer to utils\utterance.py getreply function for reference
+2) Function names should be the same as intent
+
+
+
+Files and Folders Orientation
+-------------------------------
+1) Folders
+	- conversation
+		Where all the responses are stored
+	- Dataset
+		Where all training data YAML/JSON files are stored
+	- models
+		Where all the trained models are deposited
+	- Slotsfill ( In progress )
+		Intended for slot request and replies
+	- Training
+		Script to train models
+	- utils
+		Script which handles Conversations
+
+2) Files
+	Conversation/smalltalk.py
+		Handles all smalltalk replies
+	Conversation/fallback.py
+		Handles all fallback replies
+	Conversation/stocks.py
+		Handles all finance talk replies
+	Training/Training.py
+		Trains models for an intelligent chatbot
+	Utils/slots.py
+		Slots detection script ( In Progress )
+	Utils/utterance.py
+		Intent detection script( In Progress )
+		Handles Intent to Responses and slot filling
+	./run.py
+		Trains Model on initialization
+		Stores Global Variables
+		Interface with Telegram
+		Interface with utterance.py
